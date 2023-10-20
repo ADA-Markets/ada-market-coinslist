@@ -1,6 +1,4 @@
-import CoinsResponse from "../../coins/coins.service";
-
-export const CoinList: CoinsResponse[] = [
+[
    {
       "title": "ADA",
       "project": "Cardano",

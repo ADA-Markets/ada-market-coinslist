@@ -23,7 +23,7 @@
       "decimals": 6,
       "project": "JPG TOKEN",
       "title": "JPG",
-      "img": '/assets/images/coins/jpg.png',
+      "img": "/assets/images/coins/jpg.png",
       "quantity": 0
    },
    {

@@ -36,6 +36,15 @@
       "quantity": 0
    },
    {
+      "policyId": "51a5e236c4de3af2b8020442e2a26f454fda3b04cb621c1294a0ef34",
+      "nameHex": "424f4f4b",
+      "decimals": 6,
+      "project": "Book",
+      "title": "BOOK",
+      "img": "/assets/images/coins/book.png",
+      "quantity": 0
+   },
+   {
       "policyId": "8fef2d34078659493ce161a6c7fba4b56afefa8535296a5743f69587",
       "nameHex": "41414441",
       "decimals": 6,
@@ -356,7 +365,7 @@
       "decimals": 6,
       "project": "Genius X",
       "title": "GENSX",
-      "img": "/assets/images/coins/gens.png",
+      "img": "/assets/images/coins/gensx.png",
       "quantity": 0
    },
    {

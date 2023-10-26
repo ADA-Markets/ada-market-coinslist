@@ -682,5 +682,41 @@
       "title": "ADO",
       "img": "/assets/images/coins/ado.png",
       "quantity": 0
-   }
+   },
+   {
+      "policyId": "724a31d1421744cac3bb1d547aa692b43517d651c46e60a0cf1f70ec",
+      "nameHex": "444f444f",
+      "decimals": 6,
+      "project": "DODO",
+      "title": "DODO",
+      "img": "/assets/images/coins/dodo.png",
+      "quantity": 0
+   },
+   {
+      "policyId": "724a31d1421744cac3bb1d547aa692b43517d651c46e60a0cf1f70ec",
+      "nameHex": "5452544c",
+      "decimals": 0,
+      "project": "TRTL",
+      "title": "Tortol",
+      "img": "/assets/images/coins/trtl.png",
+      "quantity": 0
+   },
+   {
+      "policyId": "09f2d4e4a5c3662f4c1e6a7d9600e9605279dbdcedb22d4507cb6e75",
+      "nameHex": "535046",
+      "decimals": 6,
+      "project": "SPF",
+      "title": "Spectrum Finance",
+      "img": "/assets/images/coins/spf.png",
+      "quantity": 0
+   },
+   {
+      "policyId": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff935",
+      "nameHex": "425443",
+      "decimals": 8,
+      "project": "BTC",
+      "title": "Bitcoin",
+      "img": "/assets/images/coins/btc.png",
+      "quantity": 0
+   } 
 ]

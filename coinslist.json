@@ -693,7 +693,7 @@
       "quantity": 0
    },
    {
-      "policyId": "724a31d1421744cac3bb1d547aa692b43517d651c46e60a0cf1f70ec",
+      "policyId": "52162581184a457fad70470161179c5766f00237d4b67e0f1df1b4e6",
       "nameHex": "5452544c",
       "decimals": 0,
       "project": "TRTL",
@@ -706,7 +706,7 @@
       "nameHex": "535046",
       "decimals": 6,
       "project": "SPF",
-      "title": "Spectrum Finance",
+      "title": "Spectrum",
       "img": "/assets/images/coins/spf.png",
       "quantity": 0
    },

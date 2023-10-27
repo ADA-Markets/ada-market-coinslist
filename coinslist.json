@@ -714,9 +714,37 @@
       "policyId": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff935",
       "nameHex": "425443",
       "decimals": 8,
-      "project": "BTC",
+      "project": "BTC (Wanchain)",
       "title": "Bitcoin",
       "img": "/assets/images/coins/btc.png",
       "quantity": 0
+   },
+   {
+      "policyId": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff935",
+      "nameHex": "55534454",
+      "decimals": 8,
+      "project": "USDt (Wanchain)",
+      "title": "USDt",
+      "img": "/assets/images/coins/usdt.png",
+      "quantity": 0
+   },
+   {
+      "policyId": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff935",
+      "nameHex": "55534443",
+      "decimals": 8,
+      "project": "USDC (Wanchain)",
+      "title": "USDC",
+      "img": "/assets/images/coins/usdc.png",
+      "quantity": 0
+   },
+   {
+      "policyId": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff935",
+      "nameHex": "444149",
+      "decimals": 8,
+      "project": "DAI (Wanchain)",
+      "title": "DAI",
+      "img": "/assets/images/coins/dai.png",
+      "quantity": 0
    } 
+
 ]

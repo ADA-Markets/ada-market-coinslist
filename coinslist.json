@@ -745,6 +745,15 @@
       "title": "DAI",
       "img": "/assets/images/coins/dai.png",
       "quantity": 0
+   },
+   {
+      "policyId": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff935",
+      "nameHex": "455448",
+      "decimals": 8,
+      "project": "ETH (Wanchain)",
+      "title": "ETH",
+      "img": "/assets/images/coins/eth.png",
+      "quantity": 0
    } 
 
 ]

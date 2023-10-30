@@ -754,6 +754,15 @@
       "title": "ETH",
       "img": "/assets/images/coins/eth.png",
       "quantity": 0
+   },
+   {
+      "policyId": "e52964af4fffdb54504859875b1827b60ba679074996156461143dc1",
+      "nameHex": "4f5054494d",
+      "decimals": 6,
+      "project": "Optim",
+      "title": "Optim",
+      "img": "/assets/images/coins/optim.png",
+      "quantity": 0
    } 
 
 ]

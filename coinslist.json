@@ -762,7 +762,16 @@
       "project": "Optim",
       "title": "Optim",
       "img": "/assets/images/coins/optim.png",
-      "quantity": 0
-   } 
+      "quantity": 0 
+},
+{
+   "policyId": "",
+   "nameHex": "",
+   "decimals": 6,
+   "project": "Unknown",
+   "title": "Unknown",
+   "img": "/assets/images/ADAmarkets.png",
+   "quantity": 0
+}
 
 ]

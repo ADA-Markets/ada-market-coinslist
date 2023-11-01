@@ -765,8 +765,8 @@
       "quantity": 0 
 },
 {
-   "policyId": "",
-   "nameHex": "",
+   "policyId": "0",
+   "nameHex": "0",
    "decimals": 6,
    "project": "Unknown",
    "title": "Unknown",

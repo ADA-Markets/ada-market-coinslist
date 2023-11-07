@@ -750,6 +750,18 @@
     "Twitter": "https://twitter.com/Indigo_protocol"
    },
    {
+      "policyId": "5c1c91a65bedac56f245b8184b5820ced3d2f1540e521dc1060fa683",
+      "nameHex": "4a454c4c59",
+      "title": "JELLY",
+      "project": "JELLY",
+      "img": "/assets/images/coins/jelly.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "NFT",
+      "Website": "https://linktr.ee/blockinvestmentgroup",
+      "Twitter": "https://twitter.com/The_Block_Group"
+     },
+   {
     "policyId": "681b5d0383ac3b457e1bcc453223c90ccef26b234328f45fa10fd276",
     "nameHex": "4a5047",
     "title": "JPG",

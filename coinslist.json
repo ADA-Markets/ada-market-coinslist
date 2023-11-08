@@ -1062,6 +1062,18 @@
     "Twitter": "https://twitter.com/OptimFi"
    },
    {
+      "policyId": "fcad3f8a7e27b9cbde9d49a3de830f65085b35cc5090fa796b0760e4",
+      "nameHex": "4f5054494d697a",
+      "title": "OPTIMz",
+      "project": "Optimz",
+      "img": "/assets/images/coins/optimz.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "DeFi",
+      "Website": "https://www.optim.finance/",
+      "Twitter": "https://twitter.com/OptimFi"
+     },
+   {
     "policyId": "37a2b93b4aa2b286b92b7099faff0bb87e0c629a5079c0584da2d577",
     "nameHex": "4f534d",
     "title": "OSM",

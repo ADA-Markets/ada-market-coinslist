@@ -970,7 +970,7 @@
       "nameHex": "4d5949454c44",
       "title": "MYIELD",
       "project": "MYIELD",
-      "img": "/assets/images/coins/myield.png",
+      "img": "https://ada.markets/img/myield.png",
       "decimals": 6,
       "quantity": 0,
       "Category": "DeFi",

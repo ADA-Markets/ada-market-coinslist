@@ -966,6 +966,18 @@
     "Twitter": "https://twitter.com/MutantNFTs"
    },
    {
+      "policyId": "8f9c32977d2bacb87836b64f7811e99734c6368373958da20172afba",
+      "nameHex": "4d5949454c44",
+      "title": "MYIELD",
+      "project": "MYIELD",
+      "img": "/assets/images/coins/myield.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "DeFi",
+      "Website": "https://muesliswap.com",
+      "Twitter": "https://twitter.com/MuesliSwapTeam"
+     },
+   {
       "policyId": "cf5d945ad03a11c46e70a85daa8598b2275f9442ceed1249754ad9a1",
       "nameHex": "4e4154494f4e",
       "title": "NATION",

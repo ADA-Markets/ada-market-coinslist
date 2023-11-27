@@ -1264,6 +1264,18 @@
       "Category": "MEME",
       "Twitter": "https://twitter.com/shrmp_ada"
      },
+     {
+      "policyId": "37b03cbc4b1a4fcafc54e70cc31c65b4747a898984c574b3393e003c",
+      "nameHex": "534b494c4c",
+      "title": "SKILL",
+      "project": "Skills Labs",
+      "img": "https://ada.markets/img/skill.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "UTILITY",
+      "Website": "https://skillslabsteam.wixsite.com/skillslabs/",
+      "Twitter": "https://twitter.com/skills_labs"
+     },
    {
     "policyId": "23690795536ccf407ed6eeac57db98db9668b3a026991fb516ecd7ef",
     "nameHex": "0014df10534d4f4b4553",

@@ -145,7 +145,7 @@
       "nameHex": "434749",
       "title": "CGI",
       "project": "CardanoGPT",
-      "img": "/assets/images/coins/cgi.png",
+      "img": "https://ada.markets/img/cgi.png",
       "decimals": 6,
       "quantity": 0,
       "Category": "AI",

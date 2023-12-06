@@ -141,6 +141,18 @@
     "Twitter": "https://twitter.com/cardanocrocclub"
    },
    {
+      "policyId": "2d587111358801114f04df83dc0015de0a740b462b75cce5170fc935",
+      "nameHex": "434749",
+      "title": "CGI",
+      "project": "CardanoGPT",
+      "img": "/assets/images/coins/cgi.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "AI",
+      "Website": "https://cardanogpt.ai/",
+      "Twitter": "https://twitter.com/replyada"
+     },
+   {
     "policyId": "f4364875e75320d405ceadebdf0db63fadaff55c72d4ff6b82f0676a",
     "nameHex": "434152474f",
     "title": "CARGO",

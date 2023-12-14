@@ -1409,6 +1409,18 @@
     "Twitter": "https://twitter.com/TangentADA"
    },
    {
+      "policyId": "f6696363e9196289ef4f2b4bf34bc8acca5352cdc7509647afe6888f",
+      "nameHex": "54454459",
+      "title": "TEDDY",
+      "project": "TeddySwap",
+      "img": "https://ada.markets/img/teddy.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "DeFi, DEX",
+      "Website": "https://www.teddyswap.org/",
+      "Twitter": "https://twitter.com/TeddySwap"
+     },
+   {
     "policyId": "52162581184a457fad70470161179c5766f00237d4b67e0f1df1b4e6",
     "nameHex": "5452544c",
     "title": "Tortol",

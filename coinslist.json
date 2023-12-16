@@ -283,6 +283,18 @@
     "Twitter": "https://twitter.com/AdaEmpireNFT"
    },
    {
+      "policyId": "c27600f3aff3d94043464a33786429b78e6ab9df5e1d23b774acb34c",
+      "nameHex": "434e4354",
+      "title": "CNCT",
+      "project": "Coinecta",
+      "img": "https://ada.markets/img/cnct.png",
+      "decimals": 4,
+      "quantity": 0,
+      "Category": "NFT, GameFi",
+      "Website": "https://coinecta.fi",
+      "Twitter": "https://twitter.com/CoinectaFinance"
+     }, 
+   {
     "policyId": "b6a7467ea1deb012808ef4e87b5ff371e85f7142d7b356a40d9b42a0",
     "nameHex": "436f726e75636f70696173205b76696120436861696e506f72742e696f5d",
     "title": "COPI",

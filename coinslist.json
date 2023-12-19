@@ -1,6 +1,7 @@
 [
    {
     "policyId": "lovelace",
+    "nameHex": "..",
     "title": "ADA",
     "project": "Cardano",
     "img": "/assets/images/coins/ada.png",

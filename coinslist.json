@@ -1173,7 +1173,7 @@
       "nameHex": "706565706565",
       "title": "PEEPEE",
       "project": "PeePeeToken",
-      "img": "/assets/images/coins/peepee.png",
+      "img": "https://ada.markets/img/peepee.png",
       "decimals": 0,
       "quantity": 0,
       "Category": "Meme",

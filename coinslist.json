@@ -118,6 +118,18 @@
     "Twitter": "https://twitter.com/book_io"
    },
    {
+      "policyId": "4fde92c2f6dbcfa2879b44f7453872b31394cfb2f70f1d4c411169ac",
+      "nameHex": "427562626c65",
+      "title": "BUBBLE",
+      "project": "Bubble",
+      "img": "/assets/images/coins/bubble.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "Meme",
+      "Website": "",
+      "Twitter": "https://twitter.com/"
+     },
+   {
     "policyId": "8e51398904a5d3fc129fbf4f1589701de23c7824d5c90fdb9490e15a",
     "nameHex": "434841524c4933",
     "title": "C3",

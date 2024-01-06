@@ -1669,5 +1669,17 @@
     "Category": "GameFi",
     "Website": "https://adazoo.com",
     "Twitter": "https://twitter.com/adazooNFT"
+   },
+   {
+    "policyId": "e7a6776d9982acd0ffeaa24885e78542cb174f4f2b9cd3c9968116e4",
+    "nameHex": "434c4f574e",
+    "title": "clown",
+    "project": "$CLOWN on Cardano",
+    "img": "/assets/images/coins/clown.png",
+    "decimals": 6,
+    "quantity": 0,
+    "Category": "GameFi",
+    "Website": "https://adazoo.com",
+    "Twitter": "https://twitter.com/adazooNFT"
    }
   ]

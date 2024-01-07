@@ -1049,6 +1049,18 @@
     "Twitter": "https://twitter.com/_mynth_"
    },
    {
+      "policyId": "92776616f1f32c65a173392e4410a3d8c39dcf6ef768c73af164779c",
+      "nameHex": "4d79555344",
+      "title": "MyUSD",
+      "project": "Mynth USD",
+      "img": "/assets/images/coins/myusd.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "Stablecoin",
+      "Website": "https://mynth.ai/",
+      "Twitter": "https://twitter.com/_mynth_"
+     },
+   {
     "policyId": "ffb1abe9fe93ee9f13874403a3d4f8addaa65fbf22d5d7f41c087d8e",
     "nameHex": "4d5554414e54",
     "title": "MUTANT",

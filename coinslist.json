@@ -1743,6 +1743,18 @@
     "Twitter": "https://twitter.com/adazooNFT"
    },
    {
+      "policyId": "1be0b284fa726d418fe064a8544605aaba352b0805c24286ada29468",
+      "nameHex": "584f544c",
+      "title": "XOTL",
+      "project": "Axolotl",
+      "img": "/assets/images/coins/xotl.png",
+      "decimals": 2,
+      "quantity": 0,
+      "Category": "Meme",
+      "Website": "https://adaaxolotl.org/",
+      "Twitter": "https://twitter.com/adaaxolotl"
+     },
+   {
     "policyId": "e7a6776d9982acd0ffeaa24885e78542cb174f4f2b9cd3c9968116e4",
     "nameHex": "434c4f574e",
     "title": "clown",

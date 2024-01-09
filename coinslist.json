@@ -139,6 +139,18 @@
       "Website": "",
       "Twitter": "https://twitter.com/"
      },
+     {
+      "policyId": "a1c94e56e4b24945338f2779e33b02e52fdd30d5f279c6131cc43c7c",
+      "nameHex": "42555a5a",
+      "title": "BUZZ",
+      "project": "Buzz The Bellboy",
+      "img": "/assets/images/coins/buzz.png",
+      "decimals": 2,
+      "quantity": 0,
+      "Category": "Meme",
+      "Website": "https://buzzthebellboy.com/",
+      "Twitter": "https://twitter.com/BuzzTheBellboy"
+     },
    {
     "policyId": "8e51398904a5d3fc129fbf4f1589701de23c7824d5c90fdb9490e15a",
     "nameHex": "434841524c4933",
@@ -1047,6 +1059,18 @@
     "Twitter": "https://twitter.com/_mynth_"
    },
    {
+      "policyId": "92776616f1f32c65a173392e4410a3d8c39dcf6ef768c73af164779c",
+      "nameHex": "4d79555344",
+      "title": "MyUSD",
+      "project": "Mynth USD",
+      "img": "/assets/images/coins/myusd.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "Stablecoin",
+      "Website": "https://mynth.ai/",
+      "Twitter": "https://twitter.com/_mynth_"
+     },
+   {
     "policyId": "ffb1abe9fe93ee9f13874403a3d4f8addaa65fbf22d5d7f41c087d8e",
     "nameHex": "4d5554414e54",
     "title": "MUTANT",
@@ -1347,6 +1371,30 @@
     "Twitter": "https://twitter.com/roncoinada"
    },
    {
+      "policyId": "04b95368393c821f180deee8229fbd941baaf9bd748ebcdbf7adbb14",
+      "nameHex": "727352534e",
+      "title": "rsRSN",
+      "project": "rsRSN",
+      "img": "/assets/images/coins/rsrsn.png",
+      "decimals": 3,
+      "quantity": 0,
+      "Category": "Bridge",
+      "Website": "https://rosen.tech",
+      "Twitter": "https://twitter.com/RosenBridge_erg"
+     },
+     {
+      "policyId": "04b95368393c821f180deee8229fbd941baaf9bd748ebcdbf7adbb14",
+      "nameHex": "7273455247",
+      "title": "rsERG",
+      "project": "rsERG",
+      "img": "/assets/images/coins/rserg.png",
+      "decimals": 9,
+      "quantity": 0,
+      "Category": "Bridge",
+      "Website": "https://rosen.tech",
+      "Twitter": "https://twitter.com/RosenBridge_erg"
+     },
+   {
     "policyId": "07f019ce45fb638353258bda4316ce5eb3d0f76a3fb739c451740849",
     "nameHex": "53414c5459",
     "title": "SALTY",
@@ -1538,6 +1586,18 @@
     "Twitter": "https://twitter.com/TortolToken"
    },
    {
+      "policyId": "ac015c38917f306a84748c2d646bed90bdd64421c592163e60702d73",
+      "nameHex": "5453555255",
+      "title": "Tool",
+      "project": "Tool",
+      "img": "/assets/images/coins/tool.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "NFT",
+      "Website": "https://cnft.tools/",
+      "Twitter": "https://twitter.com/cnfttools"
+     },
+   {
     "policyId": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff935",
     "nameHex": "55534443",
     "title": "USDC",
@@ -1692,6 +1752,18 @@
     "Website": "https://adazoo.com",
     "Twitter": "https://twitter.com/adazooNFT"
    },
+   {
+      "policyId": "1be0b284fa726d418fe064a8544605aaba352b0805c24286ada29468",
+      "nameHex": "584f544c",
+      "title": "XOTL",
+      "project": "Axolotl",
+      "img": "/assets/images/coins/xotl.png",
+      "decimals": 2,
+      "quantity": 0,
+      "Category": "Meme",
+      "Website": "https://adaaxolotl.org/",
+      "Twitter": "https://twitter.com/adaaxolotl"
+     },
    {
     "policyId": "e7a6776d9982acd0ffeaa24885e78542cb174f4f2b9cd3c9968116e4",
     "nameHex": "434c4f574e",

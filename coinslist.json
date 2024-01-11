@@ -10,16 +10,6 @@
     "Category": "Other"
    },
    {
-      "policyId": "420000029ad9527271b1b1e3c27ee065c18df70a4a4cfc3093a41a44",
-      "nameHex": "41584f",
-      "title": "AXO",
-      "project": "AXO",
-      "img": "https://ada.markets/img/axo.png",
-      "decimals": 9,
-      "quantity": 0,
-      "Category": "DeFi"
-     },
-   {
     "policyId": "6f0d19b97761a48b53438e926c63a2a75ec1aaa3f763a4f7070c2589",
     "nameHex": "42524557",
     "title": "$BREW",

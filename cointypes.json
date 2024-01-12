@@ -1,0 +1,34 @@
+{
+  "token_categories": [
+    {
+      "category_name": "Utility Tokens",
+      "description": "Tokens that provide access to a specific product or service within a blockchain ecosystem.",
+      "examples": []
+    },
+    {
+      "category_name": "Security Tokens",
+      "description": "Tokens that represent ownership of a real-world asset and often subject to securities regulations.",
+      "examples": []
+    },
+    {
+      "category_name": "Stablecoins",
+      "description": "Tokens pegged to the value of a stable asset, like fiat currency, to minimize price volatility.",
+      "examples": []
+    },
+    {
+      "category_name": "Governance Tokens",
+      "description": "Tokens that grant holders the right to vote on decisions within a blockchain network.",
+      "examples": []
+    },
+    {
+      "category_name": "Non-Fungible Tokens (NFTs)",
+      "description": "Unique tokens that represent ownership of specific digital or physical assets.",
+      "examples": []
+    },
+    {
+      "category_name": "Meme Tokens",
+      "description": "Meme tokens...",
+      "examples": []
+    }
+  ]
+}

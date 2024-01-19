@@ -284,6 +284,18 @@
       "Twitter": "https://twitter.com/claymates"
    },
    {
+      "policyId": "a56b1bfd69d317076c5c864d647851e2961594b21ec056f3c8491485",
+      "nameHex": "6473636e",
+      "title": "CMC",
+      "project": "Comic Coin",
+      "img": "https://ada.markets/img/cmc.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Comics",
+      "Website": "https://cryptoversecomics.com/en/",
+      "Twitter": "https://twitter.com/CryptoverseCNFT"
+   },
+   {
       "policyId": "b34b3ea80060ace9427bda98690a73d33840e27aaa8d6edb7f0c757a",
       "nameHex": "634e455441",
       "title": "cNETA",
@@ -647,9 +659,21 @@
       "img": "/assets/images/coins/flac.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "RealFi",
+      "Category": "DeFi",
       "Website": "https://flac.finance",
       "Twitter": "https://twitter.com/FlacFinance"
+   },
+   {
+      "policyId": "577f0b1342f8f8f4aed3388b80a8535812950c7a892495c0ecdf0f1e",
+      "nameHex": "0014df10464c4454",
+      "title": "FLDT",
+      "project": "Fluid Tokens",
+      "img": "/assets/images/coins/fluid.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "RealFi",
+      "Website": "https://fluidtokens.com/",
+      "Twitter": "https://twitter.com/FluidTokens"
    },
    {
       "policyId": "79906b9c8d2fbddeba9658387a2a1187f3edd8f546e5dc49225710a1",

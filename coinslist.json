@@ -764,7 +764,7 @@
       "nameHex": "48554e54",
       "title": "HYC",
       "project": "Hyena Coin",
-      "img": "/assets/images/coins/hyc.png",
+      "img": "https://ada.markets/img/hyc.png",
       "decimals": 0,
       "quantity": 0,
       "Category": "DeFi",

@@ -21,18 +21,6 @@
       "Twitter": "https://twitter.com/PinkTheSnail"
    },
    {
-      "policyId": "6f0d19b97761a48b53438e926c63a2a75ec1aaa3f763a4f7070c2589",
-      "nameHex": "42524557",
-      "title": "$BREW",
-      "project": "Fudbrew",
-      "img": "/assets/images/coins/brew.png",
-      "decimals": 0,
-      "quantity": 0,
-      "Category": "RealFi",
-      "Website": "https://fudbrew.com",
-      "Twitter": "https://twitter.com/fudbrew"
-   },
-   {
       "policyId": "5b01968867e13432afaa2f814e1d15e332d6cd0aa77e350972b0967d",
       "nameHex": "4144414f476f7665726e616e6365546f6b656e",
       "title": "ADAO",

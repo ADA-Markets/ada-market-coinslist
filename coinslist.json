@@ -762,6 +762,19 @@
    {
       "policyId": "95a427e384527065f2f8946f5e86320d0117839a5e98ea2c0b55fb00",
       "nameHex": "48554e54",
+      "title": "HYC",
+      "project": "Hyena Coin",
+      "img": "/assets/images/coins/hyc.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "DeFi",
+      "Website": "https://hyenacoin.xyz/",
+      "Twitter": "https://twitter.com/Hyena_Coin"
+   },
+
+   {
+      "policyId": "6ded36273214629f9ff35e9f9c7b8945d937a80a3796ddc4a646a50e",
+      "nameHex": "485943",
       "title": "HUNT",
       "project": "HUNT",
       "img": "/assets/images/coins/hunt.png",
@@ -771,6 +784,7 @@
       "Website": "https://dexhunter.io/",
       "Twitter": "https://twitter.com/DexHunterIO"
    },
+
    {
       "policyId": "5d16cc1a177b5d9ba9cfa9793b07e60f1fb70fea1f8aef064415d114",
       "nameHex": "494147",

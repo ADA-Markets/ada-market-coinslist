@@ -1696,12 +1696,13 @@
    {
       "policyId": "caff93803e51c7b97bf79146790bfa3feb0d0b856ef16113b391b997",
       "nameHex": "5649504552",
-      "title": "SUS",
-      "project": "SUS",
+      "title": "VIPER",
+      "project": "VIPER",
       "img": "https://ada.markets/img/viper.png",
       "decimals": 0,
       "quantity": 0,
       "Category": "Meme",
+      "Website": "https://vipercoin.io",
       "Twitter": "https://twitter.com/vipercoinada"
    },
    {

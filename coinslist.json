@@ -310,6 +310,18 @@
       "Twitter": "https://twitter.com/anetaBTC"
    },
    {
+      "policyId": "b01cd2dffad5d6e840d7420b3e09154a96c796bbd9a57bb3455ba642",
+      "nameHex": "434f42",
+      "title": "COB",
+      "project": "",
+      "img": "https://ada.markets/img/cob.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme",
+      "Website": "https://www.cobraking.meme",
+      "Twitter": "https://twitter.com/Cobraking_meme"
+   },
+   {
       "policyId": "1ad4f068a49bbf0d4f05335cadeca0519cef34cc1b2bc35b2e5739ae",
       "nameHex": "434f434b",
       "title": "COCK",
@@ -943,6 +955,17 @@
       "Website": "https://adakondacoin.com/",
       "Twitter": "https://twitter.com/AdaKondaCoin"
    },
+   {
+      "policyId": "5e57bee085c5b2ec76cf5783b4b7dbc0edc1bef05dac8cbe122637b8",
+      "nameHex": "4b4f4e47",
+      "title": "KONG",
+      "project": "King Kong",
+      "img": "https://ada.markets/img/kong.png",
+      "decimals": 2,
+      "quantity": 0,
+      "Category": "Meme"
+   },
+
    {
       "policyId": "a26022096c6a8052987dabbfa94849ab7886cf0bb7840044e017d5be",
       "nameHex": "4b756265436f696e",

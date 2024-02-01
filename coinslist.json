@@ -82,6 +82,18 @@
       "Website": "https://bankercoinada.com",
       "Twitter": "https://twitter.com/BankercoinAda"
    },
+
+   {
+      "policyId": "7507734918533b3b896241b4704f3d4ce805256b01da6fcede430436",
+      "nameHex": "42616279534e454b",
+      "title": "BabySNEK",
+      "project": "BabySNEK",
+      "img": "https://ada.markets/img/babysnek.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme"
+   },
+
    {
       "policyId": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff935",
       "nameHex": "425443",

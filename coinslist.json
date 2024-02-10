@@ -1516,6 +1516,19 @@
       "Twitter": "https://twitter.com/COTInetwork"
    },
    {
+      "policyId": "768742e4280981cd7a704f16d0a34ce116978e2f123d4528880777ba",
+      "nameHex": "5348415a414d",
+      "title": "SHAZAM",
+      "project": "SHAZAM",
+      "img": "https://ada.markets/img/shazam.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme",
+      "Website": "https://shazamgod.meme",
+      "Twitter": "https://twitter.com/ShazamGodmeme"
+   },
+
+   {
       "policyId": "7e3b18c6cbc72e06fa5b5e4c729159b9a74b6fe94629fe57c67ef32d",
       "nameHex": "5348524d50",
       "title": "SHRMP",
@@ -1907,4 +1920,15 @@
       "Website": "https://adazoo.com",
       "Twitter": "https://twitter.com/adazooNFT"
    }
+   {
+      "policyId": "7b35f60db53bd598b5d1f6f00136e232de6b42c2616613a4568b78e4",
+      "nameHex": "58434c4e",
+      "title": "XCLN",
+      "project": "Excelon",
+      "img": "https://ada.markets/img/xcln.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme"
+   }
+
 ]

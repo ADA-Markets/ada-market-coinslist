@@ -1588,7 +1588,7 @@
    {
       "policyId": "25f0fc240e91bd95dcdaebd2ba7713fc5168ac77234a3d79449fc20c",
       "nameHex": "534f4349455459",
-      "title": "SOCIETY",
+      "title": "SOC",
       "project": "SOCIETY",
       "img": "/assets/images/coins/society.png",
       "decimals": 6,
@@ -1600,8 +1600,8 @@
    {
       "policyId": "09f2d4e4a5c3662f4c1e6a7d9600e9605279dbdcedb22d4507cb6e75",
       "nameHex": "535046",
-      "title": "Spectrum",
-      "project": "SPF",
+      "title": "SPF",
+      "project": "Spectrum",
       "img": "/assets/images/coins/spf.png",
       "decimals": 6,
       "quantity": 0,

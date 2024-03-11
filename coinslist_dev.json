@@ -1944,7 +1944,7 @@
       "title":"WSB",
       "project":"WallStreetBets",
       "img":"/assets/images/coins/wsb.png",
-      "decimals":6,
+      "decimals":0,
       "quantity":0,
       "Category":"Meme",
       "Twitter":"https://twitter.com/awallstreetbet"

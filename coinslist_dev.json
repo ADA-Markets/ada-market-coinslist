@@ -1939,6 +1939,17 @@
       "Twitter":"https://twitter.com/adazooNFT"
    },
    {
+      "policyId":"af03770556f3312d90523bc6a743ec2fb61e2eae47519faecf5127c3",
+      "nameHex":"575342",
+      "title":"WSB",
+      "project":"WallStreetBets",
+      "img":"/assets/images/coins/wsb.png",
+      "decimals":6,
+      "quantity":0,
+      "Category":"Meme",
+      "Twitter":"https://twitter.com/awallstreetbet"
+   },
+   {
       "policyId":"7b35f60db53bd598b5d1f6f00136e232de6b42c2616613a4568b78e4",
       "nameHex":"58434c4e",
       "title":"XCLN",

@@ -1924,7 +1924,7 @@
       "quantity":0,
       "Category":"NFT",
       "Website":"https://walkerscardano.xyz/",
-      "Twitter":"https://twitter.com/"
+      "Twitter":"https://twitter.com/WalkersCNFT"
    },  
    {
       "policyId":"e7a6776d9982acd0ffeaa24885e78542cb174f4f2b9cd3c9968116e4",
@@ -1943,7 +1943,7 @@
       "nameHex":"575342",
       "title":"WSB",
       "project":"WallStreetBets",
-      "img":"/assets/images/coins/wsb.png",
+      "img":"https://ada.markets/img/wsb.png",
       "decimals":0,
       "quantity":0,
       "Category":"Meme",

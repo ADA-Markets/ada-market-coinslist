@@ -1950,6 +1950,17 @@
       "Twitter":"https://twitter.com/awallstreetbet"
    },
    {
+      "policyId":"c48cbb3d5e57ed56e276bc45f99ab39abe94e6cd7ac39fb402da47ad",
+      "nameHex":"0014df105553444d",
+      "title":"USDM",
+      "project":"USDM",
+      "img":"https://ada.markets/img/usdm.png",
+      "decimals":6,
+      "quantity":0,
+      "Category":"Stablecoin",
+      "Twitter":"https://twitter.com/MehenOfficial"
+   },
+   {
       "policyId":"7b35f60db53bd598b5d1f6f00136e232de6b42c2616613a4568b78e4",
       "nameHex":"58434c4e",
       "title":"XCLN",

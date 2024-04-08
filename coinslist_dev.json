@@ -22,17 +22,6 @@
       "Twitter":"https://twitter.com/axotrade"
    },
    {
-      "policyId":"d542ad1dc269ae601125e8259cb8427c6b37c1d3569d10441df0291f",
-      "nameHex":"4149",
-      "title":"BET",
-      "project":"BET",
-      "img":"https://ada.markets/img/bet.png",
-      "decimals":0,
-      "quantity":0,
-      "Category":"Meme",
-      "Twitter":"https://twitter.com/adashuffle"
-   },
-   {
       "policyId":"016be5325fd988fea98ad422fcfd53e5352cacfced5c106a932a35a4",
       "nameHex":"42544e",
       "title":"BTN",

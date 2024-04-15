@@ -1653,17 +1653,6 @@
       "Twitter":"https://twitter.com/strippercoin"
    },
    {
-      "policyId":"59d7c57e1b6a8e3842546733584f43e654ae6293a5790bbcf5382677",
-      "nameHex":"535553",
-      "title":"SUS",
-      "project":"SUS",
-      "img":"https://ada.markets/img/sus.png",
-      "decimals":0,
-      "quantity":0,
-      "Category":"Meme",
-      "Twitter":"https://twitter.com"
-   },
-   {
       "policyId":"718c383a22b0239d034a95e750fd09a5930bddcffc24bf5c566b1cf1",
       "nameHex":"53554d4d4f4e",
       "title":"SUMMON",

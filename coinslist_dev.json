@@ -1938,6 +1938,20 @@
       "Category":"Stablecoin",
       "Twitter":"https://twitter.com/MehenOfficial"
    },
+
+   {
+      "policyId":"5b26e685cc5c9ad630bde3e3cd48c694436671f3d25df53777ca60ef",
+      "nameHex":"4e564c",
+      "title":"NVL",
+      "project":"NuvolaDigital",
+      "img":"https://ada.markets/img/nvl.png",
+      "decimals":6,
+      "quantity":0,
+      "Category":"Depin",
+      "Website":"https://www.nuvoladigital.io/",
+      "Twitter":"https://twitter.com/NuvolaDigital_"
+   },
+
    {
       "policyId":"7b35f60db53bd598b5d1f6f00136e232de6b42c2616613a4568b78e4",
       "nameHex":"58434c4e",

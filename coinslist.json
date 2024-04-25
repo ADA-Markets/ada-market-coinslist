@@ -1953,6 +1953,18 @@
    },
 
    {
+      "policyId":"8d7526784ef72fe0ccdd085976ada0da88e7fb013e38e794b0923341",
+      "nameHex":"4245415244",
+      "title":"BEARD",
+      "project":"BEARD",
+      "img":"https://ada.markets/img/beard.png",
+      "decimals":0,
+      "quantity":0,
+      "Category":"Meme",
+      "Website":"https://book.io/book/the-philosophy-of-beards/"
+   },
+
+   {
       "policyId":"7b35f60db53bd598b5d1f6f00136e232de6b42c2616613a4568b78e4",
       "nameHex":"58434c4e",
       "title":"XCLN",

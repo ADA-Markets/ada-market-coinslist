@@ -11,10 +11,22 @@
    },
    {
       "policyId":"99f64e2f566c87003cb11cc9edb56b8109947925d3930103d0d198e8",
+      "nameHex":"534245525259",
+      "title":"SBERRY",
+      "project":"SBERRY",
+      "img":"https://app.ada.markets/assets/images/ADAmarkets.png",
+      "decimals":9,
+      "quantity":0,
+      "Category":"DeFi",
+      "Website":"https://app.axo.trade/",
+      "Twitter":"https://twitter.com/axotrade"
+   },
+   {
+      "policyId":"99f64e2f566c87003cb11cc9edb56b8109947925d3930103d0d198e8",
       "nameHex":"524245525259",
       "title":"RBERRY",
       "project":"RBERRY",
-      "img":"https://ada.markets/img/axo.png",
+      "img":"https://app.ada.markets/assets/images/ADAmarkets.png",
       "decimals":9,
       "quantity":0,
       "Category":"DeFi",

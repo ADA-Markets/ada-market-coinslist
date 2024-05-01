@@ -334,7 +334,7 @@
       "policyId":"b01cd2dffad5d6e840d7420b3e09154a96c796bbd9a57bb3455ba642",
       "nameHex":"434f42",
       "title":"COB",
-      "project":"",
+      "project":"COB",
       "img":"/assets/images/coins/cob.png",
       "decimals":0,
       "quantity":0,
@@ -1938,7 +1938,6 @@
       "Category":"Stablecoin",
       "Twitter":"https://twitter.com/MehenOfficial"
    },
-
    {
       "policyId":"5b26e685cc5c9ad630bde3e3cd48c694436671f3d25df53777ca60ef",
       "nameHex":"4e564c",
@@ -1951,7 +1950,6 @@
       "Website":"https://www.nuvoladigital.io/",
       "Twitter":"https://twitter.com/NuvolaDigital_"
    },
-
    {
       "policyId":"8d7526784ef72fe0ccdd085976ada0da88e7fb013e38e794b0923341",
       "nameHex":"4245415244",
@@ -1962,6 +1960,29 @@
       "quantity":0,
       "Category":"Meme",
       "Website":"https://book.io/book/the-philosophy-of-beards/"
+   },
+   {
+      "policyId":"cc17ba7ae06b8adffb081b7df40472466f71fae7195b7b06d9223c0d",
+      "nameHex":"4d757374616368696f",
+      "title":"Mustachio",
+      "project":"Mustachio",
+      "img":"https://ada.markets/img/mustachio.png",
+      "decimals":0,
+      "quantity":0,
+      "Category":"Meme",
+      "Twitter":"https://twitter.com/MustachioADA"
+   },
+
+   {
+      "policyId":"493136618a39dcefb89ff573061f715ee32e88092d0299c54e3a3773",
+      "nameHex":"56595241",
+      "title":"VYRA",
+      "project":"VYRA",
+      "img":"https://ada.markets/img/vyra.png",
+      "decimals":0,
+      "quantity":0,
+      "Category":"Social Media",
+      "Website":"https://vyra.io/"
    },
 
    {

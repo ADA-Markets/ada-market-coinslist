@@ -10,6 +10,30 @@
       "Category":"Other"
    },
    {
+      "policyId":"99f64e2f566c87003cb11cc9edb56b8109947925d3930103d0d198e8",
+      "nameHex":"534245525259",
+      "title":"SBERRY",
+      "project":"SBERRY",
+      "img":"/assets/images/coins/ada.png",
+      "decimals":9,
+      "quantity":0,
+      "Category":"DeFi",
+      "Website":"https://app.axo.trade/",
+      "Twitter":"https://twitter.com/axotrade"
+   },
+   {
+      "policyId":"99f64e2f566c87003cb11cc9edb56b8109947925d3930103d0d198e8",
+      "nameHex":"524245525259",
+      "title":"RBERRY",
+      "project":"RBERRY",
+      "img":"/assets/images/coins/ada.png",
+      "decimals":9,
+      "quantity":0,
+      "Category":"DeFi",
+      "Website":"https://app.axo.trade/",
+      "Twitter":"https://twitter.com/axotrade"
+   },
+   {
       "policyId":"420000029ad9527271b1b1e3c27ee065c18df70a4a4cfc3093a41a44",
       "nameHex":"41584f",
       "title":"AXO",

@@ -9,6 +9,19 @@
       "quantity":0,
       "Category":"Other"
    },
+
+   {
+      "policyId":"5ac3d4bdca238105a040a565e5d7e734b7c9e1630aec7650e809e34a",
+      "nameHex":"535155495254",
+      "title":"SQUIRT",
+      "project":"SQUIRT",
+      "img":"https://ada.markets/img/squirt.png",
+      "decimals":6,
+      "quantity":0,
+      "Category":"Meme",
+      "Website":"https://spectrum.fi"
+   },
+
    {
       "policyId":"99f64e2f566c87003cb11cc9edb56b8109947925d3930103d0d198e8",
       "nameHex":"534245525259",

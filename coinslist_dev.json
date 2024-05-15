@@ -2023,6 +2023,32 @@
    },
 
    {
+      "policyId":"1e76aaec4869308ef5b61e81ebf229f2e70f75a50223defa087f807b",
+      "nameHex":"436c61726974792044414f20546f6b656e",
+      "title":"CLARITY",
+      "project":"Clarity DAO Token",
+      "img":"https://ada.markets/img/clarity.png",
+      "decimals":6,
+      "quantity":0,
+      "Category":"DAO",
+      "Website":"https://www.clarity.community",
+      "Twitter":"https://twitter.com/clarity_dao"
+   },
+
+   {
+      "policyId":"f7516c9f7b347eb412a777f3c711099b199ccd2be23b568a4a3abf6d",
+      "nameHex":"535058",
+      "title":"SPX",
+      "project":"SmartPlaces X",
+      "img":"https://ada.markets/img/spx.png",
+      "decimals":6,
+      "quantity":0,
+      "Category":"Social",
+      "Website":"https://smart-places.io",
+      "Twitter":"https://twitter.com/SmartPlacesX"
+   },
+
+   {
       "policyId":"7b35f60db53bd598b5d1f6f00136e232de6b42c2616613a4568b78e4",
       "nameHex":"58434c4e",
       "title":"XCLN",

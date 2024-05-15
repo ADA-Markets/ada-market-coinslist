@@ -2049,6 +2049,41 @@
    },
 
    {
+      "policyId":"dd00d877798443a2de57e5bc667784168616aa8244b558743e448784",
+      "nameHex":"534d4f4b45",
+      "title":"SMOKE",
+      "project":"SMOKE",
+      "img":"https://ada.markets/img/smoke.png",
+      "decimals":0,
+      "quantity":0,
+      "Category":"Meme",
+      "Twitter":"https://twitter.com/smokecoinada"
+   },
+   {
+      "policyId": "3a89cf5f2f18887fcaec3d2e9bd4fee52caeaebc50f338ff23861cec",
+      "nameHex": "42414e41",
+      "title": "BANA",
+      "project": "BananaClip",
+      "img": "https://ada.markets/img/bana.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "GameFi",
+      "Website": "https://bananaclip.io/",
+      "Twitter": "https://twitter.com/BananaClipGames"
+   },
+   {
+      "policyId": "e4b8e9d247d9aa043bb9e13b38989b11b02c595450e6313aebdf6c1f",
+      "nameHex": "47616d6553746f70",
+      "title": "GME",
+      "project": "Gamestop",
+      "img": "https://ada.markets/img/gme.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme",
+      "Twitter": "https://twitter.com/Gamestopada"
+   },
+
+   {
       "policyId":"7b35f60db53bd598b5d1f6f00136e232de6b42c2616613a4568b78e4",
       "nameHex":"58434c4e",
       "title":"XCLN",

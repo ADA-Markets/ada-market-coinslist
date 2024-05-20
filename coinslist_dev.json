@@ -23,6 +23,19 @@
    },
 
    {
+    "policyId":"ececc92aeaaac1f5b665f567b01baec8bc2771804b4c21716a87a4e3",
+    "nameHex":"53504c415348",
+    "title":"SPLASH",
+    "project":"SPLASH",
+    "img":"https://ada.markets/img/splash.png",
+    "decimals":6,
+    "quantity":0,
+    "Category":"Meme",
+    "Twitter":"https://x.com/splashprotocol",
+    "Website":"https://splash.trade"
+ },
+
+   {
       "policyId":"99f64e2f566c87003cb11cc9edb56b8109947925d3930103d0d198e8",
       "nameHex":"534245525259",
       "title":"SBERRY",

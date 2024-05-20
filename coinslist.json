@@ -57,6 +57,20 @@
       "Website": "https://adosia.com/",
       "Twitter": "https://twitter.com/AdosiaIO"
    },
+
+   {
+      "policyId":"ececc92aeaaac1f5b665f567b01baec8bc2771804b4c21716a87a4e3",
+      "nameHex":"53504c415348",
+      "title":"SPLASH",
+      "project":"SPLASH",
+      "img":"https://ada.markets/img/splash.png",
+      "decimals":6,
+      "quantity":0,
+      "Category":"Meme",
+      "Twitter":"https://x.com/splashprotocol",
+      "Website":"https://splash.trade"
+   },
+
    {
       "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
       "nameHex": "41474958",

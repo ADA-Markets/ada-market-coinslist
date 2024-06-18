@@ -10,6 +10,29 @@
       "Category": "Other"
    },
    {
+      "policyId": "5ac3d4bdca238105a040a565e5d7e734b7c9e1630aec7650e809e34a",
+      "nameHex": "535155495254",
+      "title": "SQUIRT",
+      "project": "SQUIRT",
+      "img": "https://ada.markets/img/squirt.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "Meme",
+      "Website": "https://spectrum.fi"
+   },
+   {
+      "policyId": "ececc92aeaaac1f5b665f567b01baec8bc2771804b4c21716a87a4e3",
+      "nameHex": "53504c415348",
+      "title": "SPLASH",
+      "project": "SPLASH",
+      "img": "https://ada.markets/img/splash.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "Meme",
+      "Twitter": "https://x.com/splashprotocol",
+      "Website": "https://splash.trade"
+   },
+   {
       "policyId": "420000029ad9527271b1b1e3c27ee065c18df70a4a4cfc3093a41a44",
       "nameHex": "41584f",
       "title": "AXO",
@@ -57,20 +80,6 @@
       "Website": "https://adosia.com/",
       "Twitter": "https://twitter.com/AdosiaIO"
    },
-
-   {
-      "policyId":"ececc92aeaaac1f5b665f567b01baec8bc2771804b4c21716a87a4e3",
-      "nameHex":"53504c415348",
-      "title":"SPLASH",
-      "project":"SPLASH",
-      "img":"https://ada.markets/img/splash.png",
-      "decimals":6,
-      "quantity":0,
-      "Category":"Meme",
-      "Twitter":"https://x.com/splashprotocol",
-      "Website":"https://splash.trade"
-   },
-
    {
       "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
       "nameHex": "41474958",
@@ -2010,17 +2019,6 @@
       "Twitter": "https://twitter.com/clarity_dao"
    },
    {
-      "policyId": "dd00d877798443a2de57e5bc667784168616aa8244b558743e448784",
-      "nameHex": "534d4f4b45",
-      "title": "SMOKE",
-      "project": "SMOKE",
-      "img": "https://ada.markets/img/smoke.png",
-      "decimals": 0,
-      "quantity": 0,
-      "Category": "Meme",
-      "Twitter": "https://twitter.com/smokecoinada"
-   },
-   {
       "policyId": "f7516c9f7b347eb412a777f3c711099b199ccd2be23b568a4a3abf6d",
       "nameHex": "535058",
       "title": "SPX",
@@ -2032,19 +2030,17 @@
       "Website": "https://smart-places.io",
       "Twitter": "https://twitter.com/SmartPlacesX"
    },
-
    {
-      "policyId": "e4b8e9d247d9aa043bb9e13b38989b11b02c595450e6313aebdf6c1f",
-      "nameHex": "47616d6553746f70",
-      "title": "GME",
-      "project": "Gamestop",
-      "img": "https://ada.markets/img/gme.png",
+      "policyId": "dd00d877798443a2de57e5bc667784168616aa8244b558743e448784",
+      "nameHex": "534d4f4b45",
+      "title": "SMOKE",
+      "project": "SMOKE",
+      "img": "https://ada.markets/img/smoke.png",
       "decimals": 0,
       "quantity": 0,
       "Category": "Meme",
-      "Twitter": "https://twitter.com/Gamestopada"
+      "Twitter": "https://twitter.com/smokecoinada"
    },
-
    {
       "policyId": "3a89cf5f2f18887fcaec3d2e9bd4fee52caeaebc50f338ff23861cec",
       "nameHex": "42414e41",
@@ -2057,7 +2053,95 @@
       "Website": "https://bananaclip.io/",
       "Twitter": "https://twitter.com/BananaClipGames"
    },
-
+   {
+      "policyId": "e4b8e9d247d9aa043bb9e13b38989b11b02c595450e6313aebdf6c1f",
+      "nameHex": "47616d6553746f70",
+      "title": "GME",
+      "project": "Gamestop",
+      "img": "https://ada.markets/img/gme.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme",
+      "Twitter": "https://twitter.com/Gamestopada"
+   },
+   {
+      "policyId": "2dbc49f682ad21f6d18705cf446f9f7a277731ab70ae21a454f888b2",
+      "nameHex": "7273425443",
+      "title": "rsBTC",
+      "project": "rsBTC",
+      "img": "https://ada.markets/img/rsbtc.png",
+      "decimals": 8,
+      "quantity": 0,
+      "Category": "Bridge",
+      "Website": "https://rosen.tech",
+      "Twitter": "https://x.com/RosenBridge_erg"
+   },
+   {
+      "policyId": "7ec8917fba4e9e5cec09d2cd08179d46f8a70efc60ae791d3e381d1c",
+      "nameHex": "6c697374736e656b6f6e62696e616e6365",
+      "title": "LSB",
+      "project": "listsnekonbinance",
+      "img": "https://ada.markets/img/lsb.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme",
+      "Twitter": "https://x.com/Listsnek"
+   },
+   {
+      "policyId": "61fe4feee9d051c75b20d11701c3154ae95d9857bd429ffb85087eae",
+      "nameHex": "526578",
+      "title": "Rex",
+      "project": "Rex",
+      "img": "https://ada.markets/img/rex.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme",
+      "Twitter": "https://x.com/RexCoinIO"
+   },
+   {
+      "policyId": "c881c20e49dbaca3ff6cef365969354150983230c39520b917f5cf7c",
+      "nameHex": "4e696b65",
+      "title": "Nike",
+      "project": "Nike",
+      "img": "https://ada.markets/img/nike.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme",
+      "Twitter": "https://x.com/nike_hoskinson"
+   },
+   {
+      "policyId": "f15b78fbd108fafff8e88b1925fe02bb72aefb935958924970f7fa63",
+      "nameHex": "4e696b65576966486174",
+      "title": "NikeWifHat",
+      "project": "NikeWifHat",
+      "img": "https://ada.markets/img/NikeWifHat.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme",
+      "Twitter": "https://x.com/NikewifhatADA"
+   },
+   {
+      "policyId": "caf8fa37489136259d4111a57f0ac0430b21dea50a569babf0572371",
+      "nameHex": "424c4f42",
+      "title": "BLOB",
+      "project": "BLOB",
+      "img": "https://ada.markets/img/blob.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme",
+      "Twitter": "https://x.com/Blobcoinada"
+   },
+   {
+      "policyId": "6a0f6c32b77596240ff8bc78e1c334fa9bd2131750f47f3afb36b1b2",
+      "nameHex": "4d4f4749",
+      "title": "MOGI",
+      "project": "Mogi CET",
+      "img": "https://ada.markets/img/mogi.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme",
+      "Twitter": "https://x.com/mogi_cet"
+   },
    {
       "policyId": "7b35f60db53bd598b5d1f6f00136e232de6b42c2616613a4568b78e4",
       "nameHex": "58434c4e",

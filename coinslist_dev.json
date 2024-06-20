@@ -2142,6 +2142,19 @@
       "Category": "Meme",
       "Twitter": "https://x.com/mogi_cet"
    },
+
+   {
+      "policyId": "320369c22975c0c1da4ece524f71a40d20ed9676d704ce712a04a1ff",
+      "nameHex": "424251",
+      "title": "BBQ",
+      "project": "BBQ",
+      "img": "https://ada.markets/img/bbq.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme",
+      "Twitter": "https://x.com/bbqcharlesada"
+   },
+
    {
       "policyId": "7b35f60db53bd598b5d1f6f00136e232de6b42c2616613a4568b78e4",
       "nameHex": "58434c4e",

@@ -2156,6 +2156,31 @@
    },
 
    {
+      "policyId": "bf3e19192da77dfadc7c9065944e50ca7e1a439d90833e3ae58b720a",
+      "nameHex": "44414e5a4f",
+      "title": "DANZO",
+      "project": "DANZO",
+      "img": "/assets/images/coins/danzoada.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme",
+      "Twitter": "https://x.com/DanZoADA"
+   },
+
+   {
+      "policyId": "30d2ebdb2fec06142ee84e5120c2717b4d68a91bffd924420d94ddea",
+      "nameHex": "43484950",
+      "title": "CHIP",
+      "project": "CHIP",
+      "img": "/assets/images/coins/chip.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "Gamming",
+      "Website": "https://cardanocasino.vip/",
+      "Twitter": "https://x.com/CardanoCasino"
+   },
+
+   {
       "policyId": "7b35f60db53bd598b5d1f6f00136e232de6b42c2616613a4568b78e4",
       "nameHex": "58434c4e",
       "title": "XCLN",

@@ -42,7 +42,7 @@
       "quantity": 0,
       "Category": "DeFi",
       "Website": "https://app.axo.trade/",
-      "Twitter": "https://twitter.com/axotrade"
+      "Twitter": "https://x.com/axotrade"
    },
    {
       "policyId": "016be5325fd988fea98ad422fcfd53e5352cacfced5c106a932a35a4",
@@ -54,7 +54,7 @@
       "quantity": 0,
       "Category": "DeFi",
       "Website": "https://butane.dev/",
-      "Twitter": "https://twitter.com/butaneprotocol"
+      "Twitter": "https://x.com/butaneprotocol"
    },
    {
       "policyId": "5b01968867e13432afaa2f814e1d15e332d6cd0aa77e350972b0967d",
@@ -66,7 +66,7 @@
       "quantity": 0,
       "Category": "DAO",
       "Website": "https://theadao.io",
-      "Twitter": "https://twitter.com/ADAOCommunity"
+      "Twitter": "https://x.com/ADAOCommunity"
    },
    {
       "policyId": "5ad8deb64bfec21ad2d96e1270b5873d0c4d0f231b928b4c39eb2435",
@@ -78,7 +78,7 @@
       "quantity": 0,
       "Category": "Other",
       "Website": "https://adosia.com/",
-      "Twitter": "https://twitter.com/AdosiaIO"
+      "Twitter": "https://x.com/AdosiaIO"
    },
    {
       "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
@@ -90,7 +90,7 @@
       "quantity": 0,
       "Category": "AI",
       "Website": "https://singularitynet.io/",
-      "Twitter": "https://twitter.com/singularity_net"
+      "Twitter": "https://x.com/singularity_net"
    },
    {
       "policyId": "285b65ae63d4fad36321384ec61edfd5187b8194fff89b5abe9876da",
@@ -114,7 +114,7 @@
       "quantity": 0,
       "Category": "DeFi",
       "Website": "https://bankercoinada.com",
-      "Twitter": "https://twitter.com/BankercoinAda"
+      "Twitter": "https://x.com/BankercoinAda"
    },
    {
       "policyId": "7507734918533b3b896241b4704f3d4ce805256b01da6fcede430436",
@@ -136,7 +136,7 @@
       "quantity": 0,
       "Category": "Bridge",
       "Website": "https://wanchain.org",
-      "Twitter": "https://twitter.com/wanchain_org"
+      "Twitter": "https://x.com/wanchain_org"
    },
    {
       "policyId": "585cfcbdd0786e961187999e5d5d36b38d1ebc1c4112a0a95a8bd477",
@@ -148,7 +148,7 @@
       "quantity": 0,
       "Category": "DeFi",
       "Website": "https://ibilecoin.com",
-      "Twitter": "https://twitter.com/IBILECOIN1"
+      "Twitter": "https://x.com/IBILECOIN1"
    },
    {
       "policyId": "e043fd7b2076ea9e1b279d200b59e153bf6b299a72ce6e2c14aeb790",
@@ -160,7 +160,7 @@
       "quantity": 0,
       "Category": "DeFi",
       "Website": "https://blueshift.fi/",
-      "Twitter": "https://twitter.com/blueshiftfi"
+      "Twitter": "https://x.com/blueshiftfi"
    },
    {
       "policyId": "51a5e236c4de3af2b8020442e2a26f454fda3b04cb621c1294a0ef34",
@@ -172,7 +172,7 @@
       "quantity": 0,
       "Category": "NFT, Other",
       "Website": "https://book.io",
-      "Twitter": "https://twitter.com/book_io"
+      "Twitter": "https://x.com/book_io"
    },
    {
       "policyId": "4fde92c2f6dbcfa2879b44f7453872b31394cfb2f70f1d4c411169ac",
@@ -184,7 +184,7 @@
       "quantity": 0,
       "Category": "Meme",
       "Website": "",
-      "Twitter": "https://twitter.com/"
+      "Twitter": "https://x.com/"
    },
    {
       "policyId": "a1c94e56e4b24945338f2779e33b02e52fdd30d5f279c6131cc43c7c",
@@ -196,7 +196,7 @@
       "quantity": 0,
       "Category": "Meme",
       "Website": "https://buzzthebellboy.com/",
-      "Twitter": "https://twitter.com/BuzzTheBellboy"
+      "Twitter": "https://x.com/BuzzTheBellboy"
    },
    {
       "policyId": "8e51398904a5d3fc129fbf4f1589701de23c7824d5c90fdb9490e15a",
@@ -208,7 +208,7 @@
       "quantity": 0,
       "Category": "Oracle",
       "Website": "https://charli3.io",
-      "Twitter": "https://twitter.com/Oraclecharli3"
+      "Twitter": "https://x.com/Oraclecharli3"
    },
    {
       "policyId": "a00fdf4fb9ab6c8c2bd1533a2f14855edf12aed5ecbf96d4b5f5b939",
@@ -220,7 +220,7 @@
       "quantity": 0,
       "Category": "GameFi, NFT, DeFi, RealFi",
       "Website": "https://cardanocrocsclub.com",
-      "Twitter": "https://twitter.com/cardanocrocclub"
+      "Twitter": "https://x.com/cardanocrocclub"
    },
    {
       "policyId": "2d587111358801114f04df83dc0015de0a740b462b75cce5170fc935",
@@ -232,7 +232,7 @@
       "quantity": 0,
       "Category": "AI",
       "Website": "https://cardanogpt.ai/",
-      "Twitter": "https://twitter.com/replyada"
+      "Twitter": "https://x.com/replyada"
    },
    {
       "policyId": "f4364875e75320d405ceadebdf0db63fadaff55c72d4ff6b82f0676a",
@@ -244,7 +244,7 @@
       "quantity": 0,
       "Category": "DAO",
       "Website": "https://www.cardanogoldcoin.com",
-      "Twitter": "https://twitter.com/CardanoGoldCoin"
+      "Twitter": "https://x.com/CardanoGoldCoin"
    },
    {
       "policyId": "cdaaee586376139ee8c3cc4061623968810d177ca5c300afb890b48a",
@@ -256,7 +256,7 @@
       "quantity": 0,
       "Category": "Metaverse, NFT, GameFi",
       "Website": "https://www.cardastation.com/",
-      "Twitter": "https://twitter.com/carda_station"
+      "Twitter": "https://x.com/carda_station"
    },
    {
       "policyId": "ee0633e757fdd1423220f43688c74678abde1cead7ce265ba8a24fcd",
@@ -268,7 +268,7 @@
       "quantity": 0,
       "Category": "DeFi",
       "Website": "https://yamfore.com/",
-      "Twitter": "https://twitter.com/yamfore"
+      "Twitter": "https://x.com/yamfore"
    },
    {
       "policyId": "4190b2941d9be04acc69c39739bd5acc66d60ccab480d8e20bc87e37",
@@ -280,7 +280,7 @@
       "quantity": 0,
       "Category": "Bridge",
       "Website": "https://www.anetabtc.io",
-      "Twitter": "https://twitter.com/anetaBTC"
+      "Twitter": "https://x.com/anetaBTC"
    },
    {
       "policyId": "e14fe3ab348f9a6198359481472601f4557b9f86984f40a186a3b1e8",
@@ -292,7 +292,7 @@
       "quantity": 0,
       "Category": "Meme",
       "Website": "https://cherrytokenada.com/",
-      "Twitter": "https://twitter.com/CherryTokenADA"
+      "Twitter": "https://x.com/CherryTokenADA"
    },
    {
       "policyId": "e9c28a71273f825b13f38244ccf1fea97c4025813610d01a7c5d681f",
@@ -303,7 +303,7 @@
       "decimals": 0,
       "quantity": 0,
       "Category": "Meme",
-      "Twitter": "https://twitter.com/charlztoken"
+      "Twitter": "https://x.com/charlztoken"
    },
    {
       "policyId": "75fcc276057db5fc48eae0e11453c773c8a54604c3086bf9d95ac1b7",
@@ -315,7 +315,7 @@
       "quantity": 0,
       "Category": "DeFi",
       "Website": "https://cherrylend.org/",
-      "Twitter": "https://twitter.com/Cherry_Lend"
+      "Twitter": "https://x.com/Cherry_Lend"
    },
    {
       "policyId": "38ad9dc3aec6a2f38e220142b9aa6ade63ebe71f65e7cc2b7d8a8535",
@@ -327,7 +327,7 @@
       "quantity": 0,
       "Category": "NFT",
       "Website": "https://www.claynation.io",
-      "Twitter": "https://twitter.com/claymates"
+      "Twitter": "https://x.com/claymates"
    },
    {
       "policyId": "a56b1bfd69d317076c5c864d647851e2961594b21ec056f3c8491485",
@@ -339,7 +339,7 @@
       "quantity": 0,
       "Category": "Comics",
       "Website": "https://cryptoversecomics.com/en/",
-      "Twitter": "https://twitter.com/CryptoverseCNFT"
+      "Twitter": "https://x.com/CryptoverseCNFT"
    },
    {
       "policyId": "b34b3ea80060ace9427bda98690a73d33840e27aaa8d6edb7f0c757a",
@@ -351,7 +351,7 @@
       "quantity": 0,
       "Category": "Bridge",
       "Website": "https://www.anetabtc.io",
-      "Twitter": "https://twitter.com/anetaBTC"
+      "Twitter": "https://x.com/anetaBTC"
    },
    {
       "policyId": "b01cd2dffad5d6e840d7420b3e09154a96c796bbd9a57bb3455ba642",
@@ -363,7 +363,7 @@
       "quantity": 0,
       "Category": "Meme",
       "Website": "https://www.cobraking.meme",
-      "Twitter": "https://twitter.com/Cobraking_meme"
+      "Twitter": "https://x.com/Cobraking_meme"
    },
    {
       "policyId": "1ad4f068a49bbf0d4f05335cadeca0519cef34cc1b2bc35b2e5739ae",
@@ -374,7 +374,7 @@
       "decimals": 0,
       "quantity": 0,
       "Category": "Meme",
-      "Twitter": "https://twitter.com/CockCoin_ada"
+      "Twitter": "https://x.com/CockCoin_ada"
    },
    {
       "policyId": "9a1dfe73344033e70deab8c5c28c00f62b092814fb14581ec3a3d516",
@@ -386,7 +386,7 @@
       "quantity": 0,
       "Category": "NFT, GameFi",
       "Website": "https://adaempire.com",
-      "Twitter": "https://twitter.com/AdaEmpireNFT"
+      "Twitter": "https://x.com/AdaEmpireNFT"
    },
    {
       "policyId": "c27600f3aff3d94043464a33786429b78e6ab9df5e1d23b774acb34c",
@@ -398,7 +398,7 @@
       "quantity": 0,
       "Category": "NFT, GameFi",
       "Website": "https://coinecta.fi",
-      "Twitter": "https://twitter.com/CoinectaFinance"
+      "Twitter": "https://x.com/CoinectaFinance"
    },
    {
       "policyId": "0b3518ac0f78ced3de283dce6c997228cff2b07c283a16530efd700f",
@@ -409,8 +409,8 @@
       "decimals": 6,
       "quantity": 0,
       "Category": "Meme",
-      "Website": "https://twitter.com/copeonada",
-      "Twitter": "https://twitter.com/copeonada"
+      "Website": "https://x.com/copeonada",
+      "Twitter": "https://x.com/copeonada"
    },
    {
       "policyId": "b6a7467ea1deb012808ef4e87b5ff371e85f7142d7b356a40d9b42a0",
@@ -422,7 +422,7 @@
       "quantity": 0,
       "Category": "Metaverse",
       "Website": "https://www.cornucopias.io/",
-      "Twitter": "https://twitter.com/CornucopiasGame"
+      "Twitter": "https://x.com/CornucopiasGame"
    },
    {
       "policyId": "0c3b14ddb319c5a50bfd93e69d0706d1527e2b2169744665a1c534d0",
@@ -434,7 +434,7 @@
       "quantity": 0,
       "Category": "RealFi",
       "Website": "https://vixfinancetoken.com/",
-      "Twitter": "https://twitter.com/VixFi_Token"
+      "Twitter": "https://x.com/VixFi_Token"
    },
    {
       "policyId": "bf524874448cbf52be3a26133b0a0edf5eb65c09ffed383b881ad327",
@@ -446,7 +446,7 @@
       "quantity": 0,
       "Category": "DeFi",
       "Website": "https://cswap.fi",
-      "Twitter": "https://twitter.com/CswapDEX"
+      "Twitter": "https://x.com/CswapDEX"
    },
    {
       "policyId": "a8a1dccea2e378081f2d500d98d022dd3c0bd77afd9dbc7b55a9d21b",
@@ -458,7 +458,7 @@
       "quantity": 0,
       "Category": "Other",
       "Website": "https://tosidrop.io/",
-      "Twitter": "https://twitter.com/TosiDrop"
+      "Twitter": "https://x.com/TosiDrop"
    },
    {
       "policyId": "9f452e23804df3040b352b478039357b506ad3b50d2ce0d7cbd5f806",
@@ -470,7 +470,7 @@
       "quantity": 0,
       "Category": "DeFi",
       "Website": "https://adatokenvault.com/",
-      "Twitter": "https://twitter.com/ADATOKENVAULT"
+      "Twitter": "https://x.com/ADATOKENVAULT"
    },
    {
       "policyId": "e8e6b35d977a56ae5a221786eb0b2b348b8555e6e6afc6a54c25d2c5",
@@ -482,7 +482,7 @@
       "quantity": 0,
       "Category": "GameFi",
       "Website": "https://www.w3ride.io",
-      "Twitter": "https://twitter.com/w3ride"
+      "Twitter": "https://x.com/w3ride"
    },
    {
       "policyId": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff935",
@@ -494,7 +494,7 @@
       "quantity": 0,
       "Category": "Bridge",
       "Website": "https://wanchain.org",
-      "Twitter": "https://twitter.com/wanchain_org"
+      "Twitter": "https://x.com/wanchain_org"
    },
    {
       "policyId": "c69b36d2939ca42bf3d8c1dae2bfed9e8a4c34dc3f002ff3782227c0",
@@ -505,7 +505,7 @@
       "decimals": 0,
       "quantity": 0,
       "Category": "Meme",
-      "Twitter": "https://twitter.com/cardanzo_coin/"
+      "Twitter": "https://x.com/cardanzo_coin/"
    },
    {
       "policyId": "fb0e9a083ac66c814548002cbdfc54557e064e4cdf5c6675e72d22b4",
@@ -517,7 +517,7 @@
       "quantity": 0,
       "Category": "Meme",
       "Website": "https://dean.community/",
-      "Twitter": "https://twitter.com/dean_community"
+      "Twitter": "https://x.com/dean_community"
    },
    {
       "policyId": "961f2cac0bb1967d74691af179350c1e1062c7298d1f7be1e4696e31",
@@ -529,7 +529,7 @@
       "quantity": 0,
       "Category": "NFT",
       "Website": "https://derpbirds.io",
-      "Twitter": "https://twitter.com/DerpBirdsNFT"
+      "Twitter": "https://x.com/DerpBirdsNFT"
    },
    {
       "policyId": "64c3ebd40ed377989aa3069a2936e07c6ce82df46688c473d9215206",
@@ -541,7 +541,7 @@
       "quantity": 0,
       "Category": "DeFi, Meme",
       "Website": "https://dgafcoin.io/",
-      "Twitter": "https://twitter.com/dgafcoin"
+      "Twitter": "https://x.com/dgafcoin"
    },
    {
       "policyId": "ce5b9e0f8a88255b65f2e4d065c6e716e9fa9a8a86dfb86423dd1ac0",
@@ -553,7 +553,7 @@
       "quantity": 0,
       "Category": "NFT",
       "Website": "https://pxlz.org",
-      "Twitter": "https://twitter.com/pxlzNFT"
+      "Twitter": "https://x.com/pxlzNFT"
    },
    {
       "policyId": "5612bee388219c1b76fd527ed0fa5aa1d28652838bcab4ee4ee63197",
@@ -565,7 +565,7 @@
       "quantity": 0,
       "Category": "GameFi",
       "Website": "https://docs.discoin.family/tokenomics/readme",
-      "Twitter": "https://twitter.com/TheSilkToad"
+      "Twitter": "https://x.com/TheSilkToad"
    },
    {
       "policyId": "8db269c3ec630e06ae29f74bc39edd1f87c819f1056206e879a1cd61",
@@ -577,7 +577,7 @@
       "quantity": 0,
       "Category": "Stablecoin",
       "Website": "https://djed.xyz/",
-      "Twitter": "https://twitter.com/COTInetwork"
+      "Twitter": "https://x.com/COTInetwork"
    },
    {
       "policyId": "724a31d1421744cac3bb1d547aa692b43517d651c46e60a0cf1f70ec",
@@ -589,7 +589,7 @@
       "quantity": 0,
       "Category": "Meme",
       "Website": "https://dodocoinada.com/",
-      "Twitter": "https://twitter.com/DodoCoinada"
+      "Twitter": "https://x.com/DodoCoinada"
    },
    {
       "policyId": "af2e27f580f7f08e93190a81f72462f153026d06450924726645891b",
@@ -601,7 +601,7 @@
       "quantity": 0,
       "Category": "Other",
       "Website": "https://dripdropz.io",
-      "Twitter": "https://twitter.com/DripDropz_io"
+      "Twitter": "https://x.com/DripDropz_io"
    },
    {
       "policyId": "c50e06eb7d36ce67af2b15dd38228b59e39a5dae644166c84e3d2d13",
@@ -613,7 +613,7 @@
       "quantity": 0,
       "Category": "DeFi, Meme",
       "Website": "https://dumbcoinada.wtf/",
-      "Twitter": "https://twitter.com/dumbcoinada"
+      "Twitter": "https://x.com/dumbcoinada"
    },
    {
       "policyId": "6c8642400e8437f737eb86df0fc8a8437c760f48592b1ba8f5767e81",
@@ -625,7 +625,7 @@
       "quantity": 0,
       "Category": "RealFi",
       "Website": "https://empowa.io",
-      "Twitter": "https://twitter.com/empowa_io"
+      "Twitter": "https://x.com/empowa_io"
    },
    {
       "policyId": "9abf0afd2f236a19f2842d502d0450cbcd9c79f123a9708f96fd9b96",
@@ -637,7 +637,7 @@
       "quantity": 0,
       "Category": "DeFi",
       "Website": "https://encoins.io",
-      "Twitter": "https://twitter.com/ENCOINS1"
+      "Twitter": "https://x.com/ENCOINS1"
    },
    {
       "policyId": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff935",
@@ -649,7 +649,7 @@
       "quantity": 0,
       "Category": "Bridge",
       "Website": "https://wanchain.org",
-      "Twitter": "https://twitter.com/wanchain_org"
+      "Twitter": "https://x.com/wanchain_org"
    },
    {
       "policyId": "a3931691f5c4e65d01c429e473d0dd24c51afdb6daf88e632a6c1e51",
@@ -661,7 +661,7 @@
       "quantity": 0,
       "Category": "Oracle",
       "Website": "https://orcfax.io/",
-      "Twitter": "https://twitter.com/orcfax"
+      "Twitter": "https://x.com/orcfax"
    },
    {
       "policyId": "815418a1b078a259e678ecccc9d7eac7648d10b88f6f75ce2db8a25a",
@@ -673,7 +673,7 @@
       "quantity": 0,
       "Category": "RealFi, NFT",
       "Website": "https://www.fraction.estate/",
-      "Twitter": "https://twitter.com/FractionEstate"
+      "Twitter": "https://x.com/FractionEstate"
    },
    {
       "policyId": "fc11a9ef431f81b837736be5f53e4da29b9469c983d07f321262ce61",
@@ -684,7 +684,7 @@
       "decimals": 0,
       "quantity": 0,
       "Category": "Meme",
-      "Twitter": "https://twitter.com/ADA_PEEPOS"
+      "Twitter": "https://x.com/ADA_PEEPOS"
    },
    {
       "policyId": "b2047ac03c18aa07c2ec50f0b9d1cf34db6021f92aa89f2e956602bd",
@@ -695,7 +695,7 @@
       "decimals": 0,
       "quantity": 0,
       "Category": "Meme",
-      "Twitter": "https://twitter.com/freyahoskinson"
+      "Twitter": "https://x.com/freyahoskinson"
    },
    {
       "policyId": "a4da8764a57e66a0085b5bfcde96c89b798d92ee83a75f59237e375b",
@@ -707,7 +707,7 @@
       "quantity": 0,
       "Category": "Meme",
       "Website": "https://firetokenada.com/",
-      "Twitter": "https://twitter.com/FireTokenADA"
+      "Twitter": "https://x.com/FireTokenADA"
    },
    {
       "policyId": "8daefa391220bd0d8d007f3748d870f7f3c106040314c8515ccc35a5",
@@ -719,7 +719,7 @@
       "quantity": 0,
       "Category": "DeFi",
       "Website": "https://flac.finance",
-      "Twitter": "https://twitter.com/FlacFinance"
+      "Twitter": "https://x.com/FlacFinance"
    },
    {
       "policyId": "577f0b1342f8f8f4aed3388b80a8535812950c7a892495c0ecdf0f1e",
@@ -731,7 +731,7 @@
       "quantity": 0,
       "Category": "RealFi",
       "Website": "https://fluidtokens.com/",
-      "Twitter": "https://twitter.com/FluidTokens"
+      "Twitter": "https://x.com/FluidTokens"
    },
    {
       "policyId": "79906b9c8d2fbddeba9658387a2a1187f3edd8f546e5dc49225710a1",
@@ -743,7 +743,7 @@
       "quantity": 0,
       "Category": "Meme, NFT",
       "Website": "https://froggies.vercel.app/",
-      "Twitter": "https://twitter.com/Froggieo_"
+      "Twitter": "https://x.com/Froggieo_"
    },
    {
       "policyId": "dda5fdb1002f7389b33e036b6afee82a8189becb6cba852e8b79b4fb",
@@ -755,7 +755,7 @@
       "quantity": 0,
       "Category": "DeFi",
       "Website": "https://www.geniusyield.co",
-      "Twitter": "https://twitter.com/GeniusyieldO"
+      "Twitter": "https://x.com/GeniusyieldO"
    },
    {
       "policyId": "fbae99b8679369079a7f6f0da14a2cf1c2d6bfd3afdf3a96a64ab67a",
@@ -767,7 +767,7 @@
       "quantity": 0,
       "Category": "Launchpad",
       "Website": "https://www.genius-x.co/",
-      "Twitter": "https://twitter.com/OfficialGeniusx"
+      "Twitter": "https://x.com/OfficialGeniusx"
    },
    {
       "policyId": "10a49b996e2402269af553a8a96fb8eb90d79e9eca79e2b4223057b6",
@@ -779,7 +779,7 @@
       "quantity": 0,
       "Category": "Wallet",
       "Website": "https://gerowallet.io",
-      "Twitter": "https://twitter.com/GeroWallet"
+      "Twitter": "https://x.com/GeroWallet"
    },
    {
       "policyId": "c7dcfa416c127f630b263c7e0fe0564430cfa9c56bba43e1a37c6915",
@@ -791,7 +791,7 @@
       "quantity": 0,
       "Category": "DeFi, RealFi, NFT",
       "Website": "https://www.gokey.finance",
-      "Twitter": "https://twitter.com/GoKeyFinance"
+      "Twitter": "https://x.com/GoKeyFinance"
    },
    {
       "policyId": "4623ab311b7d982d8d26fcbe1a9439ca56661aafcdcd8d8a0ef31fd6",
@@ -803,7 +803,7 @@
       "quantity": 0,
       "Category": "Other",
       "Website": "https://virtuallymade.io",
-      "Twitter": "https://twitter.com/VeggieMatesNFT"
+      "Twitter": "https://x.com/VeggieMatesNFT"
    },
    {
       "policyId": "bb4cfbe0f6be60b80f90f815e8353b93431de4df785d75350b9d214a",
@@ -815,7 +815,7 @@
       "quantity": 0,
       "Category": "NFT",
       "Website": "https://adabudz.com/-herb",
-      "Twitter": "https://twitter.com/adabudzNFT"
+      "Twitter": "https://x.com/adabudzNFT"
    },
    {
       "policyId": "a0028f350aaabe0545fdcb56b039bfb08e4bb4d8c4d7c3c7d481c235",
@@ -839,7 +839,7 @@
       "quantity": 0,
       "Category": "Social",
       "Website": "https://hyenacoin.xyz/",
-      "Twitter": "https://twitter.com/Hyena_Coin"
+      "Twitter": "https://x.com/Hyena_Coin"
    },
    {
       "policyId": "95a427e384527065f2f8946f5e86320d0117839a5e98ea2c0b55fb00",
@@ -851,7 +851,7 @@
       "quantity": 0,
       "Category": "DeFi",
       "Website": "https://dexhunter.io/",
-      "Twitter": "https://twitter.com/DexHunterIO"
+      "Twitter": "https://x.com/DexHunterIO"
    },
    {
       "policyId": "5d16cc1a177b5d9ba9cfa9793b07e60f1fb70fea1f8aef064415d114",
@@ -863,7 +863,7 @@
       "quantity": 0,
       "Category": "Other",
       "Website": "https://www.iagon.com/",
-      "Twitter": "https://twitter.com/IagonOfficial"
+      "Twitter": "https://x.com/IagonOfficial"
    },
    {
       "policyId": "12d5f4fefe222d52a4fdcee56f4b272911d7c2202b068a08ebf53270",
@@ -875,7 +875,7 @@
       "quantity": 0,
       "Category": "Other",
       "Website": "https://iamx.id/",
-      "Twitter": "https://twitter.com/IAM_X_IDENTITY"
+      "Twitter": "https://x.com/IAM_X_IDENTITY"
    },
    {
       "policyId": "f66d78b4a3cb3d37afa0ec36461e51ecbde00f26c8f0a68f94b69880",
@@ -887,7 +887,7 @@
       "quantity": 0,
       "Category": "DeFi",
       "Website": "https://indigoprotocol.io",
-      "Twitter": "https://twitter.com/Indigo_protocol"
+      "Twitter": "https://x.com/Indigo_protocol"
    },
    {
       "policyId": "b9168f05e657b6946fede254e383586cf7e7a2573d5a0fa12b3ef6ac",
@@ -899,7 +899,7 @@
       "quantity": 0,
       "Category": "DeFi, DAO, Launchpad",
       "Website": "https://idopass.finance/",
-      "Twitter": "https://twitter.com/ido_pass_nft"
+      "Twitter": "https://x.com/ido_pass_nft"
    },
    {
       "policyId": "f66d78b4a3cb3d37afa0ec36461e51ecbde00f26c8f0a68f94b69880",
@@ -911,7 +911,7 @@
       "quantity": 0,
       "Category": "DeFi",
       "Website": "https://indigoprotocol.io",
-      "Twitter": "https://twitter.com/Indigo_protocol"
+      "Twitter": "https://x.com/Indigo_protocol"
    },
    {
       "policyId": "533bb94a8850ee3ccbe483106489399112b74c905342cb1792a797a0",
@@ -923,7 +923,7 @@
       "quantity": 0,
       "Category": "DeFi",
       "Website": "https://indigoprotocol.io",
-      "Twitter": "https://twitter.com/Indigo_protocol"
+      "Twitter": "https://x.com/Indigo_protocol"
    },
    {
       "policyId": "f66d78b4a3cb3d37afa0ec36461e51ecbde00f26c8f0a68f94b69880",
@@ -935,7 +935,7 @@
       "quantity": 0,
       "Category": "DeFi",
       "Website": "https://indigoprotocol.io",
-      "Twitter": "https://twitter.com/Indigo_protocol"
+      "Twitter": "https://x.com/Indigo_protocol"
    },
    {
       "policyId": "5c1c91a65bedac56f245b8184b5820ced3d2f1540e521dc1060fa683",
@@ -947,7 +947,7 @@
       "quantity": 0,
       "Category": "NFT",
       "Website": "https://linktr.ee/blockinvestmentgroup",
-      "Twitter": "https://twitter.com/The_Block_Group"
+      "Twitter": "https://x.com/The_Block_Group"
    },
    {
       "policyId": "681b5d0383ac3b457e1bcc453223c90ccef26b234328f45fa10fd276",
@@ -959,7 +959,7 @@
       "quantity": 0,
       "Category": "NFT",
       "Website": "https://www.jpg.foundation/",
-      "Twitter": "https://twitter.com/JPGFoundation"
+      "Twitter": "https://x.com/JPGFoundation"
    },
    {
       "policyId": "c4c00fbd8fa227442a5e7cdecde33b24588494d05a2c50fda8938c6d",
@@ -971,7 +971,7 @@
       "quantity": 0,
       "Category": "Other",
       "Website": "https://www.cardanokidz.com/",
-      "Twitter": "https://twitter.com/CardanoKidz"
+      "Twitter": "https://x.com/CardanoKidz"
    },
    {
       "policyId": "b166a1047a8cd275bf0a50201ece3d4f0b4da300094ffcc668a6f408",
@@ -983,7 +983,7 @@
       "quantity": 0,
       "Category": "Meme",
       "Website": "https://kisekitoken.com/",
-      "Twitter": "https://twitter.com/Kisekitoken"
+      "Twitter": "https://x.com/Kisekitoken"
    },
    {
       "policyId": "501dd5d2fbab6af0a26b1421076ff3afc4d5a34d6b3f9694571116ea",
@@ -995,7 +995,7 @@
       "quantity": 0,
       "Category": "Meme, NFT",
       "Website": "https://adakondacoin.com/",
-      "Twitter": "https://twitter.com/AdaKondaCoin"
+      "Twitter": "https://x.com/AdaKondaCoin"
    },
    {
       "policyId": "5e57bee085c5b2ec76cf5783b4b7dbc0edc1bef05dac8cbe122637b8",
@@ -1017,7 +1017,7 @@
       "quantity": 0,
       "Category": "DeFi",
       "Website": "http://kubecoin.org/",
-      "Twitter": "https://twitter.com/Kubecoin_"
+      "Twitter": "https://x.com/Kubecoin_"
    },
    {
       "policyId": "8fef2d34078659493ce161a6c7fba4b56afefa8535296a5743f69587",
@@ -1029,7 +1029,7 @@
       "quantity": 0,
       "Category": "DeFi",
       "Website": "https://aada.finance",
-      "Twitter": "https://twitter.com/AadaFinance"
+      "Twitter": "https://x.com/AadaFinance"
    },
    {
       "policyId": "7914fae20eb2903ed6fd5021a415c1bd2626b64a2d86a304cb40ff5e",
@@ -1041,7 +1041,7 @@
       "quantity": 0,
       "Category": "DeFi",
       "Website": "https://linkage.finance",
-      "Twitter": "https://twitter.com/LinkageFinance/"
+      "Twitter": "https://x.com/LinkageFinance/"
    },
    {
       "policyId": "8654e8b350e298c80d2451beb5ed80fc9eee9f38ce6b039fb8706bc3",
@@ -1053,7 +1053,7 @@
       "quantity": 0,
       "Category": "Meme",
       "Website": "https://wenlobster.io/",
-      "Twitter": "https://twitter.com/TheLobsterCoin"
+      "Twitter": "https://x.com/TheLobsterCoin"
    },
    {
       "policyId": "da8c30857834c6ae7203935b89278c532b3995245295456f993e1d24",
@@ -1065,7 +1065,7 @@
       "quantity": 0,
       "Category": "DeFi",
       "Website": "https://liqwid.finance",
-      "Twitter": "https://twitter.com/liqwidfinance"
+      "Twitter": "https://x.com/liqwidfinance"
    },
    {
       "policyId": "ea2d23f1fa631b414252824c153f2d6ba833506477a929770a4dd9c2",
@@ -1077,7 +1077,7 @@
       "quantity": 0,
       "Category": "Meme, GameFi",
       "Website": "https://madbull.io/",
-      "Twitter": "https://twitter.com/fLiGhtofMAdbuLL"
+      "Twitter": "https://x.com/fLiGhtofMAdbuLL"
    },
    {
       "policyId": "6f46e1304b16d884c85c62fb0eef35028facdc41aaa0fd319a152ed6",
@@ -1089,7 +1089,7 @@
       "quantity": 0,
       "Category": "GameFi",
       "Website": "https://mocossi.com/",
-      "Twitter": "https://twitter.com/officialmocossi"
+      "Twitter": "https://x.com/officialmocossi"
    },
    {
       "policyId": "772791eb3f4b92874a49d487375a90db631988291c1a643b817668ca",
@@ -1101,7 +1101,7 @@
       "quantity": 0,
       "Category": "GameFi, Metaverse",
       "Website": "https://mdtoken.io/",
-      "Twitter": "https://twitter.com/MadDogCarClub"
+      "Twitter": "https://x.com/MadDogCarClub"
    },
    {
       "policyId": "a2944573e99d2ed3055b808eaa264f0bf119e01fc6b18863067c63e4",
@@ -1113,7 +1113,7 @@
       "quantity": 0,
       "Category": "RealFi",
       "Website": "https://meld.com",
-      "Twitter": "https://twitter.com/MELD_Defi"
+      "Twitter": "https://x.com/MELD_Defi"
    },
    {
       "policyId": "8a1cfae21368b8bebbbed9800fec304e95cce39a2a57dc35e2e3ebaa",
@@ -1125,7 +1125,7 @@
       "quantity": 0,
       "Category": "DeFi",
       "Website": "https://muesliswap.com",
-      "Twitter": "https://twitter.com/MuesliSwapTeam"
+      "Twitter": "https://x.com/MuesliSwapTeam"
    },
    {
       "policyId": "29d222ce763455e3d7a09a665ce554f00ac89d2e99a1a83d267170c6",
@@ -1137,7 +1137,7 @@
       "quantity": 0,
       "Category": "DeFi",
       "Website": "https://minswap.org",
-      "Twitter": "https://twitter.com/MinswapDEX"
+      "Twitter": "https://x.com/MinswapDEX"
    },
    {
       "policyId": "160a880d9fc45380737cb7e57ff859763230aab28b3ef6a84007bfcc",
@@ -1149,7 +1149,7 @@
       "quantity": 0,
       "Category": "NFT",
       "Website": "https://www.chainsofwar.io/",
-      "Twitter": "https://twitter.com/ChainsofWarNFT"
+      "Twitter": "https://x.com/ChainsofWarNFT"
    },
    {
       "policyId": "43b07d4037f0d75ee10f9863097463fc02ff3c0b8b705ae61d9c75bf",
@@ -1161,7 +1161,7 @@
       "quantity": 0,
       "Category": "DeFi, RealFi, Bridge",
       "Website": "https://mynth.ai/",
-      "Twitter": "https://twitter.com/_mynth_"
+      "Twitter": "https://x.com/_mynth_"
    },
    {
       "policyId": "92776616f1f32c65a173392e4410a3d8c39dcf6ef768c73af164779c",
@@ -1173,7 +1173,7 @@
       "quantity": 0,
       "Category": "Stablecoin",
       "Website": "https://mynth.ai/",
-      "Twitter": "https://twitter.com/_mynth_"
+      "Twitter": "https://x.com/_mynth_"
    },
    {
       "policyId": "ffb1abe9fe93ee9f13874403a3d4f8addaa65fbf22d5d7f41c087d8e",
@@ -1185,7 +1185,7 @@
       "quantity": 0,
       "Category": "NFT",
       "Website": "https://mutants.gitbook.io/mutant-nfts-litepaper/ecosystem-and-utility/mutant-utility-token-usdmutant/tokenomics",
-      "Twitter": "https://twitter.com/MutantNFTs"
+      "Twitter": "https://x.com/MutantNFTs"
    },
    {
       "policyId": "8f9c32977d2bacb87836b64f7811e99734c6368373958da20172afba",
@@ -1197,7 +1197,7 @@
       "quantity": 0,
       "Category": "DeFi",
       "Website": "https://muesliswap.com",
-      "Twitter": "https://twitter.com/MuesliSwapTeam"
+      "Twitter": "https://x.com/MuesliSwapTeam"
    },
    {
       "policyId": "cf5d945ad03a11c46e70a85daa8598b2275f9442ceed1249754ad9a1",
@@ -1209,7 +1209,7 @@
       "quantity": 0,
       "Category": "NFT",
       "Website": "https://www.apenation.io/",
-      "Twitter": "https://twitter.com/Ape_NationNFT"
+      "Twitter": "https://x.com/Ape_NationNFT"
    },
    {
       "policyId": "3744d5e39333c384505214958c4ed66591a052778512e56caf420f62",
@@ -1233,7 +1233,7 @@
       "quantity": 0,
       "Category": "RealFi, NFT",
       "Website": "https://newm.io",
-      "Twitter": "https://twitter.com/projectNEWM"
+      "Twitter": "https://x.com/projectNEWM"
    },
    {
       "policyId": "df1d850c46d6c9d12cbf6181c35db9225a91b77c8a646b7f636f8ae4",
@@ -1257,7 +1257,7 @@
       "quantity": 0,
       "Category": "NFT",
       "Website": "https://nmkr.io",
-      "Twitter": "https://twitter.com/nmkr_io"
+      "Twitter": "https://x.com/nmkr_io"
    },
    {
       "policyId": "edfd7a1d77bcb8b884c474bdc92a16002d1fb720e454fa6e99344479",
@@ -1269,7 +1269,7 @@
       "quantity": 0,
       "Category": "AI",
       "Website": "https://nunet.io/",
-      "Twitter": "https://twitter.com/nunet_global"
+      "Twitter": "https://x.com/nunet_global"
    },
    {
       "policyId": "1ddcb9c9de95361565392c5bdff64767492d61a96166cb16094e54be",
@@ -1281,7 +1281,7 @@
       "quantity": 0,
       "Category": "DeFi",
       "Website": "https://optionflow.finance",
-      "Twitter": "https://twitter.com/OptionFlowTeam"
+      "Twitter": "https://x.com/OptionFlowTeam"
    },
    {
       "policyId": "e52964af4fffdb54504859875b1827b60ba679074996156461143dc1",
@@ -1293,7 +1293,7 @@
       "quantity": 0,
       "Category": "DeFi",
       "Website": "https://www.optim.finance/",
-      "Twitter": "https://twitter.com/OptimFi"
+      "Twitter": "https://x.com/OptimFi"
    },
    {
       "policyId": "fcad3f8a7e27b9cbde9d49a3de830f65085b35cc5090fa796b0760e4",
@@ -1305,7 +1305,7 @@
       "quantity": 0,
       "Category": "DeFi",
       "Website": "https://www.optim.finance/",
-      "Twitter": "https://twitter.com/OptimFi"
+      "Twitter": "https://x.com/OptimFi"
    },
    {
       "policyId": "37a2b93b4aa2b286b92b7099faff0bb87e0c629a5079c0584da2d577",
@@ -1317,7 +1317,7 @@
       "quantity": 0,
       "Category": "DAO",
       "Website": "https://osmiumdao.io",
-      "Twitter": "https://twitter.com/OsmiumDAO_"
+      "Twitter": "https://x.com/OsmiumDAO_"
    },
    {
       "policyId": "884892bcdc360bcef87d6b3f806e7f9cd5ac30d999d49970e7a903ae",
@@ -1329,7 +1329,7 @@
       "quantity": 0,
       "Category": "Metaverse",
       "Website": "https://pavia.io",
-      "Twitter": "https://twitter.com/Pavia_io"
+      "Twitter": "https://x.com/Pavia_io"
    },
    {
       "policyId": "cc8d1b026353022abbfcc2e1e71159f9e308d9c6e905ac1db24c7fb6",
@@ -1341,7 +1341,7 @@
       "quantity": 0,
       "Category": "DeFi, NFT",
       "Website": "https://paribus.io",
-      "Twitter": "https://twitter.com/paribus_io"
+      "Twitter": "https://x.com/paribus_io"
    },
    {
       "policyId": "07ccfad78099fef727bfc64de1cf2e684c0872aab3c3bb3bed5e1081",
@@ -1353,7 +1353,7 @@
       "quantity": 0,
       "Category": "Meme",
       "Website": "https://peepeetoken.com/",
-      "Twitter": "https://twitter.com/peepee_token"
+      "Twitter": "https://x.com/peepee_token"
    },
    {
       "policyId": "21abdf54f427b378fe9ba07419eff6e8e8fe0c5932e1fee2d3853b93",
@@ -1365,7 +1365,7 @@
       "quantity": 0,
       "Category": "Meme",
       "Website": "https://pepeblue.io",
-      "Twitter": "https://twitter.com/PEPEBLUEADA"
+      "Twitter": "https://x.com/PEPEBLUEADA"
    },
    {
       "policyId": "fdd4f9c97f7bcb50ffac32943f2e695a5e7f1b31df8ecac5b7edf8d6",
@@ -1376,7 +1376,7 @@
       "decimals": 3,
       "quantity": 0,
       "Category": "Meme",
-      "Twitter": "https://twitter.com/PHNTM_X"
+      "Twitter": "https://x.com/PHNTM_X"
    },
    {
       "policyId": "133fac9e153194428eb0919be39837b42b9e977fc7298f3ff1b76ef9",
@@ -1388,7 +1388,7 @@
       "quantity": 0,
       "Category": "Meme",
       "Website": "https://pudgycat.io",
-      "Twitter": "https://twitter.com/pudgytoken"
+      "Twitter": "https://x.com/pudgytoken"
    },
    {
       "policyId": "ca942cb8bb5d1ef750766ded355f320880539111f10efa2b1a478ff9",
@@ -1400,7 +1400,7 @@
       "quantity": 0,
       "Category": "GameFi",
       "Website": "https://cryptoraggies.io/",
-      "Twitter": "https://twitter.com/CryptoRaggies"
+      "Twitter": "https://x.com/CryptoRaggies"
    },
    {
       "policyId": "ace2ea0fe142a3687acf86f55bcded860a920864163ee0d3dda8b602",
@@ -1412,7 +1412,7 @@
       "quantity": 0,
       "Category": "Trading",
       "Website": "https://raker.market",
-      "Twitter": "https://twitter.com/rakermarket"
+      "Twitter": "https://x.com/rakermarket"
    },
    {
       "policyId": "d5dec6074942b36b50975294fd801f7f28c907476b1ecc1b57c916ed",
@@ -1424,7 +1424,7 @@
       "quantity": 0,
       "Category": "NFT, DAO",
       "Website": "https://ratsdao.io/",
-      "Twitter": "https://twitter.com/ratsdao"
+      "Twitter": "https://x.com/ratsdao"
    },
    {
       "policyId": "3b31e746a68c5bef72c0fb9f2185e6b1fad0ea2faaccfeeb275afe91",
@@ -1436,7 +1436,7 @@
       "quantity": 0,
       "Category": "Metaverse",
       "Website": "https://www.market.reachmetaverse.org/",
-      "Twitter": "https://twitter.com/ReachMetaverse"
+      "Twitter": "https://x.com/ReachMetaverse"
    },
    {
       "policyId": "94cbb4fcbcaa2975779f273b263eb3b5f24a9951e446d6dc4c135864",
@@ -1448,7 +1448,7 @@
       "quantity": 0,
       "Category": "DeFi, RealFi, Wallet",
       "Website": "https://crypto.revuto.com/",
-      "Twitter": "https://twitter.com/get_revuto"
+      "Twitter": "https://x.com/get_revuto"
    },
    {
       "policyId": "2274b1699f5398170e0497598de7877ebb370ba7b5d25a1d0b2fea07",
@@ -1460,7 +1460,7 @@
       "quantity": 0,
       "Category": "Meme, GameFi",
       "Website": "https://www.riskcoin.io/",
-      "Twitter": "https://twitter.com/RiskCoinAda"
+      "Twitter": "https://x.com/RiskCoinAda"
    },
    {
       "policyId": "8cfd6893f5f6c1cc954cec1a0a1460841b74da6e7803820dde62bb78",
@@ -1472,7 +1472,7 @@
       "quantity": 0,
       "Category": "AI",
       "Website": "https://rejuve.ai/",
-      "Twitter": "https://twitter.com/Rejuve_AI"
+      "Twitter": "https://x.com/Rejuve_AI"
    },
    {
       "policyId": "b201928d6bdb21c2e39205a92e226653d6002b949eaaacde3d986c2f",
@@ -1484,7 +1484,7 @@
       "quantity": 0,
       "Category": "Meme",
       "Website": "https://www.roncoinada.com/",
-      "Twitter": "https://twitter.com/roncoinada"
+      "Twitter": "https://x.com/roncoinada"
    },
    {
       "policyId": "04b95368393c821f180deee8229fbd941baaf9bd748ebcdbf7adbb14",
@@ -1496,7 +1496,7 @@
       "quantity": 0,
       "Category": "Bridge",
       "Website": "https://rosen.tech",
-      "Twitter": "https://twitter.com/RosenBridge_erg"
+      "Twitter": "https://x.com/RosenBridge_erg"
    },
    {
       "policyId": "04b95368393c821f180deee8229fbd941baaf9bd748ebcdbf7adbb14",
@@ -1508,7 +1508,7 @@
       "quantity": 0,
       "Category": "Bridge",
       "Website": "https://rosen.tech",
-      "Twitter": "https://twitter.com/RosenBridge_erg"
+      "Twitter": "https://x.com/RosenBridge_erg"
    },
    {
       "policyId": "07f019ce45fb638353258bda4316ce5eb3d0f76a3fb739c451740849",
@@ -1520,7 +1520,7 @@
       "quantity": 0,
       "Category": "NFT",
       "Website": "https://saltyseagulls.io",
-      "Twitter": "https://twitter.com/GullsCNFT"
+      "Twitter": "https://x.com/GullsCNFT"
    },
    {
       "policyId": "8db269c3ec630e06ae29f74bc39edd1f87c819f1056206e879a1cd61",
@@ -1532,7 +1532,7 @@
       "quantity": 0,
       "Category": "Stablecoin",
       "Website": "https://djed.xyz/",
-      "Twitter": "https://twitter.com/COTInetwork"
+      "Twitter": "https://x.com/COTInetwork"
    },
    {
       "policyId": "768742e4280981cd7a704f16d0a34ce116978e2f123d4528880777ba",
@@ -1544,7 +1544,7 @@
       "quantity": 0,
       "Category": "Meme",
       "Website": "https://shazamgod.meme",
-      "Twitter": "https://twitter.com/ShazamGodmeme"
+      "Twitter": "https://x.com/ShazamGodmeme"
    },
    {
       "policyId": "7e3b18c6cbc72e06fa5b5e4c729159b9a74b6fe94629fe57c67ef32d",
@@ -1555,7 +1555,7 @@
       "decimals": 0,
       "quantity": 0,
       "Category": "MEME",
-      "Twitter": "https://twitter.com/shrmp_ada"
+      "Twitter": "https://x.com/shrmp_ada"
    },
    {
       "policyId": "37b03cbc4b1a4fcafc54e70cc31c65b4747a898984c574b3393e003c",
@@ -1567,7 +1567,7 @@
       "quantity": 0,
       "Category": "UTILITY",
       "Website": "https://skillslabsteam.wixsite.com/skillslabs/",
-      "Twitter": "https://twitter.com/skills_labs"
+      "Twitter": "https://x.com/skills_labs"
    },
    {
       "policyId": "23690795536ccf407ed6eeac57db98db9668b3a026991fb516ecd7ef",
@@ -1579,7 +1579,7 @@
       "quantity": 0,
       "Category": "NFT",
       "Website": "https://www.adainmates.io/",
-      "Twitter": "https://twitter.com/adainmates"
+      "Twitter": "https://x.com/adainmates"
    },
    {
       "policyId": "6fbfbd8f90cdc5a89dab46def6edf52dacaf413d332d66c00235fc2d",
@@ -1590,7 +1590,7 @@
       "decimals": 0,
       "quantity": 0,
       "Category": "Meme",
-      "Twitter": "https://twitter.com/PinkTheSnail"
+      "Twitter": "https://x.com/PinkTheSnail"
    },
    {
       "policyId": "279c909f348e533da5808898f87f9a14bb2c3dfbbacccd631d927a3f",
@@ -1602,7 +1602,7 @@
       "quantity": 0,
       "Category": "Meme",
       "Website": "https://linktr.ee/snekcoinada",
-      "Twitter": "https://twitter.com/snekcoinada"
+      "Twitter": "https://x.com/snekcoinada"
    },
    {
       "policyId": "b3bd74dd43f83815519e387bdffd1cb9be411df8f2774f48e0fd3669",
@@ -1614,7 +1614,7 @@
       "quantity": 0,
       "Category": "Defi, Meme",
       "Website": "https://www.snepe.tools/",
-      "Twitter": "https://twitter.com/hazryder"
+      "Twitter": "https://x.com/hazryder"
    },
    {
       "policyId": "25f0fc240e91bd95dcdaebd2ba7713fc5168ac77234a3d79449fc20c",
@@ -1626,7 +1626,7 @@
       "quantity": 0,
       "Category": "NFT",
       "Website": "https://www.theapesociety.io",
-      "Twitter": "https://twitter.com/the_ape_society"
+      "Twitter": "https://x.com/the_ape_society"
    },
    {
       "policyId": "09f2d4e4a5c3662f4c1e6a7d9600e9605279dbdcedb22d4507cb6e75",
@@ -1638,7 +1638,7 @@
       "quantity": 0,
       "Category": "DeFi",
       "Website": "https://spectrum.fi",
-      "Twitter": "https://twitter.com/spectrumlabs_"
+      "Twitter": "https://x.com/spectrumlabs_"
    },
    {
       "policyId": "2adf188218a66847024664f4f63939577627a56c090f679fe366c5ee",
@@ -1650,7 +1650,7 @@
       "quantity": 0,
       "Category": "DeFi, Meme",
       "Website": "https://www.stablecoinada.xyz/",
-      "Twitter": "https://twitter.com/stablecoinada"
+      "Twitter": "https://x.com/stablecoinada"
    },
    {
       "policyId": "6954264b15bc92d6d592febeac84f14645e1ed46ca5ebb9acdb5c15f",
@@ -1662,7 +1662,7 @@
       "quantity": 0,
       "Category": "Other",
       "Website": "https://strippercoin.io",
-      "Twitter": "https://twitter.com/strippercoin"
+      "Twitter": "https://x.com/strippercoin"
    },
    {
       "policyId": "718c383a22b0239d034a95e750fd09a5930bddcffc24bf5c566b1cf1",
@@ -1674,7 +1674,7 @@
       "quantity": 0,
       "Category": "DAO",
       "Website": "https://summonplatform.io/",
-      "Twitter": "https://twitter.com/SummonPlatform"
+      "Twitter": "https://x.com/SummonPlatform"
    },
    {
       "policyId": "9a9693a9a37912a5097918f97918d15240c92ab729a0b7c4aa144d77",
@@ -1686,7 +1686,7 @@
       "quantity": 0,
       "Category": "DeFi",
       "Website": "https://sundae.fi",
-      "Twitter": "https://twitter.com/SundaeSwap"
+      "Twitter": "https://x.com/SundaeSwap"
    },
    {
       "policyId": "bf9354cba4ee83c5de05c72830c6430967a26a1656b06293541d23e1",
@@ -1698,7 +1698,7 @@
       "quantity": 0,
       "Category": "DeFi, RealFi, NFT",
       "Website": "https://tangent.art/",
-      "Twitter": "https://twitter.com/TangentADA"
+      "Twitter": "https://x.com/TangentADA"
    },
    {
       "policyId": "f6696363e9196289ef4f2b4bf34bc8acca5352cdc7509647afe6888f",
@@ -1710,7 +1710,7 @@
       "quantity": 0,
       "Category": "DeFi, DEX",
       "Website": "https://www.teddyswap.org/",
-      "Twitter": "https://twitter.com/TeddySwap"
+      "Twitter": "https://x.com/TeddySwap"
    },
    {
       "policyId": "52162581184a457fad70470161179c5766f00237d4b67e0f1df1b4e6",
@@ -1722,7 +1722,7 @@
       "quantity": 0,
       "Category": "Meme",
       "Website": "https://www.theturtlesyndicate.xyz/",
-      "Twitter": "https://twitter.com/TortolToken"
+      "Twitter": "https://x.com/TortolToken"
    },
    {
       "policyId": "ac015c38917f306a84748c2d646bed90bdd64421c592163e60702d73",
@@ -1734,7 +1734,7 @@
       "quantity": 0,
       "Category": "NFT",
       "Website": "https://cnft.tools/",
-      "Twitter": "https://twitter.com/cnfttools"
+      "Twitter": "https://x.com/cnfttools"
    },
    {
       "policyId": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff935",
@@ -1746,7 +1746,7 @@
       "quantity": 0,
       "Category": "Bridge",
       "Website": "https://wanchain.org",
-      "Twitter": "https://twitter.com/wanchain_org"
+      "Twitter": "https://x.com/wanchain_org"
    },
    {
       "policyId": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff935",
@@ -1758,7 +1758,7 @@
       "quantity": 0,
       "Category": "Bridge",
       "Website": "https://wanchain.org",
-      "Twitter": "https://twitter.com/wanchain_org"
+      "Twitter": "https://x.com/wanchain_org"
    },
    {
       "policyId": "804f5544c1962a40546827cab750a88404dc7108c0f588b72964754f",
@@ -1782,7 +1782,7 @@
       "quantity": 0,
       "Category": "Meme",
       "Website": "https://vipercoin.io",
-      "Twitter": "https://twitter.com/vipercoinada"
+      "Twitter": "https://x.com/vipercoinada"
    },
    {
       "policyId": "1d7f33bd23d85e1a25d87d86fac4f199c3197a2f7afeb662a0f34e1e",
@@ -1794,7 +1794,7 @@
       "quantity": 0,
       "Category": "RealFi",
       "Website": "https://worldmobiletoken.com/",
-      "Twitter": "https://twitter.com/WorldMobileTeam/"
+      "Twitter": "https://x.com/WorldMobileTeam/"
    },
    {
       "policyId": "a1b284d7218dd63772c67ca26ab73721a196b404929cddef595f9967",
@@ -1805,7 +1805,7 @@
       "decimals": 0,
       "quantity": 0,
       "Category": "Meme",
-      "Twitter": "https://twitter.com/WojakBlueADA"
+      "Twitter": "https://x.com/WojakBlueADA"
    },
    {
       "policyId": "1a71dc14baa0b4fcfb34464adc6656d0e562571e2ac1bc990c9ce5f6",
@@ -1817,7 +1817,7 @@
       "quantity": 0,
       "Category": "Meme",
       "Website": "https://www.wolfcardano.io",
-      "Twitter": "https://twitter.com/WolfCardano"
+      "Twitter": "https://x.com/WolfCardano"
    },
    {
       "policyId": "bbd0ec94cf9ccc1407b3dbc66bfbbff82ea49718ae4e3dceb817125f",
@@ -1829,7 +1829,7 @@
       "quantity": 0,
       "Category": "NFT",
       "Website": "https://workingdead.io",
-      "Twitter": "https://twitter.com/workingdeadnft"
+      "Twitter": "https://x.com/workingdeadnft"
    },
    {
       "policyId": "c0ee29a85b13209423b10447d3c2e6a50641a15c57770e27cb9d5073",
@@ -1841,7 +1841,7 @@
       "quantity": 0,
       "Category": "DeFi, DAO",
       "Website": "https://www.wingriders.com",
-      "Twitter": "https://twitter.com/wingriderscom"
+      "Twitter": "https://x.com/wingriderscom"
    },
    {
       "policyId": "4ffaa4ef3217df37c4995bb96066af4cb68dfcc66b9f2a10e0c333b9",
@@ -1853,7 +1853,7 @@
       "quantity": 0,
       "Category": "GameFi",
       "Website": "https://tavernsquad.io/",
-      "Twitter": "https://twitter.com/TavernSquadNFT"
+      "Twitter": "https://x.com/TavernSquadNFT"
    },
    {
       "policyId": "86abe45be4d8fb2e8f28e8047d17d0ba5592f2a6c8c452fc88c2c143",
@@ -1865,7 +1865,7 @@
       "quantity": 0,
       "Category": "DeFi",
       "Website": "https://raynetwork.io",
-      "Twitter": "https://twitter.com/RayNetwork"
+      "Twitter": "https://x.com/RayNetwork"
    },
    {
       "policyId": "96abe9a17b65c2133ed7e11864338e965efc418c0961ceecfac16172",
@@ -1877,7 +1877,7 @@
       "quantity": 0,
       "Category": "NFT",
       "Website": "https://smoothyetimountainclub.com/",
-      "Twitter": "https://twitter.com/SmoothYetiMC"
+      "Twitter": "https://x.com/SmoothYetiMC"
    },
    {
       "policyId": "078eafce5cd7edafdf63900edef2c1ea759e77f30ca81d6bbdeec924",
@@ -1889,7 +1889,7 @@
       "quantity": 0,
       "Category": "NFT",
       "Website": "https://yummi-universe.gitbook.io/",
-      "Twitter": "https://twitter.com/YummiUniverse"
+      "Twitter": "https://x.com/YummiUniverse"
    },
    {
       "policyId": "15637826ecbdb4e5747fd41f830d9735a8c4e6d927e44d29ceef9e88",
@@ -1901,7 +1901,7 @@
       "quantity": 0,
       "Category": "GameFi",
       "Website": "https://adazoo.com",
-      "Twitter": "https://twitter.com/adazooNFT"
+      "Twitter": "https://x.com/adazooNFT"
    },
    {
       "policyId": "1be0b284fa726d418fe064a8544605aaba352b0805c24286ada29468",
@@ -1913,7 +1913,7 @@
       "quantity": 0,
       "Category": "Meme",
       "Website": "https://adaaxolotl.org/",
-      "Twitter": "https://twitter.com/adaaxolotl"
+      "Twitter": "https://x.com/adaaxolotl"
    },
    {
       "policyId": "017af5d958fffdf65f3e5b8b3ff5abefd210a03464a9fc48ea0f4a39",
@@ -1925,7 +1925,7 @@
       "quantity": 0,
       "Category": "NFT",
       "Website": "https://walkerscardano.xyz/",
-      "Twitter": "https://twitter.com/WalkersCNFT"
+      "Twitter": "https://x.com/WalkersCNFT"
    },
    {
       "policyId": "e7a6776d9982acd0ffeaa24885e78542cb174f4f2b9cd3c9968116e4",
@@ -1937,7 +1937,7 @@
       "quantity": 0,
       "Category": "GameFi",
       "Website": "https://adazoo.com",
-      "Twitter": "https://twitter.com/adazooNFT"
+      "Twitter": "https://x.com/adazooNFT"
    },
    {
       "policyId": "af03770556f3312d90523bc6a743ec2fb61e2eae47519faecf5127c3",
@@ -1948,7 +1948,7 @@
       "decimals": 0,
       "quantity": 0,
       "Category": "Meme",
-      "Twitter": "https://twitter.com/awallstreetbet"
+      "Twitter": "https://x.com/awallstreetbet"
    },
    {
       "policyId": "c48cbb3d5e57ed56e276bc45f99ab39abe94e6cd7ac39fb402da47ad",
@@ -1959,7 +1959,7 @@
       "decimals": 6,
       "quantity": 0,
       "Category": "Stablecoin",
-      "Twitter": "https://twitter.com/MehenOfficial"
+      "Twitter": "https://x.com/MehenOfficial"
    },
    {
       "policyId": "5b26e685cc5c9ad630bde3e3cd48c694436671f3d25df53777ca60ef",
@@ -1971,7 +1971,7 @@
       "quantity": 0,
       "Category": "Depin",
       "Website": "https://www.nuvoladigital.io/",
-      "Twitter": "https://twitter.com/NuvolaDigital_"
+      "Twitter": "https://x.com/NuvolaDigital"
    },
    {
       "policyId": "8d7526784ef72fe0ccdd085976ada0da88e7fb013e38e794b0923341",
@@ -1993,7 +1993,7 @@
       "decimals": 0,
       "quantity": 0,
       "Category": "Meme",
-      "Twitter": "https://twitter.com/MustachioADA"
+      "Twitter": "https://x.com/MustachioADA"
    },
    {
       "policyId": "493136618a39dcefb89ff573061f715ee32e88092d0299c54e3a3773",
@@ -2016,7 +2016,7 @@
       "quantity": 0,
       "Category": "DAO",
       "Website": "https://www.clarity.community",
-      "Twitter": "https://twitter.com/clarity_dao"
+      "Twitter": "https://x.com/clarity_dao"
    },
    {
       "policyId": "f7516c9f7b347eb412a777f3c711099b199ccd2be23b568a4a3abf6d",
@@ -2028,7 +2028,7 @@
       "quantity": 0,
       "Category": "Social",
       "Website": "https://smart-places.io",
-      "Twitter": "https://twitter.com/SmartPlacesX"
+      "Twitter": "https://x.com/SmartPlacesX"
    },
    {
       "policyId": "dd00d877798443a2de57e5bc667784168616aa8244b558743e448784",
@@ -2039,7 +2039,7 @@
       "decimals": 0,
       "quantity": 0,
       "Category": "Meme",
-      "Twitter": "https://twitter.com/smokecoinada"
+      "Twitter": "https://x.com/smokecoinada"
    },
    {
       "policyId": "3a89cf5f2f18887fcaec3d2e9bd4fee52caeaebc50f338ff23861cec",
@@ -2051,7 +2051,7 @@
       "quantity": 0,
       "Category": "GameFi",
       "Website": "https://bananaclip.io/",
-      "Twitter": "https://twitter.com/BananaClipGames"
+      "Twitter": "https://x.com/BananaClipGames"
    },
    {
       "policyId": "e4b8e9d247d9aa043bb9e13b38989b11b02c595450e6313aebdf6c1f",
@@ -2062,7 +2062,7 @@
       "decimals": 0,
       "quantity": 0,
       "Category": "Meme",
-      "Twitter": "https://twitter.com/Gamestopada"
+      "Twitter": "https://x.com/Gamestopada"
    },
    {
       "policyId": "2dbc49f682ad21f6d18705cf446f9f7a277731ab70ae21a454f888b2",
@@ -2238,6 +2238,19 @@
       "quantity": 0,
       "Category": "Meme",
       "Twitter": "https://x.com/Reeboka_Ada"
+   },
+
+
+   {
+      "policyId": "338c17dffaaefdb97ace91100724836178c3f9dd994a4798a66f546d",
+      "nameHex": "4d414e4e59",
+      "title": "MANNY",
+      "project": "Manny",
+      "img": "https://ada.markets/img/manny.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme",
+      "Twitter": "https://x.com/MammothMannyADA"
    },
 
    {

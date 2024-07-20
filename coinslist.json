@@ -2254,6 +2254,19 @@
    },
 
    {
+      "policyId": "52d4b39c2407ce020ab4abb785d820a3ad5a2fa07600d07a205e509f",
+      "nameHex": "52454954",
+      "title": "REIT",
+      "project": "REIT",
+      "img": "https://ada.markets/img/reit.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "UTILITY",
+      "Website": "https://reitcircles.com/",
+      "Twitter": "https://x.com/reitcircles"
+   },
+
+   {
       "policyId": "7b35f60db53bd598b5d1f6f00136e232de6b42c2616613a4568b78e4",
       "nameHex": "58434c4e",
       "title": "XCLN",

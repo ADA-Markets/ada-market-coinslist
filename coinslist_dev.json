@@ -2274,9 +2274,22 @@
       "img": "https://ada.markets/img/dedi.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "UTILITY",
+      "Category": "Depin",
       "Website": "https://dedium.io/",
       "Twitter": "https://x.com/DediumNetwork"
+   },
+
+   {
+      "policyId": "51a5e236c4de3af2b8020442e2a26f454fda3b04cb621c1294a0ef34",
+      "nameHex": "424f4f4b",
+      "title": "STUFF",
+      "project": "STUFF",
+      "img": "https://ada.markets/img/stuff.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "UTILITY",
+      "Website": "https://stuff.io",
+      "Twitter": "https://x.com/book_io"
    },
 
    {

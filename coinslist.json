@@ -2267,6 +2267,19 @@
    },
 
    {
+      "policyId": "64f7b108bd43f4bde344b82587655eeb821256c0c8e79ad48db15d18",
+      "nameHex": "44454449",
+      "title": "DEDI",
+      "project": "Dedium",
+      "img": "https://ada.markets/img/dedi.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "UTILITY",
+      "Website": "https://dedium.io/",
+      "Twitter": "https://x.com/DediumNetwork"
+   },
+
+   {
       "policyId": "7b35f60db53bd598b5d1f6f00136e232de6b42c2616613a4568b78e4",
       "nameHex": "58434c4e",
       "title": "XCLN",

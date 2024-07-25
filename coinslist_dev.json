@@ -2293,6 +2293,19 @@
    },
 
    {
+      "policyId": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff935",
+      "nameHex": "44454741",
+      "title": "DEGA",
+      "project": "DEGA",
+      "img": "https://ada.markets/img/stuff.png",
+      "decimals": 8,
+      "quantity": 0,
+      "Category": "Gamming",
+      "Website": "https://www.dega.org/",
+      "Twitter": "https://x.com/DEGA_org"
+   },
+
+   {
       "policyId": "7b35f60db53bd598b5d1f6f00136e232de6b42c2616613a4568b78e4",
       "nameHex": "58434c4e",
       "title": "XCLN",

@@ -2306,6 +2306,19 @@
    },
 
    {
+      "policyId": "68d68a5c296ae32af9029c355fa9f72a30f160aef3cff6ad62c73d94",
+      "nameHex": "42414e4453",
+      "title": "BANDS",
+      "project": "BANDS",
+      "img": "https://ada.markets/img/bands.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme",
+      "Website": "https://bandscoin.xyz",
+      "Twitter": "https://www.x.com/bandscoin_"
+   },
+
+   {
       "policyId": "7b35f60db53bd598b5d1f6f00136e232de6b42c2616613a4568b78e4",
       "nameHex": "58434c4e",
       "title": "XCLN",

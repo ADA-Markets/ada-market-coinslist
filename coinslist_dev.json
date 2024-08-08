@@ -2330,6 +2330,19 @@
    },
 
    {
+      "policyId": "f53a7bb80786a498a8eb0241d03416d834827547115e0559f2979a58",
+      "nameHex": "4352415348",
+      "title": "CRASH",
+      "project": "CRASHR",
+      "img": "https://ada.markets/img/crash.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "dex",
+      "Website": "https://www.crashr.io/",
+      "Twitter": "https://www.x.com/crashr_io"
+   },
+
+   {
       "policyId": "7b35f60db53bd598b5d1f6f00136e232de6b42c2616613a4568b78e4",
       "nameHex": "58434c4e",
       "title": "XCLN",

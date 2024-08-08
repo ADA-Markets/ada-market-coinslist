@@ -10,6 +10,17 @@
       "Category": "Other"
    },
    {
+      "policyId": "32e91afd45d64a42dea5c6a0e158d3658e4008667728c457fad7cc5c",
+      "nameHex": "0014df10426f622054657374",
+      "title": "BLOBTEST",
+      "project": "BLOBTEST",
+      "img": "https://ada.markets/img/squirt.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme",
+      "Website": ""
+   },
+   {
       "policyId": "5ac3d4bdca238105a040a565e5d7e734b7c9e1630aec7650e809e34a",
       "nameHex": "535155495254",
       "title": "SQUIRT",
@@ -2316,6 +2327,19 @@
       "Category": "Meme",
       "Website": "https://bandscoin.xyz",
       "Twitter": "https://www.x.com/bandscoin_"
+   },
+
+   {
+      "policyId": "f53a7bb80786a498a8eb0241d03416d834827547115e0559f2979a58",
+      "nameHex": "4352415348",
+      "title": "CRASH",
+      "project": "CRASHR",
+      "img": "https://ada.markets/img/crash.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "dex",
+      "Website": "https://www.crashr.io/",
+      "Twitter": "https://www.x.com/crashr_io"
    },
 
    {

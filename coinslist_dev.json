@@ -2343,6 +2343,32 @@
    },
 
    {
+      "policyId": "77cab21b1a0eb05886cb9fe8e3d297456e53c1d948dba42219a1b380",
+      "nameHex": "4d796e746820546f6b656e2058",
+      "title": "MNTX",
+      "project": "Mynth Token X",
+      "img": "https://ada.markets/img/mntx.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "dex",
+      "Website": "https://www.mynth.ai/",
+      "Twitter": "https://www.x.com/_mynth_"
+   },
+
+   {
+      "policyId": "60faa64709fede8dffed0dccb69da337a5bf61eda0c773156ea78b4d",
+      "nameHex": "534b59",
+      "title": "SKY",
+      "project": "SKY",
+      "img": "https://ada.markets/img/sky.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "dex",
+      "Website": "https://www.skyprotocol.org/",
+      "Twitter": "https://www.x.com/SkyProtocolOrg"
+   },
+
+   {
       "policyId": "7b35f60db53bd598b5d1f6f00136e232de6b42c2616613a4568b78e4",
       "nameHex": "58434c4e",
       "title": "XCLN",

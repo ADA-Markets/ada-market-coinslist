@@ -10,17 +10,6 @@
       "Category": "Other"
    },
    {
-      "policyId": "32e91afd45d64a42dea5c6a0e158d3658e4008667728c457fad7cc5c",
-      "nameHex": "0014df10426f622054657374",
-      "title": "BLOBTEST",
-      "project": "BLOBTEST",
-      "img": "https://ada.markets/img/squirt.png",
-      "decimals": 0,
-      "quantity": 0,
-      "Category": "Meme",
-      "Website": ""
-   },
-   {
       "policyId": "5ac3d4bdca238105a040a565e5d7e734b7c9e1630aec7650e809e34a",
       "nameHex": "535155495254",
       "title": "SQUIRT",
@@ -2328,6 +2317,32 @@
       "Category": "dex",
       "Website": "https://www.crashr.io/",
       "Twitter": "https://www.x.com/crashr_io"
+   },
+
+   {
+      "policyId": "77cab21b1a0eb05886cb9fe8e3d297456e53c1d948dba42219a1b380",
+      "nameHex": "4d796e746820546f6b656e2058",
+      "title": "MNTX",
+      "project": "Mynth Token X",
+      "img": "https://ada.markets/img/mntx.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "dex",
+      "Website": "https://www.mynth.ai/",
+      "Twitter": "https://www.x.com/_mynth_"
+   },
+
+   {
+      "policyId": "60faa64709fede8dffed0dccb69da337a5bf61eda0c773156ea78b4d",
+      "nameHex": "534b59",
+      "title": "SKY",
+      "project": "SKY",
+      "img": "https://ada.markets/img/sky.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "dex",
+      "Website": "https://www.skyprotocol.org/",
+      "Twitter": "https://www.x.com/SkyProtocolOrg"
    },
 
    {

@@ -2350,7 +2350,7 @@
       "img": "https://ada.markets/img/mntx.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "dex",
+      "Category": "DeFi",
       "Website": "https://www.mynth.ai/",
       "Twitter": "https://www.x.com/_mynth_"
    },
@@ -2363,7 +2363,7 @@
       "img": "https://ada.markets/img/sky.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "dex",
+      "Category": "DeFi",
       "Website": "https://www.skyprotocol.org/",
       "Twitter": "https://www.x.com/SkyProtocolOrg"
    },

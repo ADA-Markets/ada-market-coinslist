@@ -1755,7 +1755,7 @@
       "img": "/assets/images/coins/usdc.png",
       "decimals": 8,
       "quantity": 0,
-      "Category": "Bridge",
+      "Category": "Stablecoin",
       "Website": "https://wanchain.org",
       "Twitter": "https://x.com/wanchain_org"
    },
@@ -1767,7 +1767,7 @@
       "img": "/assets/images/coins/usdt.png",
       "decimals": 8,
       "quantity": 0,
-      "Category": "Bridge",
+      "Category": "Stablecoin",
       "Website": "https://wanchain.org",
       "Twitter": "https://x.com/wanchain_org"
    },

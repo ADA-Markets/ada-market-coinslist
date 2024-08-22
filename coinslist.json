@@ -933,7 +933,7 @@
       "img": "/assets/images/coins/jelly.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "Stablecoin",
+      "Category": "NFT",
       "Website": "https://linktr.ee/blockinvestmentgroup",
       "Twitter": "https://x.com/The_Block_Group"
    },
@@ -1732,7 +1732,7 @@
       "img": "/assets/images/coins/usdc.png",
       "decimals": 8,
       "quantity": 0,
-      "Category": "Stablecoin",
+      "Category": "Bridge",
       "Website": "https://wanchain.org",
       "Twitter": "https://x.com/wanchain_org"
    },
@@ -1744,7 +1744,7 @@
       "img": "/assets/images/coins/usdt.png",
       "decimals": 8,
       "quantity": 0,
-      "Category": "Stablecoin",
+      "Category": "Bridge",
       "Website": "https://wanchain.org",
       "Twitter": "https://x.com/wanchain_org"
    },

@@ -960,6 +960,20 @@
       "Website": "https://linktr.ee/blockinvestmentgroup",
       "Twitter": "https://x.com/The_Block_Group"
    },
+
+   {
+      "policyId": "4342a3d3c15545a592bf38294dc75c7a1dd3550388303e3a06f4416d",
+      "nameHex": "4345525241",
+      "title": "CERRA",
+      "project": "CERRA",
+      "img": "https://ada.markets/img/cerra.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "DeFi",
+      "Website": "https://cerra.io/",
+      "Twitter": "https://x.com/Cerra_io"
+   },
+
    {
       "policyId": "681b5d0383ac3b457e1bcc453223c90ccef26b234328f45fa10fd276",
       "nameHex": "4a5047",

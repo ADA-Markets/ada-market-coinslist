@@ -2346,6 +2346,19 @@
    },
 
    {
+      "policyId": "4342a3d3c15545a592bf38294dc75c7a1dd3550388303e3a06f4416d",
+      "nameHex": "4345525241",
+      "title": "CERRA",
+      "project": "CERRA",
+      "img": "https://ada.markets/img/cerra.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "DeFi",
+      "Website": "https://cerra.io/",
+      "Twitter": "https://x.com/Cerra_io"
+   },
+
+   {
       "policyId": "7b35f60db53bd598b5d1f6f00136e232de6b42c2616613a4568b78e4",
       "nameHex": "58434c4e",
       "title": "XCLN",

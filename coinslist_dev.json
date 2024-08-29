@@ -1965,6 +1965,43 @@
       "Twitter": "https://x.com/WalkersCNFT"
    },
    {
+      "policyId": "ecbe846aa1a535579d67f9480fa6173b64d7e239df0460eba36e3ad0",
+      "nameHex": "0014df1053617475726e",
+      "title": "SATURN",
+      "project": "Saturn",
+      "img": "https://ada.markets/img/saturn.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "Defi",
+      "Website": "https://saturnswap.io/",
+      "Twitter": "https://x.com/SaturnSwapIO"
+   },
+
+   {
+      "policyId": "bf2cea597ca605e7bbc0001c25a5bd115ddcc6dea6180ec91ebb1315",
+      "nameHex": "436c617920536e616b65",
+      "title": "Snayke",
+      "project": "Clay Sanke",
+      "img": "https://ada.markets/img/snayke.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme",
+      "Twitter": "https://x.com/snaykememe"
+   },
+
+   {
+      "policyId": "3570fdf07b95d8e2f0a7d37afec0b828fc9d4536cc31fe2464d96bec",
+      "nameHex": "4c6f6c6c69707570",
+      "title": "LOLLI",
+      "project": "LOLLI",
+      "img": "https://ada.markets/img/lolli.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme",
+      "Twitter": "https://x.com/lollipupmeme"
+   },
+
+   {
       "policyId": "e7a6776d9982acd0ffeaa24885e78542cb174f4f2b9cd3c9968116e4",
       "nameHex": "434c4f574e",
       "title": "CLOWN",

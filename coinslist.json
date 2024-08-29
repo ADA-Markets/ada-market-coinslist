@@ -259,6 +259,44 @@
       "Twitter": "https://x.com/yamfore"
    },
    {
+      "policyId": "ecbe846aa1a535579d67f9480fa6173b64d7e239df0460eba36e3ad0",
+      "nameHex": "0014df1053617475726e",
+      "title": "SATURN",
+      "project": "Saturn",
+      "img": "https://ada.markets/img/saturn.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "Defi",
+      "Website": "https://saturnswap.io/",
+      "Twitter": "https://x.com/SaturnSwapIO"
+   },
+
+   {
+      "policyId": "bf2cea597ca605e7bbc0001c25a5bd115ddcc6dea6180ec91ebb1315",
+      "nameHex": "436c617920536e616b65",
+      "title": "Snayke",
+      "project": "Clay Sanke",
+      "img": "https://ada.markets/img/snayke.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme",
+      "Twitter": "https://x.com/snaykememe"
+   },
+
+   {
+      "policyId": "3570fdf07b95d8e2f0a7d37afec0b828fc9d4536cc31fe2464d96bec",
+      "nameHex": "4c6f6c6c69707570",
+      "title": "LOLLI",
+      "project": "LOLLI",
+      "img": "https://ada.markets/img/lolli.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme",
+      "Twitter": "https://x.com/lollipupmeme"
+   },
+
+
+   {
       "policyId": "4190b2941d9be04acc69c39739bd5acc66d60ccab480d8e20bc87e37",
       "nameHex": "63425443",
       "title": "cBTC",

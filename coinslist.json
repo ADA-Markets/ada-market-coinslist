@@ -163,6 +163,18 @@
       "Twitter": "https://x.com/blueshiftfi"
    },
    {
+      "policyId": "51a5e236c4de3af2b8020442e2a26f454fda3b04cb621c1294a0ef34",
+      "nameHex": "424f4f4b",
+      "title": "BOOK",
+      "project": "Book",
+      "img": "/assets/images/coins/book.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "NFT, Other",
+      "Website": "https://book.io",
+      "Twitter": "https://x.com/book_io"
+   },
+   {
       "policyId": "4fde92c2f6dbcfa2879b44f7453872b31394cfb2f70f1d4c411169ac",
       "nameHex": "427562626c65",
       "title": "BUBBLE",
@@ -258,44 +270,6 @@
       "Website": "https://yamfore.com/",
       "Twitter": "https://x.com/yamfore"
    },
-   {
-      "policyId": "ecbe846aa1a535579d67f9480fa6173b64d7e239df0460eba36e3ad0",
-      "nameHex": "0014df1053617475726e",
-      "title": "SATURN",
-      "project": "Saturn",
-      "img": "https://ada.markets/img/saturn.png",
-      "decimals": 6,
-      "quantity": 0,
-      "Category": "Defi",
-      "Website": "https://saturnswap.io/",
-      "Twitter": "https://x.com/SaturnSwapIO"
-   },
-
-   {
-      "policyId": "bf2cea597ca605e7bbc0001c25a5bd115ddcc6dea6180ec91ebb1315",
-      "nameHex": "436c617920536e616b65",
-      "title": "Snayke",
-      "project": "Clay Sanke",
-      "img": "https://ada.markets/img/snayke.png",
-      "decimals": 0,
-      "quantity": 0,
-      "Category": "Meme",
-      "Twitter": "https://x.com/snaykememe"
-   },
-
-   {
-      "policyId": "3570fdf07b95d8e2f0a7d37afec0b828fc9d4536cc31fe2464d96bec",
-      "nameHex": "4c6f6c6c69707570",
-      "title": "LOLLI",
-      "project": "LOLLI",
-      "img": "https://ada.markets/img/lolli.png",
-      "decimals": 0,
-      "quantity": 0,
-      "Category": "Meme",
-      "Twitter": "https://x.com/lollipupmeme"
-   },
-
-
    {
       "policyId": "4190b2941d9be04acc69c39739bd5acc66d60ccab480d8e20bc87e37",
       "nameHex": "63425443",
@@ -959,7 +933,7 @@
       "img": "/assets/images/coins/iusd.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "DeFi",
+      "Category": "Stablecoin",
       "Website": "https://indigoprotocol.io",
       "Twitter": "https://x.com/Indigo_protocol"
    },
@@ -975,6 +949,20 @@
       "Website": "https://linktr.ee/blockinvestmentgroup",
       "Twitter": "https://x.com/The_Block_Group"
    },
+
+   {
+      "policyId": "4342a3d3c15545a592bf38294dc75c7a1dd3550388303e3a06f4416d",
+      "nameHex": "4345525241",
+      "title": "CERRA",
+      "project": "CERRA",
+      "img": "https://ada.markets/img/cerra.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "DeFi",
+      "Website": "https://cerra.io/",
+      "Twitter": "https://x.com/Cerra_io"
+   },
+
    {
       "policyId": "681b5d0383ac3b457e1bcc453223c90ccef26b234328f45fa10fd276",
       "nameHex": "4a5047",
@@ -1248,6 +1236,18 @@
       "Category": "GameFi, NFT, Other",
       "Website": "https://thenebula.xyz",
       "Twitter": "https://x.com/TheNebula_ADA?s=20"
+   },
+   {
+      "policyId": "f13ac4d66b3ee19a6aa0f2a22298737bd907cc95121662fc971b5275",
+      "nameHex": "535452494b45",
+      "title": "STRIKE",
+      "project": "STRIKE",
+      "img": "https://ada.markets/img/strike.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "DeFi",
+      "Website": "https://www.strikefinance.org/",
+      "Twitter": "https://x.com/strikecardano"
    },
    {
       "policyId": "682fe60c9918842b3323c43b5144bc3d52a23bd2fb81345560d73f63",
@@ -1954,6 +1954,43 @@
       "Twitter": "https://x.com/WalkersCNFT"
    },
    {
+      "policyId": "ecbe846aa1a535579d67f9480fa6173b64d7e239df0460eba36e3ad0",
+      "nameHex": "0014df1053617475726e",
+      "title": "SATURN",
+      "project": "Saturn",
+      "img": "https://ada.markets/img/saturn.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "Defi",
+      "Website": "https://saturnswap.io/",
+      "Twitter": "https://x.com/SaturnSwapIO"
+   },
+
+   {
+      "policyId": "bf2cea597ca605e7bbc0001c25a5bd115ddcc6dea6180ec91ebb1315",
+      "nameHex": "436c617920536e616b65",
+      "title": "Snayke",
+      "project": "Clay Sanke",
+      "img": "https://ada.markets/img/snayke.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme",
+      "Twitter": "https://x.com/snaykememe"
+   },
+
+   {
+      "policyId": "3570fdf07b95d8e2f0a7d37afec0b828fc9d4536cc31fe2464d96bec",
+      "nameHex": "4c6f6c6c69707570",
+      "title": "LOLLI",
+      "project": "LOLLI",
+      "img": "https://ada.markets/img/lolli.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme",
+      "Twitter": "https://x.com/lollipupmeme"
+   },
+
+   {
       "policyId": "e7a6776d9982acd0ffeaa24885e78542cb174f4f2b9cd3c9968116e4",
       "nameHex": "434c4f574e",
       "title": "CLOWN",
@@ -2384,32 +2421,6 @@
    },
 
    {
-      "policyId": "4342a3d3c15545a592bf38294dc75c7a1dd3550388303e3a06f4416d",
-      "nameHex": "4345525241",
-      "title": "CERRA",
-      "project": "CERRA",
-      "img": "https://ada.markets/img/cerra.png",
-      "decimals": 6,
-      "quantity": 0,
-      "Category": "DeFi",
-      "Website": "https://cerra.io/",
-      "Twitter": "https://x.com/Cerra_io"
-   },
-
-   {
-      "policyId": "f13ac4d66b3ee19a6aa0f2a22298737bd907cc95121662fc971b5275",
-      "nameHex": "535452494b45",
-      "title": "STRIKE",
-      "project": "STRIKE",
-      "img": "https://ada.markets/img/strike.png",
-      "decimals": 6,
-      "quantity": 0,
-      "Category": "DeFi",
-      "Website": "https://www.strikefinance.org/",
-      "Twitter": "https://x.com/strikecardano"
-   },
-
-   {
       "policyId": "7b35f60db53bd598b5d1f6f00136e232de6b42c2616613a4568b78e4",
       "nameHex": "58434c4e",
       "title": "XCLN",
@@ -2418,5 +2429,556 @@
       "decimals": 0,
       "quantity": 0,
       "Category": "Meme"
-   }
+   },
+
+   {
+      "policyId": "2e98523602110d53bc6504140f3051b42fea695e0487abea9bc85d55",
+      "nameHex": "436f7069756d",
+      "title": "COPIUM",
+      "project": "COPIUM",
+      "img": "https://ada.markets/img/copium.png",
+      "decimals": 6,
+      "quantity": 0
+    },
+    {
+      "policyId": "7d737addbceaf56a5d6484a37a13eb0fd23d01dca842fe9d7ad4dc12",
+      "nameHex": "4272657474",
+      "title": "Brett",
+      "project": "Brett",
+      "img": "https://ada.markets/img/brett.png",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "7d869e0e6f936c3299a8b8df2b8f13d5233801e11676ff06e78e8dbe",
+      "nameHex": "4649474854",
+      "title": "FIGHT",
+      "project": "FIGHT",
+      "img": "https://ada.markets/img/fight.png",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "6947eccc74ebf8c1716339b97af768bfbc70d330a743b79bbc5ccdeb",
+      "nameHex": "544554",
+      "title": "TET",
+      "project": "TET",
+      "img": "https://ada.markets/img/tet.png",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "e0c6d12556452c8ed0df4a2eb186e1e10b1fedcc6dcc32af1178ef09",
+      "nameHex": "544845434142414c",
+      "title": "THECABAL",
+      "project": "THECABAL",
+      "img": "https://ada.markets/img/cabal.png",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "c9281d64953f9531304e57e4ff15111f0c5445167c0b413f70fcd50c",
+      "nameHex": "52554e45",
+      "title": "RUNE",
+      "project": "RUNE",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "defe216460d594211631fcfbd354f361c04645d6a0cfeead3d6f6283",
+      "nameHex": "6c65767679776966686174",
+      "title": "LevvyWifHat",
+      "project": "LevvyWifHat",
+      "img": "https://ada.markets/img/lwh.png",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "d5dec6074942b36b50975294fd801f7f28c907476b1ecc1b57c916ed",
+      "nameHex": "524154",
+      "title": "RAT",
+      "project": "RAT",
+      "img": "https://ada.markets/img/rat.png",
+      "decimals": 6,
+      "quantity": 0
+    },
+    {
+      "policyId": "742a5d1b07dbf1992c7527723e235ea45112ad6a17e223bd2e77270f",
+      "nameHex": "42414259425443",
+      "title": "BABYBTC",
+      "project": "BABYBTC",
+      "img": "https://ada.markets/img/babybtc.png",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "7088ad38a23e997dc6ab90336cae582c93b61460888d83f178899a33",
+      "nameHex": "4b4f49",
+      "title": "KOI",
+      "project": "KOI",
+      "img": "https://ada.markets/img/koi.png",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "c058aa2ab98a6a89bac4b216b0a045f9ea33a0148e6cad07c2413646",
+      "nameHex": "59554745",
+      "title": "YUGE",
+      "project": "YUGE",
+      "img": "https://ada.markets/img/yuge.png",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "d55bf9d2ad12cc55e4ed29d97c64dba0e4905d3c80f800449f3d51f0",
+      "nameHex": "4368616e6765",
+      "title": "Change",
+      "project": "Change",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "fb59da920d029dde957b556d981046a9102698ed70797da5908e4634",
+      "nameHex": "454c454d454e54",
+      "title": "ELEMENT",
+      "project": "ELEMENT Token",
+      "img": "/assets/images/coins/element.png",
+      "decimals": 0,
+      "quantity": 0
+    },
+
+    {
+      "policyId": "9631de01277bb49c7046c73d52a1d3280086c80bd2b1db52ecad572f",
+      "nameHex": "524f475545",
+      "title": "ROGUE",
+      "project": "ROGUE",
+      "img": "/assets/images/coins/rogue.png",
+      "decimals": 0,
+      "quantity": 0
+    },
+
+    {
+      "policyId": "ea153b5d4864af15a1079a94a0e2486d6376fa28aafad272d15b243a",
+      "nameHex": "0014df10536861726473",
+      "title": "SHARDS",
+      "project": "SHARDS",
+      "img": "/assets/images/coins/shards.png",
+      "decimals": 6,
+      "quantity": 0
+    },
+    {
+      "policyId": "1cd92100fc05fce7416b3857a079780164eeaf8f5613f4b814f24e09",
+      "nameHex": "426f6f6e436f696e",
+      "title": "BoonCoin",
+      "project": "BoonCoin",
+      "img": "/assets/images/coins/boon.png",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "279f842c33eed9054b9e3c70cd6a3b32298259c24b78b895cb41d91a",
+      "nameHex": "54554e41",
+      "title": "TUNA",
+      "project": "V1TUNA",
+      "img": "/assets/images/coins/tuna.png",
+      "decimals": 8,
+      "quantity": 0
+    },
+    {
+      "policyId": "9b426921a21f54600711da0be1a12b026703a9bd8eb9848d08c9d921",
+      "nameHex": "434154534b59",
+      "title": "CATSKY",
+      "project": "Catsky AI",
+      "img": "/assets/images/coins/catsky.png",
+      "decimals": 6,
+      "quantity": 0
+    },
+    {
+      "policyId": "ea02c99c0668891d6b7cdc49e075cbddf9cd5b89404e5a8a8e5d7016",
+      "nameHex": "534c4f5020436f696e",
+      "title": "SLOP Coin",
+      "project": "SLOP Coin",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "cdbbe391853676285131fe2de250e274dbeb5f9d98344e86c7b383d9",
+      "nameHex": "474c44534e454b",
+      "title": "GLDSNEK",
+      "project": "GLDSNEK",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "86ef0802f4066ad1acfb821620a722545c68fb57d6ff197f62786f9b",
+      "nameHex": "414e4459",
+      "title": "ANDY",
+      "project": "ANDY",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "5f3a47fa83522c6eece53bbfe0a77374bd748d6ac5b8892d3d5b3ff3",
+      "nameHex": "5365636972697479",
+      "title": "Security",
+      "project": "Security",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "68d321288fcbf4870b12af5984a3c91338b9db622f2320b5f7ff7ff6",
+      "nameHex": "4e4f5345",
+      "title": "NOSE",
+      "project": "NOSE",
+      "img": "/assets/images/coins/nose.png",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "420d2299be39dd17e32157f2c24a18cb8fd251c59dc193a8f399b746",
+      "nameHex": "42616442616442616279",
+      "title": "BadBadBaby",
+      "project": "BadBadBaby",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "ab0dec21aa7d939ad124ffaf95faf8ed72b1018ff72fffd8f9974907",
+      "nameHex": "474f4b4559",
+      "title": "GOKEY",
+      "project": "GOKEY",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "d65d8018fd89282c4386d788ab6a0e7e28a33d72165fb1ed7f2438d7",
+      "nameHex": "4e4d53",
+      "title": "NMS",
+      "project": "NMS",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "b9168f05e657b6946fede254e383586cf7e7a2573d5a0fa12b3ef6ac",
+      "nameHex": "494450",
+      "title": "IDP",
+      "project": "IDP",
+      "img": "/assets/images/coins/idp.png",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "26c8aa8a9fe28dfde5c5f26df7264267322629fa5f412f52b7f755ba",
+      "nameHex": "506569706569",
+      "title": "Peipei",
+      "project": "Peipei",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "efd7a7d27632704cb96c246f209dc16ed4bb2121bf0ff0b58a7fbc1d",
+      "nameHex": "4d5254494242455253",
+      "title": "MRTIBBERS",
+      "project": "MRTIBBERS",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "6ac8ef33b510ec004fe11585f7c5a9f0c07f0c23428ab4f29c1d7d10",
+      "nameHex": "4d454c44",
+      "title": "MELD",
+      "project": "MELD OLD",
+      "img": "/assets/images/coins/meld-old.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "RealFi",
+      "Website": "https://meld.com",
+      "Twitter": "https://x.com/MELD_Defi"
+    },
+    {
+      "policyId": "eda69ce0f80d0f2ff78892b07fe648ec5bf5375afc1ed545278cb150",
+      "nameHex": "43686169726d616e4d656f77",
+      "title": "ChairmanMeow",
+      "project": "ChairmanMeow",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "0c78f619e54a5d00e143f66181a2c500d0c394b38a10e86cd1a23c5f",
+      "nameHex": "41444158",
+      "title": "ADAX",
+      "project": "ADAX",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "548c390391253aff00af9c95ae310f00803fd28035a6ed6f17c1e5e2",
+      "nameHex": "424147",
+      "title": "BAG",
+      "project": "BAG",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "2d92af60ee429bce238d3fd9f2531b45457301d74dad1bcf3f9d1dca",
+      "nameHex": "564e4d",
+      "title": "VNM",
+      "project": "VNM",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "c993febf626087ef69decf0c73c238e6abb00675241622597b4ee730",
+      "nameHex": "4e494b4550",
+      "title": "NIKEP",
+      "project": "NIKEP",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "a7831ee8846e24d60133551cc554bab07b87c9443fa790ecf8d56b62",
+      "nameHex": "5375736869205365616c20",
+      "title": "Sushi Seal",
+      "project": "Sushi Seal",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "65bdf33f8f7fd4debeb2ad659473749eb4eac177e06650bb75a8fe50",
+      "nameHex": "4d69746872546f6b656e",
+      "title": "MithrToken",
+      "project": "MithrToken",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "c981fc98e761e3bb44ae35e7d97ae6227f684bcb6f50a636753da48e",
+      "nameHex": "54554e41",
+      "title": "TUNA",
+      "project": "TUNA",
+      "decimals": 8,
+      "quantity": 0
+    },
+    {
+      "policyId": "22cc9d1de66c8aabff6bdc2154d00e927bb2b4ab250d3ada7df391d1",
+      "nameHex": "4348414e474841524453504f524b",
+      "title": "CHANG",
+      "project": "CHANG HARD SPORK",
+      "img": "/assets/images/coins/chang.png",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "097f37ef3f64a7967c645cb2a40b67594b0f6f4d187d654ff9274037",
+      "nameHex": "53717565616b",
+      "title": "Squeak",
+      "project": "Squeak",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "805dba5284db75636dabc96c02f62c9d382e246ee22aa937a7a12aec",
+      "nameHex": "0014df10464e58",
+      "title": "FNX",
+      "project": "FNX",
+      "decimals": 6,
+      "quantity": 0
+    },
+    {
+      "policyId": "1f01188ffed79a9296d824c49eec851c21ea860e7c4f88324de50f2c",
+      "nameHex": "7363616c65",
+      "title": "scale",
+      "project": "scale",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "f9a491442678bb2f90a3be676d1f888ce87330003ab7151f9efb3b68",
+      "nameHex": "424f58",
+      "title": "BOX",
+      "project": "BOX",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "59bc0484225992f0fafffc472784f89f1c75e496cb570ec2922b9243",
+      "nameHex": "444344",
+      "title": "DCD",
+      "project": "DCD",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "20efaf13727eea5813e57530f1f9bb60fa8a986056b48c4b89d59b41",
+      "nameHex": "4769726c4672656e",
+      "title": "GirlFren",
+      "project": "GirlFren",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "169f4ad93d07b6a6b1c4d97a78d0e222fc16b821467b8ad123384ca4",
+      "nameHex": "4d6973736b696e736f6e",
+      "title": "Misskinson",
+      "project": "Misskinson",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "20cd68533b47565f3c61efb39c30fdace9963bfa4c0060b613448e3c",
+      "nameHex": "50524f584945",
+      "title": "PROXIE",
+      "project": "PROXIE",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "de27f9eb9ed6f011e30a56dbe09d982c9facde3a37efd92f4dfac015",
+      "nameHex": "446f6e616c644a5472756d70",
+      "title": "DonaldJTrump",
+      "project": "DonaldJTrump",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "1e2ab14b6921c545b836525477921fe000e14a3502fa729f60e8de85",
+      "nameHex": "534c4150",
+      "title": "SLAP",
+      "project": "SLAP",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "1753d1a3fa52f22991dce25ef85736501d88294ca0cda80ebd548c1f",
+      "nameHex": "4d504f58",
+      "title": "MPOX",
+      "project": "MPOX",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "85d87212f6096732ac1cdbf604a12aa8cfd1fd0b66ab28fc77d3764c",
+      "nameHex": "44494e4f",
+      "title": "DINO",
+      "project": "DINO",
+      "img": "/assets/images/coins/dino.png",
+      "decimals": 6,
+      "quantity": 0
+    },
+    {
+      "policyId": "bb5a7d8e8667d05b25d609b313364bcd9814d95b2eb21be501eaeedb",
+      "nameHex": "436861726c65737352616e6368",
+      "title": "CharlessRanch",
+      "project": "CharlessRanch",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "db28c6a79d45d5dc1ac5ee36cc410d886414a0b335205432972f7668",
+      "nameHex": "444f4753",
+      "title": "DOGS",
+      "project": "DOGS",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "e90f72af7212f37b1af072d74d326e7d1bc15c21f8ca4180d4fd931f",
+      "nameHex": "484f50",
+      "title": "HOP",
+      "project": "HOP",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "83099a945e95a38d3dc3ab562af81671ed094becf493074251d3f450",
+      "nameHex": "62616279536869747a75",
+      "title": "BabyShitzu",
+      "project": "BabyShitzu",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "48f69a80dcca7bee58431b8b749faca98700ca456056d153fbea4eb2",
+      "nameHex": "4f4d4e49",
+      "title": "OMNI",
+      "project": "OMNI",
+      "img": "/assets/images/coins/omni.png",
+      "decimals": 8,
+      "quantity": 0
+    },
+    {
+      "policyId": "0411fdd6dbfc5aedac7a1fb68688e756e1de99426ff68d67a475b950",
+      "nameHex": "484f534849",
+      "title": "HOSHI",
+      "project": "HOSHI",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "0d3070dc66435ca3f1dab0f816438aadd758dabeaa35e6de855c75c1",
+      "nameHex": "424f4e4b",
+      "title": "BONK",
+      "project": "BONK",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "f4d97191f857096b441a410c036f63d6697dde0c71d2755dd664e302",
+      "nameHex": "4d4b41",
+      "title": "MKA",
+      "project": "MKA",
+      "img": "https://ada.markets/img/mka.png",
+      "decimals": 5,
+      "quantity": 0
+    },
+    {
+      "policyId": "394d8a0021c8825ad9385c1112009994e37b7b53c0c406d389d452db",
+      "nameHex": "47756d6d79",
+      "title": "Gummy",
+      "project": "Gummy",
+      "img": "https://ada.markets/img/gummy.png",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "676fe95d29c1fa198f86c862def5bf7a487c8abf04c3b0b53bdd1bf3",
+      "nameHex": "4759524f53",
+      "title": "GYROS",
+      "project": "GYROS",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "afbe91c0b44b3040e360057bf8354ead8c49c4979ae6ab7c4fbdc9eb",
+      "nameHex": "4d494c4b7632",
+      "title": "MILKv2",
+      "project": "MILKv2",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "069050cab76605dc9962221aa0ea146cad5cd620e161ee03cf3aebc2",
+      "nameHex": "50455045444f47",
+      "title": "PEPEDOG",
+      "project": "PEPEDOG",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "c6866e99d228e1c6a1ce276ddc1f7f379a4bcc90d2e6a8994181cdf8",
+      "nameHex": "42414259534849424d4f4f4e",
+      "title": "BABYSHIBMOON",
+      "project": "BABYSHIBMOON",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "81926a57a567c11f6dc502254c5ed2d11fdba4ed9f898916699c6f17",
+      "nameHex": "53414645",
+      "title": "SAFE",
+      "project": "SAFE",
+      "decimals": 0,
+      "quantity": 0
+    }
+
 ]

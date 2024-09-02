@@ -2684,18 +2684,6 @@
       "quantity": 0
     },
     {
-      "policyId": "6ac8ef33b510ec004fe11585f7c5a9f0c07f0c23428ab4f29c1d7d10",
-      "nameHex": "4d454c44",
-      "title": "MELD",
-      "project": "MELD OLD",
-      "img": "/assets/images/coins/meld-old.png",
-      "decimals": 6,
-      "quantity": 0,
-      "Category": "RealFi",
-      "Website": "https://meld.com",
-      "Twitter": "https://x.com/MELD_Defi"
-    },
-    {
       "policyId": "eda69ce0f80d0f2ff78892b07fe648ec5bf5375afc1ed545278cb150",
       "nameHex": "43686169726d616e4d656f77",
       "title": "ChairmanMeow",

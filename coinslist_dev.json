@@ -15,7 +15,7 @@
       "title": "BLOBTEST",
       "project": "BLOBTEST",
       "img": "https://ada.markets/img/squirt.png",
-      "decimals": 0,
+      "decimals": 6,
       "quantity": 0,
       "Category": "Meme",
       "Website": ""

@@ -1074,7 +1074,7 @@
       "nameHex": "4c51",
       "title": "LQ",
       "project": "Liqwid DAO",
-      "img": "/assets/images/coins/lq.png",
+      "img": "https://ada.markets/img/lq.png",
       "decimals": 6,
       "quantity": 0,
       "Category": "DeFi",

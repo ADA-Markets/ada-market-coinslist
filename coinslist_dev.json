@@ -2708,7 +2708,26 @@
       "title": "ADAX",
       "project": "ADAX",
       "decimals": 0,
-      "quantity": 0
+      "quantity": 0,
+      "img": "https://ada.markets/img/adax.png"
+    },
+    {
+      "policyId": "4981b9bdaf6477b21b8c88a03041a4f365915b6dbe29e2dd714586ba",
+      "nameHex": "4d45535349",
+      "title": "MESSI",
+      "project": "MESSI",
+      "decimals": 6,
+      "quantity": 0,
+      "img": "https://ada.markets/img/messi.png"
+    },
+    {
+      "policyId": "26280ba5c97004a3952350ccccbe3a2bcb2da8eaea4c134b148e0ed0",
+      "nameHex": "427579546865444950",
+      "title": "DIP",
+      "project": "Buy The DIP",
+      "decimals": 0,
+      "quantity": 0,
+      "img": "https://ada.markets/img/dip.png"
     },
     {
       "policyId": "548c390391253aff00af9c95ae310f00803fd28035a6ed6f17c1e5e2",
@@ -2724,7 +2743,17 @@
       "title": "VNM",
       "project": "VNM",
       "decimals": 0,
-      "quantity": 0
+      "quantity": 0,
+      "img": "https://ada.markets/img/vnm.png"
+    },
+    {
+      "policyId": "78f8025f8c6fcd57bf271ee3df2b637f9905837785866c053dde7221",
+      "nameHex": "42756d",
+      "title": "Bum",
+      "project": "Bum",
+      "decimals": 0,
+      "quantity": 0,
+      "img": "https://ada.markets/img/bum.png"
     },
     {
       "policyId": "c993febf626087ef69decf0c73c238e6abb00675241622597b4ee730",
@@ -2808,6 +2837,24 @@
       "quantity": 0
     },
     {
+      "policyId": "2ab03aa40dbf23fcdee0e7eb2572acce93adc56bfc315fe4313c161a",
+      "nameHex": "43544f",
+      "title": "CTO",
+      "project": "CTO",
+      "decimals": 0,
+      "quantity": 0,
+      "img": "https://ada.markets/img/cto.png"
+    },
+    {
+      "policyId": "85d7d630d91396fd3c06f1e912660a5756b2eb8dc003d053f54ae162",
+      "nameHex": "0014df1046555a45",
+      "title": "FUZE",
+      "project": "FUZE",
+      "decimals": 6,
+      "quantity": 0,
+      "img": "https://ada.markets/img/fuze.png"
+    },
+    {
       "policyId": "20efaf13727eea5813e57530f1f9bb60fa8a986056b48c4b89d59b41",
       "nameHex": "4769726c4672656e",
       "title": "GirlFren",
@@ -2886,7 +2933,17 @@
       "title": "HOP",
       "project": "HOP",
       "decimals": 0,
-      "quantity": 0
+      "quantity": 0,
+      "img": "https://ada.markets/img/hop.png"
+    },
+    {
+      "policyId": "c80d335ae2206381ae3dfe07b1ef38e43af95736e7f5d4f150663c25",
+      "nameHex": "5241555349",
+      "title": "RAUSI",
+      "project": "RAUSI",
+      "decimals": 0,
+      "quantity": 0,
+      "img": "https://ada.markets/img/rausi.png"
     },
     {
       "policyId": "83099a945e95a38d3dc3ab562af81671ed094becf493074251d3f450",

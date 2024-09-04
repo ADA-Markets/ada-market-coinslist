@@ -10,6 +10,17 @@
       "Category": "Other"
    },
    {
+      "policyId": "c8c711a3df70956c397cb92e1705b675b18652723cfb7f72ccd59f2d",
+      "nameHex": "434841524c4553",
+      "title": "CHARLES",
+      "project": "CHARLES",
+      "img": "https://ada.markets/img/charles.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Other",
+      "Website": "https://stuff.io/"
+   },
+   {
       "policyId": "5ac3d4bdca238105a040a565e5d7e734b7c9e1630aec7650e809e34a",
       "nameHex": "535155495254",
       "title": "SQUIRT",

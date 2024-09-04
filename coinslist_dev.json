@@ -10,6 +10,17 @@
       "Category": "Other"
    },
    {
+      "policyId": "c8c711a3df70956c397cb92e1705b675b18652723cfb7f72ccd59f2d",
+      "nameHex": "434841524c4553",
+      "title": "CHARLES",
+      "project": "CHARLES",
+      "img": "https://ada.markets/img/charles.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Other",
+      "Website": "https://stuff.io/"
+   },
+   {
       "policyId": "32e91afd45d64a42dea5c6a0e158d3658e4008667728c457fad7cc5c",
       "nameHex": "0014df10426f622054657374",
       "title": "BLOBTEST",

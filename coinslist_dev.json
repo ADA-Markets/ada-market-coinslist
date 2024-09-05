@@ -2927,7 +2927,7 @@
       "nameHex": "436861726c65737352616e6368",
       "title": "Ranch",
       "project": "Ranch",
-      "img": "/assets/images/coins/ranch.png",
+      "img": "https://ada.markets/img/ranch.png",
       "decimals": 0,
       "quantity": 0
     },

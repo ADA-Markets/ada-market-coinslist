@@ -2563,7 +2563,7 @@
       "nameHex": "524f475545",
       "title": "ROGUE",
       "project": "ROGUE",
-      "img": "/assets/images/coins/rogue.png",
+      "img": "https://ada.markets/img/rogue.png",
       "decimals": 0,
       "quantity": 0
     },
@@ -2573,7 +2573,7 @@
       "nameHex": "0014df10536861726473",
       "title": "SHARDS",
       "project": "SHARDS",
-      "img": "/assets/images/coins/shards.png",
+      "img": "https://ada.markets/img/shards.png",
       "decimals": 6,
       "quantity": 0
     },
@@ -2582,7 +2582,7 @@
       "nameHex": "426f6f6e436f696e",
       "title": "BoonCoin",
       "project": "BoonCoin",
-      "img": "/assets/images/coins/boon.png",
+      "img": "https://ada.markets/img/boon.png",
       "decimals": 0,
       "quantity": 0
     },
@@ -2591,7 +2591,7 @@
       "nameHex": "54554e41",
       "title": "TUNA",
       "project": "V1TUNA",
-      "img": "/assets/images/coins/tuna.png",
+      "img": "https://ada.markets/img/tuna.png",
       "decimals": 8,
       "quantity": 0
     },
@@ -2600,7 +2600,7 @@
       "nameHex": "434154534b59",
       "title": "CATSKY",
       "project": "Catsky AI",
-      "img": "/assets/images/coins/catsky.png",
+      "img": "https://ada.markets/img/catsky.png",
       "decimals": 6,
       "quantity": 0
     },
@@ -2659,7 +2659,7 @@
       "nameHex": "4e4f5345",
       "title": "NOSE",
       "project": "NOSE",
-      "img": "/assets/images/coins/nose.png",
+      "img": "https://ada.markets/img/nose.png",
       "decimals": 0,
       "quantity": 0
     },
@@ -2692,7 +2692,7 @@
       "nameHex": "494450",
       "title": "IDP",
       "project": "IDP",
-      "img": "/assets/images/coins/idp.png",
+      "img": "https://ada.markets/img/idp.png",
       "decimals": 0,
       "quantity": 0
     },
@@ -2810,7 +2810,7 @@
       "nameHex": "4348414e474841524453504f524b",
       "title": "CHANG",
       "project": "CHANG HARD SPORK",
-      "img": "/assets/images/coins/chang.png",
+      "img": "https://ada.markets/img/chang.png",
       "decimals": 0,
       "quantity": 0
     },
@@ -2907,10 +2907,46 @@
       "nameHex": "44494e4f",
       "title": "DINO",
       "project": "DINO",
-      "img": "/assets/images/coins/dino.png",
+      "img": "https://ada.markets/img/dino.png",
       "decimals": 6,
       "quantity": 0
     },
+
+    {
+      "policyId": "f888ac57cdd06d5038c2d460aad2e44330d77f0754339efa974f0aa0",
+      "nameHex": "426f6f6b206f6620536e656b",
+      "title": "BOS",
+      "project": "Book of Snek",
+      "img": "https://ada.markets/img/bos.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme",
+      "Twitter": "https://x.com/Book_of_snek"
+   },
+
+   {
+      "policyId": "90343c34e0c78d60fcd0253be331ee5a8073ed78e1612fb0f2d3ebde",
+      "nameHex": "534d494c45",
+      "title": "SMILE",
+      "project": "SMILE",
+      "img": "https://ada.markets/img/smile.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme"
+   },
+
+   {
+      "policyId": "a828473e3a338fcbdaa209ad676a06a76540ea48f604fa97f26cd552",
+      "nameHex": "5472656e63685175657374",
+      "title": "TRNCHY",
+      "project": "TrenchQuest",
+      "img": "https://ada.markets/img/bos.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme",
+      "Twitter": "https://x.com/trenchyada"
+   },
+
     {
       "policyId": "bb5a7d8e8667d05b25d609b313364bcd9814d95b2eb21be501eaeedb",
       "nameHex": "436861726c65737352616e6368",

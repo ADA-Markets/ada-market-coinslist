@@ -2738,6 +2738,34 @@
       "quantity": 0,
       "img": "https://ada.markets/img/dip.png"
     },
+
+    {
+      "policyId": "da247e71f71b0195c8188bf43827f34c9357cc388fceed596d100d95",
+      "nameHex": "424f54",
+      "title": "BOT",
+      "project": "BOT",
+      "decimals": 0,
+      "quantity": 0,
+      "img": "https://ada.markets/img/bot.png"
+    },
+    {
+      "policyId": "02a4e5d69c39dc69ca5673836545743f425563965af06fe002bdd790",
+      "nameHex": "43455446",
+      "title": "cETF",
+      "project": "cETF",
+      "decimals": 0,
+      "quantity": 0,
+      "img": "https://ada.markets/img/cetf.png"
+    },
+    {
+      "policyId": "d894897411707efa755a76deb66d26dfd50593f2e70863e1661e98a0",
+      "nameHex": "7370616365636f696e73",
+      "title": "SPACE",
+      "project": "spacecoins",
+      "decimals": 0,
+      "quantity": 0,
+      "img": "https://ada.markets/img/space.png"
+    },
     {
       "policyId": "4981b9bdaf6477b21b8c88a03041a4f365915b6dbe29e2dd714586ba",
       "nameHex": "4d45535349",

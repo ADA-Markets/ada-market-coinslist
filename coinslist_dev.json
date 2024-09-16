@@ -2715,6 +2715,15 @@
       "quantity": 0
     },
     {
+      "policyId": "47141777c7f93d1d4546b97bb37372c0d3dc7ad205a3b4234e653467",
+      "nameHex": "4a45455453",
+      "title": "JEETS",
+      "project": "JEETS",
+      "decimals": 0,
+      "quantity": 0,
+      "img": "https://ada.markets/img/jeet.png"
+    },
+    {
       "policyId": "0c78f619e54a5d00e143f66181a2c500d0c394b38a10e86cd1a23c5f",
       "nameHex": "41444158",
       "title": "ADAX",

@@ -2695,6 +2695,15 @@
       "quantity": 0
     },
     {
+      "policyId": "47141777c7f93d1d4546b97bb37372c0d3dc7ad205a3b4234e653467",
+      "nameHex": "4a45455453",
+      "title": "JEETS",
+      "project": "JEETS",
+      "decimals": 0,
+      "quantity": 0,
+      "img": "https://ada.markets/img/jeet.png"
+    },
+    {
       "policyId": "eda69ce0f80d0f2ff78892b07fe648ec5bf5375afc1ed545278cb150",
       "nameHex": "43686169726d616e4d656f77",
       "title": "ChairmanMeow",

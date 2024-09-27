@@ -256,6 +256,19 @@
       "Website": "https://houseoftitans.io/",
       "Twitter": "https://x.com/HouseOfTitans_"
    },
+
+   {
+      "policyId": "3d77d63dfa6033be98021417e08e3368cc80e67f8d7afa196aaa0b39",
+      "nameHex": "53746172636820546f6b656e",
+      "title": "STRCH",
+      "project": "STRCH",
+      "img": "https://ada.markets/img/strch.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "Meme",
+      "Website": "https://starch.one"
+   },
+
    {
       "policyId": "f4364875e75320d405ceadebdf0db63fadaff55c72d4ff6b82f0676a",
       "nameHex": "434152474f",

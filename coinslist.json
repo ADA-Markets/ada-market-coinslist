@@ -186,6 +186,18 @@
       "Twitter": "https://x.com/"
    },
    {
+      "policyId": "8483844875ce4d61c2aa459240f277d32081ee08fe0ad16899a0f581",
+      "nameHex": "0014df10544954414e",
+      "title": "TITAN",
+      "project": "TITAN",
+      "img": "https://ada.markets/img/titan.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "Depin",
+      "Website": "https://houseoftitans.io/",
+      "Twitter": "https://x.com/HouseOfTitans_"
+   },
+   {
       "policyId": "a1c94e56e4b24945338f2779e33b02e52fdd30d5f279c6131cc43c7c",
       "nameHex": "42555a5a",
       "title": "BUZZ",

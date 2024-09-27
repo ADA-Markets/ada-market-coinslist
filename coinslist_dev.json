@@ -245,6 +245,18 @@
       "Twitter": "https://x.com/replyada"
    },
    {
+      "policyId": "8483844875ce4d61c2aa459240f277d32081ee08fe0ad16899a0f581",
+      "nameHex": "0014df10544954414e",
+      "title": "TITAN",
+      "project": "TITAN",
+      "img": "https://ada.markets/img/titan.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "Depin",
+      "Website": "https://houseoftitans.io/",
+      "Twitter": "https://x.com/HouseOfTitans_"
+   },
+   {
       "policyId": "f4364875e75320d405ceadebdf0db63fadaff55c72d4ff6b82f0676a",
       "nameHex": "434152474f",
       "title": "CARGO",

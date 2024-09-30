@@ -67,6 +67,20 @@
       "Website": "https://app.axo.trade/",
       "Twitter": "https://x.com/axotrade"
    },
+
+   {
+      "policyId": "e5a42a1a1d3d1da71b0449663c32798725888d2eb0843c4dabeca05a",
+      "nameHex": "576f726c644d6f62696c65546f6b656e58",
+      "title": "WMTX",
+      "project": "World Mobile Token X",
+      "img": "https://ada.markets/img/wmtx.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "DeFi",
+      "Website": "https://worldmobiletoken.com",
+      "Twitter": "https://x.com/wmtoken"
+   },
+
    {
       "policyId": "016be5325fd988fea98ad422fcfd53e5352cacfced5c106a932a35a4",
       "nameHex": "42544e",

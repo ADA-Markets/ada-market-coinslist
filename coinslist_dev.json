@@ -2569,6 +2569,7 @@
       "nameHex": "4368616e6765",
       "title": "Change",
       "project": "Change",
+      "img": "https://ada.markets/img/change.png",
       "decimals": 0,
       "quantity": 0
     },
@@ -2633,6 +2634,7 @@
       "nameHex": "534c4f5020436f696e",
       "title": "SLOP Coin",
       "project": "SLOP Coin",
+      "img": "https://ada.markets/img/slop.png",
       "decimals": 0,
       "quantity": 0
     },
@@ -2867,6 +2869,7 @@
       "nameHex": "7363616c65",
       "title": "scale",
       "project": "scale",
+      "img": "https://ada.markets/img/scale.png",
       "decimals": 0,
       "quantity": 0
     },
@@ -2960,9 +2963,10 @@
     {
       "policyId": "de27f9eb9ed6f011e30a56dbe09d982c9facde3a37efd92f4dfac015",
       "nameHex": "446f6e616c644a5472756d70",
-      "title": "DonaldJTrump",
+      "title": "TRUMP",
       "project": "DonaldJTrump",
       "decimals": 0,
+      "img": "https://ada.markets/img/trump.png",
       "quantity": 0
     },
     {
@@ -3048,6 +3052,7 @@
       "title": "HOSHI",
       "project": "HOSHI",
       "decimals": 0,
+      "img": "https://ada.markets/img/hoshi.png",
       "quantity": 0
     },
     {

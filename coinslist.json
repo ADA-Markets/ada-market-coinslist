@@ -32,6 +32,20 @@
       "Category": "Meme",
       "Website": "https://starch.one"
    },
+
+   {
+      "policyId": "e69eaae4740f240ba9dfffd0ed6b7cb34070efe567e2ec841e3b7562",
+      "nameHex": "46524e",
+      "title": "FRN",
+      "project": "Foreon Network",
+      "img": "https://ada.markets/img/frn.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "Gambling",
+      "Website": "https://foreon.network",
+      "Twitter": "https://x.com/foreonnetwork"
+   },
+
    {
       "policyId": "5ac3d4bdca238105a040a565e5d7e734b7c9e1630aec7650e809e34a",
       "nameHex": "535155495254",

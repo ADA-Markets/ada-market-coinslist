@@ -256,6 +256,19 @@
       "Website": "https://houseoftitans.io/",
       "Twitter": "https://x.com/HouseOfTitans_"
    },
+   
+   {
+      "policyId": "e69eaae4740f240ba9dfffd0ed6b7cb34070efe567e2ec841e3b7562",
+      "nameHex": "46524e",
+      "title": "FRN",
+      "project": "Foreon Network",
+      "img": "https://ada.markets/img/frn.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "Gambling",
+      "Website": "https://foreon.network",
+      "Twitter": "https://x.com/foreonnetwork"
+   },
 
    {
       "policyId": "3d77d63dfa6033be98021417e08e3368cc80e67f8d7afa196aaa0b39",

@@ -3005,14 +3005,17 @@
       "decimals": 0,
       "quantity": 0
     },
+
     {
-      "policyId": "db28c6a79d45d5dc1ac5ee36cc410d886414a0b335205432972f7668",
-      "nameHex": "444f4753",
-      "title": "DOGS",
-      "project": "DOGS",
+      "policyId": "f67b457c4f278c7c278f636af04a378dc6fe99270a84cd174735f98c",
+      "nameHex": "446f672057686973746c65",
+      "title": "DWHIS",
+      "project": "Dog Whistle",
       "decimals": 0,
-      "quantity": 0
+      "quantity": 0,
+      "img": "https://ada.markets/img/dwhis.png"
     },
+
     {
       "policyId": "e90f72af7212f37b1af072d74d326e7d1bc15c21f8ca4180d4fd931f",
       "nameHex": "484f50",
@@ -3105,6 +3108,7 @@
       "nameHex": "50455045444f47",
       "title": "PEPEDOG",
       "project": "PEPEDOG",
+      "img": "https://ada.markets/img/pepedog.png",
       "decimals": 0,
       "quantity": 0
     },

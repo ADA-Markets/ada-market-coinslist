@@ -283,6 +283,18 @@
    },
 
    {
+      "policyId": "52c1ded375e7ed7c460bce27874fd3fa95a18426849bfb5e537a31f3",
+      "nameHex": "534e454b5452554d50",
+      "title": "STRUMP",
+      "project": "Snek Trump",
+      "img": "https://ada.markets/img/strump.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme",
+      "Website": "https://starch.one"
+   },
+
+   {
       "policyId": "f4364875e75320d405ceadebdf0db63fadaff55c72d4ff6b82f0676a",
       "nameHex": "434152474f",
       "title": "CARGO",
@@ -2289,6 +2301,30 @@
    },
 
    {
+      "policyId": "7f149ffd7b3311da196e7af94abdcb7f4ab889677ec1ecb888e32dac",
+      "nameHex": "42414259444f4e5a4f",
+      "title": "BABYDONZO",
+      "project": "BABYDONZO",
+      "img": "https://ada.markets/img/babydonzo.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme",
+      "Twitter": "https://x.com/BABYDONZO"
+   },
+
+   {
+      "policyId": "8710d7e46ffb678803a2072d6c838fb564a249362dd671729e9d8362",
+      "nameHex": "4d414741494e55",
+      "title": "MAGA",
+      "project": "MAGA INU",
+      "img": "https://ada.markets/img/maga.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme",
+      "Twitter": "https://x.com/Maga_inu_Coin"
+   },
+
+   {
       "policyId": "30d2ebdb2fec06142ee84e5120c2717b4d68a91bffd924420d94ddea",
       "nameHex": "43484950",
       "title": "CHIP",
@@ -2699,6 +2735,7 @@
       "nameHex": "42616442616442616279",
       "title": "BadBadBaby",
       "project": "BadBadBaby",
+      "img": "https://ada.markets/img/bbb.png",
       "decimals": 0,
       "quantity": 0
     },

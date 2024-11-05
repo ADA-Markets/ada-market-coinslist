@@ -843,8 +843,8 @@
    {
       "policyId": "c7dcfa416c127f630b263c7e0fe0564430cfa9c56bba43e1a37c6915",
       "nameHex": "474f4b4559",
-      "title": "GOKEY",
-      "project": "GoKey",
+      "title": "GOKEYv1",
+      "project": "GoKeyv1",
       "img": "https://ada.markets/img/gokey.png",
       "decimals": 0,
       "quantity": 0,
@@ -2691,6 +2691,7 @@
       "nameHex": "474c44534e454b",
       "title": "GLDSNEK",
       "project": "GLDSNEK",
+      "img": "https://ada.markets/img/gldsnek.png",
       "decimals": 0,
       "quantity": 0
     },
@@ -2733,6 +2734,7 @@
       "nameHex": "474f4b4559",
       "title": "GOKEY",
       "project": "GOKEY",
+      "img": "https://ada.markets/img/gokey.png",
       "decimals": 0,
       "quantity": 0
     },
@@ -2758,6 +2760,7 @@
       "nameHex": "506569706569",
       "title": "Peipei",
       "project": "Peipei",
+      "img": "https://ada.markets/img/peipei.png",
       "decimals": 0,
       "quantity": 0
     },
@@ -2901,6 +2904,7 @@
       "nameHex": "53717565616b",
       "title": "Squeak",
       "project": "Squeak",
+      "img": "https://ada.markets/img/squeak.png",
       "decimals": 0,
       "quantity": 0
     },
@@ -2991,7 +2995,8 @@
       "title": "GirlFren",
       "project": "GirlFren",
       "decimals": 0,
-      "quantity": 0
+      "quantity": 0,
+      "img": "https://ada.markets/img/girlfren.png"
     },
     {
       "policyId": "169f4ad93d07b6a6b1c4d97a78d0e222fc16b821467b8ad123384ca4",
@@ -3006,6 +3011,7 @@
       "nameHex": "50524f584945",
       "title": "PROXIE",
       "project": "PROXIE",
+      "img": "https://ada.markets/img/proxie.png",
       "decimals": 0,
       "quantity": 0
     },
@@ -3023,6 +3029,7 @@
       "nameHex": "534c4150",
       "title": "SLAP",
       "project": "SLAP",
+      "img": "https://ada.markets/img/slap.png",
       "decimals": 0,
       "quantity": 0
     },
@@ -3075,6 +3082,7 @@
       "nameHex": "62616279536869747a75",
       "title": "BabyShitzu",
       "project": "BabyShitzu",
+      "img": "https://ada.markets/img/babyshitzu.png",
       "decimals": 0,
       "quantity": 0
     },

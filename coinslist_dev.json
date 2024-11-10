@@ -886,7 +886,7 @@
       "quantity": 0,
       "Category": "Meme",
       "Website": "https://hosky.io",
-      "Twitter": "http://twitter.com/hoskytoken"
+      "Twitter": "http://x.com/hoskytoken"
    },
    {
       "policyId": "6ded36273214629f9ff35e9f9c7b8945d937a80a3796ddc4a646a50e",
@@ -1330,7 +1330,7 @@
       "quantity": 0,
       "Category": "GameFi, NFT, Launchpad",
       "Website": "https://www.danketsu.io",
-      "Twitter": "https://www.twitter.com/danketsuNFT"
+      "Twitter": "https://www.x.com/danketsuNFT"
    },
    {
       "policyId": "5dac8536653edc12f6f5e1045d8164b9f59998d3bdc300fc92843489",
@@ -1855,7 +1855,7 @@
       "quantity": 0,
       "Category": "DeFi",
       "Website": "https://vyfi.io",
-      "Twitter": "https://www.twitter.com/VyFiOfficial"
+      "Twitter": "https://www.x.com/VyFiOfficial"
    },
    {
       "policyId": "caff93803e51c7b97bf79146790bfa3feb0d0b856ef16113b391b997",
@@ -2081,7 +2081,7 @@
       "decimals": 6,
       "quantity": 0,
       "Category": "Stablecoin",
-      "Twitter": "https://x.com/MehenOfficial"
+      "Twitter": "https://x.com/USDMOfficial"
    },
    {
       "policyId": "5b26e685cc5c9ad630bde3e3cd48c694436671f3d25df53777ca60ef",

@@ -10,6 +10,16 @@
       "Category": "Other"
    },
    {
+      "policyId": "6d06570ddd778ec7c0cca09d381eca194e90c8cffa7582879735dbde",
+      "nameHex": "584552",
+      "title": "XER",
+      "project": "Xerberus",
+      "img": "https://pbs.twimg.com/profile_images/1846588068184137728/5aB8UPYQ_400x400.jpg",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "Other"
+   },
+   {
       "policyId": "c8c711a3df70956c397cb92e1705b675b18652723cfb7f72ccd59f2d",
       "nameHex": "434841524c4553",
       "title": "CHARLES",
@@ -20,7 +30,6 @@
       "Category": "Other",
       "Website": "https://stuff.io/"
    },
-
    {
       "policyId": "3d77d63dfa6033be98021417e08e3368cc80e67f8d7afa196aaa0b39",
       "nameHex": "53746172636820546f6b656e",

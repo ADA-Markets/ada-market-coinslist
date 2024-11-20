@@ -2255,6 +2255,18 @@
       "Category": "Meme",
       "Twitter": "https://x.com/nike_hoskinson"
    },
+
+   {
+      "policyId": "3bbbe8599fbc4a9cd2dc1c94ad0f577ce2328180b9cc7b851633aa8d",
+      "nameHex": "506172747920436174",
+      "title": "PCAT",
+      "project": "Party Cat",
+      "img": "https://ada.markets/img/pcat.gif",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme"
+   },
+   
    {
       "policyId": "f15b78fbd108fafff8e88b1925fe02bb72aefb935958924970f7fa63",
       "nameHex": "4e696b65576966486174",

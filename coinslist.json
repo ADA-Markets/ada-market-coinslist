@@ -2294,6 +2294,17 @@
    },
 
    {
+      "policyId": "3bbbe8599fbc4a9cd2dc1c94ad0f577ce2328180b9cc7b851633aa8d",
+      "nameHex": "506172747920436174",
+      "title": "PCAT",
+      "project": "Party Cat",
+      "img": "https://ada.markets/img/pcat.gif",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme"
+   },
+
+   {
       "policyId": "bf3e19192da77dfadc7c9065944e50ca7e1a439d90833e3ae58b720a",
       "nameHex": "44414e5a4f",
       "title": "DANZO",

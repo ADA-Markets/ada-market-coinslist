@@ -2294,6 +2294,17 @@
    },
 
    {
+      "policyId": "375df3f2fb44d3c42b3381a09edd4ea2303a57ada32b5308c0774ee0",
+      "nameHex": "544f4b45",
+      "title": "TOKE",
+      "project": "Tokeo",
+      "img": "https://ada.markets/img/toke.gif",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Wallet"
+   },
+
+   {
       "policyId": "3bbbe8599fbc4a9cd2dc1c94ad0f577ce2328180b9cc7b851633aa8d",
       "nameHex": "506172747920436174",
       "title": "PCAT",

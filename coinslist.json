@@ -2305,6 +2305,18 @@
    },
 
    {
+      "policyId": "d4b29d5d48edf300128a5f08150ad196a6af15ebd7932306d3099efe",
+      "nameHex": "424f4f",
+      "title": "BOO",
+      "project": "BOO",
+      "img": "https://ada.markets/img/boo.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme",
+      "Twitter": "https://x.com/BoocoinIO"
+   },
+
+   {
       "policyId": "3bbbe8599fbc4a9cd2dc1c94ad0f577ce2328180b9cc7b851633aa8d",
       "nameHex": "506172747920436174",
       "title": "PCAT",

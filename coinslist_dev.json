@@ -2257,6 +2257,18 @@
    },
 
    {
+      "policyId": "d4b29d5d48edf300128a5f08150ad196a6af15ebd7932306d3099efe",
+      "nameHex": "424f4f",
+      "title": "BOO",
+      "project": "BOO",
+      "img": "https://ada.markets/img/boo.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme",
+      "Twitter": "https://x.com/BoocoinIO"
+   },
+
+   {
       "policyId": "375df3f2fb44d3c42b3381a09edd4ea2303a57ada32b5308c0774ee0",
       "nameHex": "544f4b45",
       "title": "TOKE",

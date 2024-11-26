@@ -2312,6 +2312,19 @@
       "Category": "Meme",
       "Twitter": "https://x.com/Blobcoinada"
    },
+
+   {
+      "policyId": "70cb405628006ab6010889248e361cc598688d0e768f97cdeea1e41e",
+      "nameHex": "464c5558",
+      "title": "FLUX",
+      "project": "FLUX",
+      "img": "https://ada.markets/img/flux.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme",
+      "Twitter": "https://x.com/CardanoFlux"
+   },
+
    {
       "policyId": "6a0f6c32b77596240ff8bc78e1c334fa9bd2131750f47f3afb36b1b2",
       "nameHex": "4d4f4749",

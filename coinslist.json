@@ -2317,6 +2317,19 @@
    },
 
    {
+      "policyId": "70cb405628006ab6010889248e361cc598688d0e768f97cdeea1e41e",
+      "nameHex": "464c5558",
+      "title": "FLUX",
+      "project": "FLUX",
+      "img": "https://ada.markets/img/flux.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme",
+      "Twitter": "https://x.com/CardanoFlux"
+   },
+
+
+   {
       "policyId": "3bbbe8599fbc4a9cd2dc1c94ad0f577ce2328180b9cc7b851633aa8d",
       "nameHex": "506172747920436174",
       "title": "PCAT",
@@ -2967,14 +2980,6 @@
       "nameHex": "424f58",
       "title": "BOX",
       "project": "BOX",
-      "decimals": 0,
-      "quantity": 0
-    },
-    {
-      "policyId": "59bc0484225992f0fafffc472784f89f1c75e496cb570ec2922b9243",
-      "nameHex": "444344",
-      "title": "DCD",
-      "project": "DCD",
       "decimals": 0,
       "quantity": 0
     },

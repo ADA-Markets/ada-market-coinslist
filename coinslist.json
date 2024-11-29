@@ -131,6 +131,18 @@
    },
 
    {
+      "policyId": "766fce8055f39d40fcfc19721677b3deb2e7846950ae08dce757f1e7",
+      "nameHex": "53554741522042555348",
+      "title": "SUGAR",
+      "project": "SUGAR BUSH",
+      "img": "https://ada.markets/img/sugar.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme",
+      "Twitter": "https://x.com/wmtoken"
+   },
+
+   {
       "policyId": "016be5325fd988fea98ad422fcfd53e5352cacfced5c106a932a35a4",
       "nameHex": "42544e",
       "title": "BTN",

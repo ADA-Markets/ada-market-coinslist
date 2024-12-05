@@ -131,6 +131,19 @@
    },
 
    {
+      "policyId": "5deab590a137066fef0e56f06ef1b830f21bc5d544661ba570bdd2ae",
+      "nameHex": "424f44454741",
+      "title": "BODEGA",
+      "project": "BODEGA",
+      "img": "https://ada.markets/img/bodega.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "Gambling",
+      "Website": "https://www.bodegacardano.org/",
+      "Twitter": "https://x.com/BodegaCardano"
+   },
+
+   {
       "policyId": "766fce8055f39d40fcfc19721677b3deb2e7846950ae08dce757f1e7",
       "nameHex": "53554741522042555348",
       "title": "SUGAR",

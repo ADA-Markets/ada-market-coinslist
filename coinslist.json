@@ -144,6 +144,19 @@
    },
 
    {
+      "policyId": "6787a47e9f73efe4002d763337140da27afa8eb9a39413d2c39d4286",
+      "nameHex": "524144546f6b656e73",
+      "title": "RAD",
+      "project": "RADTokens",
+      "img": "https://ada.markets/img/rad.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Gaming",
+      "Website": "https://cardania.com/codex/policy-ids/",
+      "Twitter": "https://x.com/Cardania_HQ"
+   },
+
+   {
       "policyId": "766fce8055f39d40fcfc19721677b3deb2e7846950ae08dce757f1e7",
       "nameHex": "53554741522042555348",
       "title": "SUGAR",

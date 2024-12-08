@@ -3297,6 +3297,18 @@
       "project": "SAFE",
       "decimals": 0,
       "quantity": 0
+    },
+
+    {
+      "policyId": "4a17babb62367c0def1615e0e75d20cda9f1b5c1cd4a55c86661777f",
+      "nameHex": "48594452",
+      "title": "HYDR",
+      "project": "HydroDrip",
+      "img": "https://ada.markets/img/hydrodrip.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Twitter": "https://x.com/HydroDriponADA",
+      "Website": "https://hydrodrip.io/"
     }
 
 ]

@@ -250,6 +250,20 @@
       "quantity": 0,
       "Category": "Meme"
    },
+
+   {
+      "policyId": "97075bf380e65f3c63fb733267adbb7d42eec574428a754d2abca55b",
+      "nameHex": "436861726c6573207468652043686164",
+      "title": "CHAD",
+      "project": "Charles the Chad",
+      "img": "https://ada.markets/img/chad.png",
+      "decimals": 8,
+      "quantity": 0,
+      "Category": "Meme",
+      "Website": "https://charlesthechad.com/",
+      "Twitter": "https://x.com/charles_thechad"
+   },
+   
    {
       "policyId": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff935",
       "nameHex": "425443",

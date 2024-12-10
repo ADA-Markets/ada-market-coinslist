@@ -2327,6 +2327,19 @@
    },
 
    {
+      "policyId": "97075bf380e65f3c63fb733267adbb7d42eec574428a754d2abca55b",
+      "nameHex": "436861726c6573207468652043686164",
+      "title": "CHAD",
+      "project": "Charles the Chad",
+      "img": "https://ada.markets/img/chad.png",
+      "decimals": 8,
+      "quantity": 0,
+      "Category": "Meme",
+      "Website": "https://charlesthechad.com/",
+      "Twitter": "https://x.com/charles_thechad"
+   },
+
+   {
       "policyId": "6787a47e9f73efe4002d763337140da27afa8eb9a39413d2c39d4286",
       "nameHex": "524144546f6b656e73",
       "title": "RAD",

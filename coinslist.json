@@ -252,6 +252,17 @@
    },
 
    {
+      "policyId": "ec6ec45fc2275a2380b16449c1e34869dc0b6609bdf17a8b7c9f1cb4",
+      "nameHex": "546f6d61746f436f696e",
+      "title": "TCOIN",
+      "project": "TomatoCoin",
+      "img": "https://ada.markets/img/tcoin.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme"
+   },
+
+   {
       "policyId": "97075bf380e65f3c63fb733267adbb7d42eec574428a754d2abca55b",
       "nameHex": "436861726c6573207468652043686164",
       "title": "CHAD",

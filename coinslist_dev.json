@@ -22,18 +22,6 @@
       "Website": "https://www.xerberus.io/"
    },
    {
-      "policyId": "d23db48fcdffbc52b90ec075194feb481983b04bd618f9680a8d2117",
-      "nameHex": "53594e43",
-      "title": "SYNC",
-      "project": "SyncAI Network",
-      "img": "https://ada.markets/img/sync.png",
-      "decimals": 6,
-      "quantity": 0,
-      "Category": "AI",
-      "Twitter": "https://x.com/SyncAI_Network",
-      "Website": "https://www.syncai.network/"
-   },
-   {
       "policyId": "c8c711a3df70956c397cb92e1705b675b18652723cfb7f72ccd59f2d",
       "nameHex": "434841524c4553",
       "title": "CHARLES",

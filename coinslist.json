@@ -70,17 +70,6 @@
    },
 
    {
-      "policyId": "5ac3d4bdca238105a040a565e5d7e734b7c9e1630aec7650e809e34a",
-      "nameHex": "535155495254",
-      "title": "SQUIRT",
-      "project": "SQUIRT",
-      "img": "https://ada.markets/img/squirt.png",
-      "decimals": 6,
-      "quantity": 0,
-      "Category": "Meme",
-      "Website": "https://spectrum.fi"
-   },
-   {
       "policyId": "ececc92aeaaac1f5b665f567b01baec8bc2771804b4c21716a87a4e3",
       "nameHex": "53504c415348",
       "title": "SPLASH",

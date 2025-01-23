@@ -2140,6 +2140,17 @@
       "Twitter": "https://x.com/USDMOfficial"
    },
    {
+      "policyId": "fe7c786ab321f41c654ef6c1af7b3250a613c24e4213e0425a7ae456",
+      "nameHex": "55534441",
+      "title": "USDA",
+      "project": "USDA",
+      "img": "https://ada.markets/img/usda.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "Stablecoin",
+      "Twitter": "https://x.com/AnzensOfficial"
+   },
+   {
       "policyId": "5b26e685cc5c9ad630bde3e3cd48c694436671f3d25df53777ca60ef",
       "nameHex": "4e564c",
       "title": "NVL",

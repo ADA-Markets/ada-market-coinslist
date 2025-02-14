@@ -2073,6 +2073,30 @@
       "Category": "Stablecoin",
       "Twitter": "https://x.com/USDMOfficial"
    },
+
+   {
+      "policyId": "97bbb7db0baef89caefce61b8107ac74c7a7340166b39d906f174bec",
+      "nameHex": "54616c6f73",
+      "title": "TALOS",
+      "project": "Talos",
+      "img": "https://ada.markets/img/hosky.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "AI",
+      "Twitter": "https://x.com/TalosAgent"
+   },
+   {
+      "policyId": "9d05077f2e6dcb17915f9b99bc443726939dd2047aafd6cb4a6fe017",
+      "nameHex": "524f4c4c",
+      "title": "ROLL",
+      "project": "Roll",
+      "img": "https://ada.markets/img/hosky.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "AI",
+      "Website": "https://farmroll.io/",
+      "Twitter": "https://x.com/farmroll_io"
+   },
    {
       "policyId": "fe7c786ab321f41c654ef6c1af7b3250a613c24e4213e0425a7ae456",
       "nameHex": "55534441",

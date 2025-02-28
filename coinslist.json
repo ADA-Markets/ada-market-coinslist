@@ -3351,6 +3351,30 @@
     },
 
     {
+      "policyId": "00000000000410c2d9e01e8ec78ab1dc6bbc383fae76cbe2689beb02",
+      "nameHex": "4d49444153",
+      "title": "MIDAS",
+      "project": "MIDAS Synthetic",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/midas.png",
+      "decimals": 9,
+      "quantity": 0,
+      "Category": "Synthetic",
+      "Twitter": "https://x.com/butaneprotocol"
+   },
+
+   {
+      "policyId": "4128947ee2e2e983c8710d6ddeb1f90ad8f3b843650d13045f13b9e9",
+      "nameHex": "4361726465787363616e",
+      "title": "CDS",
+      "project": "Cardexscan",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/cds.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "DeFi",
+      "Twitter": "https://x.com/cardexscan"
+   },
+
+    {
       "policyId": "2852268cf6e2db42e20f2fd3125f541e5d6c5a3d70b4dda17c2daa82",
       "nameHex": "",
       "title": "O",

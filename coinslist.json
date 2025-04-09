@@ -33,43 +33,6 @@
       "Website": "https://stuff.io/"
    },
    {
-      "policyId": "3d77d63dfa6033be98021417e08e3368cc80e67f8d7afa196aaa0b39",
-      "nameHex": "53746172636820546f6b656e",
-      "title": "STRCH",
-      "project": "STRCH",
-      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/strch.png",
-      "decimals": 0,
-      "quantity": 0,
-      "Category": "Meme",
-      "Website": "https://starch.one"
-   },
-
-   {
-      "policyId": "52c1ded375e7ed7c460bce27874fd3fa95a18426849bfb5e537a31f3",
-      "nameHex": "534e454b5452554d50",
-      "title": "STRUMP",
-      "project": "Snek Trump",
-      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/strump.png",
-      "decimals": 0,
-      "quantity": 0,
-      "Category": "Meme",
-      "Website": "https://starch.one"
-   },
-
-   {
-      "policyId": "e69eaae4740f240ba9dfffd0ed6b7cb34070efe567e2ec841e3b7562",
-      "nameHex": "46524e",
-      "title": "FRN",
-      "project": "Foreon Network",
-      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/frn.png",
-      "decimals": 6,
-      "quantity": 0,
-      "Category": "Gambling",
-      "Website": "https://foreon.network",
-      "Twitter": "https://x.com/foreonnetwork"
-   },
-
-   {
       "policyId": "ececc92aeaaac1f5b665f567b01baec8bc2771804b4c21716a87a4e3",
       "nameHex": "53504c415348",
       "title": "SPLASH",
@@ -93,58 +56,6 @@
       "Website": "https://app.axo.trade/",
       "Twitter": "https://x.com/axotrade"
    },
-
-   {
-      "policyId": "e5a42a1a1d3d1da71b0449663c32798725888d2eb0843c4dabeca05a",
-      "nameHex": "576f726c644d6f62696c65546f6b656e58",
-      "title": "WMTX",
-      "project": "World Mobile Token X",
-      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/wmtx.png",
-      "decimals": 6,
-      "quantity": 0,
-      "Category": "DeFi",
-      "Website": "https://worldmobiletoken.com",
-      "Twitter": "https://x.com/wmtoken"
-   },
-
-   {
-      "policyId": "5deab590a137066fef0e56f06ef1b830f21bc5d544661ba570bdd2ae",
-      "nameHex": "424f44454741",
-      "title": "BODEGA",
-      "project": "BODEGA",
-      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/bodega.png",
-      "decimals": 6,
-      "quantity": 0,
-      "Category": "Gambling",
-      "Website": "https://www.bodegacardano.org/",
-      "Twitter": "https://x.com/BodegaCardano"
-   },
-
-   {
-      "policyId": "6787a47e9f73efe4002d763337140da27afa8eb9a39413d2c39d4286",
-      "nameHex": "524144546f6b656e73",
-      "title": "RAD",
-      "project": "RADTokens",
-      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/rad.png",
-      "decimals": 0,
-      "quantity": 0,
-      "Category": "Gaming",
-      "Website": "https://cardania.com/codex/policy-ids/",
-      "Twitter": "https://x.com/Cardania_HQ"
-   },
-
-   {
-      "policyId": "766fce8055f39d40fcfc19721677b3deb2e7846950ae08dce757f1e7",
-      "nameHex": "53554741522042555348",
-      "title": "SUGAR",
-      "project": "SUGAR BUSH",
-      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/sugar.png",
-      "decimals": 0,
-      "quantity": 0,
-      "Category": "Meme",
-      "Twitter": "https://x.com/wmtoken"
-   },
-
    {
       "policyId": "016be5325fd988fea98ad422fcfd53e5352cacfced5c106a932a35a4",
       "nameHex": "42544e",
@@ -227,31 +138,6 @@
       "quantity": 0,
       "Category": "Meme"
    },
-
-   {
-      "policyId": "ec6ec45fc2275a2380b16449c1e34869dc0b6609bdf17a8b7c9f1cb4",
-      "nameHex": "546f6d61746f436f696e",
-      "title": "TCOIN",
-      "project": "TomatoCoin",
-      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/tcoin.png",
-      "decimals": 0,
-      "quantity": 0,
-      "Category": "Meme"
-   },
-
-   {
-      "policyId": "97075bf380e65f3c63fb733267adbb7d42eec574428a754d2abca55b",
-      "nameHex": "436861726c6573207468652043686164",
-      "title": "CHAD",
-      "project": "Charles the Chad",
-      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/chad.png",
-      "decimals": 8,
-      "quantity": 0,
-      "Category": "Meme",
-      "Website": "https://charlesthechad.com/",
-      "Twitter": "https://x.com/charles_thechad"
-   },
-   
    {
       "policyId": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff935",
       "nameHex": "425443",
@@ -261,9 +147,23 @@
       "decimals": 8,
       "quantity": 0,
       "Category": "Bridge",
-      "Website": "https://wanchain.org",
+      "Website": "https://www.wanscan.org/tokens",
       "Twitter": "https://x.com/wanchain_org"
    },
+
+   {
+      "policyId": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff935",
+      "nameHex": "asset1804uxtcfyzrg3ww4737ga9rysln375kq0ykmuq",
+      "title": "DOG",
+      "project": "DOG (Wanchain)",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/dog.png",
+      "decimals": 5,
+      "quantity": 0,
+      "Category": "Bridge",
+      "Website": "https://www.wanscan.org/tokens",
+      "Twitter": "https://x.com/wanchain_org"
+   },
+
    {
       "policyId": "585cfcbdd0786e961187999e5d5d36b38d1ebc1c4112a0a95a8bd477",
       "nameHex": "424c43",
@@ -299,18 +199,6 @@
       "Category": "Meme",
       "Website": "",
       "Twitter": "https://x.com/"
-   },
-   {
-      "policyId": "8483844875ce4d61c2aa459240f277d32081ee08fe0ad16899a0f581",
-      "nameHex": "0014df10544954414e",
-      "title": "TITAN",
-      "project": "TITAN",
-      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/titan.png",
-      "decimals": 6,
-      "quantity": 0,
-      "Category": "Depin",
-      "Website": "https://houseoftitans.io/",
-      "Twitter": "https://x.com/HouseOfTitans_"
    },
    {
       "policyId": "a1c94e56e4b24945338f2779e33b02e52fdd30d5f279c6131cc43c7c",
@@ -360,6 +248,56 @@
       "Website": "https://cardanogpt.ai/",
       "Twitter": "https://x.com/replyada"
    },
+   {
+      "policyId": "8483844875ce4d61c2aa459240f277d32081ee08fe0ad16899a0f581",
+      "nameHex": "0014df10544954414e",
+      "title": "TITAN",
+      "project": "TITAN",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/titan.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "Depin",
+      "Website": "https://houseoftitans.io/",
+      "Twitter": "https://x.com/HouseOfTitans_"
+   },
+   
+   {
+      "policyId": "e69eaae4740f240ba9dfffd0ed6b7cb34070efe567e2ec841e3b7562",
+      "nameHex": "46524e",
+      "title": "FRN",
+      "project": "Foreon Network",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/frn.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "Gambling",
+      "Website": "https://foreon.network",
+      "Twitter": "https://x.com/foreonnetwork"
+   },
+
+   {
+      "policyId": "3d77d63dfa6033be98021417e08e3368cc80e67f8d7afa196aaa0b39",
+      "nameHex": "53746172636820546f6b656e",
+      "title": "STRCH",
+      "project": "STRCH",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/strch.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme",
+      "Website": "https://starch.one"
+   },
+
+   {
+      "policyId": "52c1ded375e7ed7c460bce27874fd3fa95a18426849bfb5e537a31f3",
+      "nameHex": "534e454b5452554d50",
+      "title": "STRUMP",
+      "project": "Snek Trump",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/strump.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme",
+      "Website": "https://starch.one"
+   },
+
    {
       "policyId": "f4364875e75320d405ceadebdf0db63fadaff55c72d4ff6b82f0676a",
       "nameHex": "434152474f",
@@ -574,6 +512,16 @@
       "Website": "https://cswap.fi",
       "Twitter": "https://x.com/CswapDEX"
    },
+
+   {
+      "policyId": "f67b457c4f278c7c278f636af04a378dc6fe99270a84cd174735f98c",
+      "nameHex": "446f672057686973746c65",
+      "title": "DWHIS",
+      "project": "Dog Whistle",
+      "decimals": 0,
+      "quantity": 0,
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/dwhis.png"
+    },
    {
       "policyId": "a8a1dccea2e378081f2d500d98d022dd3c0bd77afd9dbc7b55a9d21b",
       "nameHex": "63544f5349",
@@ -619,7 +567,7 @@
       "decimals": 8,
       "quantity": 0,
       "Category": "Bridge",
-      "Website": "https://wanchain.org",
+      "Website": "https://www.wanscan.org/tokens",
       "Twitter": "https://x.com/wanchain_org"
    },
    {
@@ -763,7 +711,7 @@
       "decimals": 8,
       "quantity": 0,
       "Category": "Bridge",
-      "Website": "https://wanchain.org",
+      "Website": "https://www.wanscan.org/tokens",
       "Twitter": "https://x.com/wanchain_org"
    },
    {
@@ -932,32 +880,6 @@
       "Website": "https://adabudz.com/-herb",
       "Twitter": "https://x.com/adabudzNFT"
    },
-
-   {
-      "policyId": "97bbb7db0baef89caefce61b8107ac74c7a7340166b39d906f174bec",
-      "nameHex": "54616c6f73",
-      "title": "TALOS",
-      "project": "Talos",
-      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/talos.png",
-      "decimals": 0,
-      "quantity": 0,
-      "Category": "AI",
-      "Twitter": "https://x.com/TalosAgent"
-   },
-   {
-      "policyId": "9d05077f2e6dcb17915f9b99bc443726939dd2047aafd6cb4a6fe017",
-      "nameHex": "524f4c4c",
-      "title": "ROLL",
-      "project": "Roll",
-      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/roll.png",
-      "decimals": 6,
-      "quantity": 0,
-      "Category": "AI",
-      "Website": "https://farmroll.io/",
-      "Twitter": "https://x.com/farmroll_io"
-   },
-
-
    {
       "policyId": "a0028f350aaabe0545fdcb56b039bfb08e4bb4d8c4d7c3c7d481c235",
       "nameHex": "484f534b59",
@@ -968,7 +890,7 @@
       "quantity": 0,
       "Category": "Meme",
       "Website": "https://hosky.io",
-      "Twitter": "https://x.com/hoskytoken"
+      "Twitter": "http://x.com/hoskytoken"
    },
    {
       "policyId": "6ded36273214629f9ff35e9f9c7b8945d937a80a3796ddc4a646a50e",
@@ -1811,7 +1733,7 @@
       "policyId": "2adf188218a66847024664f4f63939577627a56c090f679fe366c5ee",
       "nameHex": "535441424c45",
       "title": "STABLe",
-      "project": "memecoin",
+      "project": "Memecoin",
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/stable.png",
       "decimals": 0,
       "quantity": 0,
@@ -1912,7 +1834,7 @@
       "decimals": 8,
       "quantity": 0,
       "Category": "Bridge",
-      "Website": "https://wanchain.org",
+      "Website": "https://www.wanscan.org/tokens",
       "Twitter": "https://x.com/wanchain_org"
    },
    {
@@ -1924,7 +1846,7 @@
       "decimals": 8,
       "quantity": 0,
       "Category": "Bridge",
-      "Website": "https://wanchain.org",
+      "Website": "https://www.wanscan.org/tokens",
       "Twitter": "https://x.com/wanchain_org"
    },
    {
@@ -2165,6 +2087,30 @@
       "Category": "Stablecoin",
       "Twitter": "https://x.com/USDMOfficial"
    },
+
+   {
+      "policyId": "97bbb7db0baef89caefce61b8107ac74c7a7340166b39d906f174bec",
+      "nameHex": "54616c6f73",
+      "title": "TALOS",
+      "project": "AGENTIC",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/talos.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "AI",
+      "Twitter": "https://x.com/agentic_t"
+   },
+   {
+      "policyId": "9d05077f2e6dcb17915f9b99bc443726939dd2047aafd6cb4a6fe017",
+      "nameHex": "524f4c4c",
+      "title": "ROLL",
+      "project": "Roll",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/roll.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "AI",
+      "Website": "https://farmroll.io/",
+      "Twitter": "https://x.com/farmroll_io"
+   },
    {
       "policyId": "fe7c786ab321f41c654ef6c1af7b3250a613c24e4213e0425a7ae456",
       "nameHex": "55534441",
@@ -2324,6 +2270,65 @@
       "Category": "Meme",
       "Twitter": "https://x.com/nike_hoskinson"
    },
+
+   {
+      "policyId": "00000000000410c2d9e01e8ec78ab1dc6bbc383fae76cbe2689beb02",
+      "nameHex": "4d49444153",
+      "title": "MIDAS",
+      "project": "MIDAS Synthetic",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/midas.png",
+      "decimals": 9,
+      "quantity": 0,
+      "Category": "Synthetic",
+      "Twitter": "https://x.com/butaneprotocol"
+   },
+
+   {
+      "policyId": "4128947ee2e2e983c8710d6ddeb1f90ad8f3b843650d13045f13b9e9",
+      "nameHex": "4361726465787363616e",
+      "title": "CDS",
+      "project": "Cardexscan",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/cds.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "DeFi",
+      "Twitter": "https://x.com/cardexscan"
+   },
+
+   {
+      "policyId": "d4b29d5d48edf300128a5f08150ad196a6af15ebd7932306d3099efe",
+      "nameHex": "424f4f",
+      "title": "BOO",
+      "project": "BOO",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/boo.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme",
+      "Twitter": "https://x.com/BoocoinIO"
+   },
+
+   {
+      "policyId": "375df3f2fb44d3c42b3381a09edd4ea2303a57ada32b5308c0774ee0",
+      "nameHex": "544f4b45",
+      "title": "TOKE",
+      "project": "Tokeo",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/toke.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Wallet"
+   },
+
+   {
+      "policyId": "3bbbe8599fbc4a9cd2dc1c94ad0f577ce2328180b9cc7b851633aa8d",
+      "nameHex": "506172747920436174",
+      "title": "PCAT",
+      "project": "Party Cat",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/pcat.gif",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme"
+   },
+   
    {
       "policyId": "f15b78fbd108fafff8e88b1925fe02bb72aefb935958924970f7fa63",
       "nameHex": "4e696b65576966486174",
@@ -2346,6 +2351,81 @@
       "Category": "Meme",
       "Twitter": "https://x.com/Blobcoinada"
    },
+
+   {
+      "policyId": "ec6ec45fc2275a2380b16449c1e34869dc0b6609bdf17a8b7c9f1cb4",
+      "nameHex": "546f6d61746f436f696e",
+      "title": "TCOIN",
+      "project": "TomatoCoin",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/tcoin.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme"
+   },
+
+   {
+      "policyId": "5deab590a137066fef0e56f06ef1b830f21bc5d544661ba570bdd2ae",
+      "nameHex": "424f44454741",
+      "title": "BODEGA",
+      "project": "BODEGA",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/bodega.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "Gambling",
+      "Website": "https://www.bodegacardano.org/",
+      "Twitter": "https://x.com/BodegaCardano"
+   },
+
+   {
+      "policyId": "97075bf380e65f3c63fb733267adbb7d42eec574428a754d2abca55b",
+      "nameHex": "436861726c6573207468652043686164",
+      "title": "CHAD",
+      "project": "Charles the Chad",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/chad.png",
+      "decimals": 8,
+      "quantity": 0,
+      "Category": "Meme",
+      "Website": "https://charlesthechad.com/",
+      "Twitter": "https://x.com/charles_thechad"
+   },
+
+   {
+      "policyId": "6787a47e9f73efe4002d763337140da27afa8eb9a39413d2c39d4286",
+      "nameHex": "524144546f6b656e73",
+      "title": "RAD",
+      "project": "RADTokens",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/rad.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Gaming",
+      "Website": "https://cardania.com/codex/policy-ids/",
+      "Twitter": "https://x.com/Cardania_HQ"
+   },
+
+   {
+      "policyId": "766fce8055f39d40fcfc19721677b3deb2e7846950ae08dce757f1e7",
+      "nameHex": "53554741522042555348",
+      "title": "SUGAR",
+      "project": "SUGAR BUSH",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/sugar.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme",
+      "Twitter": "https://x.com/wmtoken"
+   },
+
+   {
+      "policyId": "70cb405628006ab6010889248e361cc598688d0e768f97cdeea1e41e",
+      "nameHex": "464c5558",
+      "title": "FLUX",
+      "project": "FLUX",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/flux.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme",
+      "Twitter": "https://x.com/CardanoFlux"
+   },
+
    {
       "policyId": "6a0f6c32b77596240ff8bc78e1c334fa9bd2131750f47f3afb36b1b2",
       "nameHex": "4d4f4749",
@@ -2368,53 +2448,6 @@
       "quantity": 0,
       "Category": "Meme",
       "Twitter": "https://x.com/bbqcharlesada"
-   },
-
-   {
-      "policyId": "375df3f2fb44d3c42b3381a09edd4ea2303a57ada32b5308c0774ee0",
-      "nameHex": "544f4b45",
-      "title": "TOKE",
-      "project": "Tokeo",
-      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/toke.png",
-      "decimals": 0,
-      "quantity": 0,
-      "Category": "Wallet"
-   },
-
-   {
-      "policyId": "d4b29d5d48edf300128a5f08150ad196a6af15ebd7932306d3099efe",
-      "nameHex": "424f4f",
-      "title": "BOO",
-      "project": "BOO",
-      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/boo.png",
-      "decimals": 0,
-      "quantity": 0,
-      "Category": "Meme",
-      "Twitter": "https://x.com/BoocoinIO"
-   },
-
-   {
-      "policyId": "70cb405628006ab6010889248e361cc598688d0e768f97cdeea1e41e",
-      "nameHex": "464c5558",
-      "title": "FLUX",
-      "project": "FLUX",
-      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/flux.png",
-      "decimals": 0,
-      "quantity": 0,
-      "Category": "Meme",
-      "Twitter": "https://x.com/CardanoFlux"
-   },
-
-
-   {
-      "policyId": "3bbbe8599fbc4a9cd2dc1c94ad0f577ce2328180b9cc7b851633aa8d",
-      "nameHex": "506172747920436174",
-      "title": "PCAT",
-      "project": "Party Cat",
-      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/pcat.gif",
-      "decimals": 0,
-      "quantity": 0,
-      "Category": "Meme"
    },
 
    {
@@ -2913,6 +2946,15 @@
       "quantity": 0
     },
     {
+      "policyId": "eda69ce0f80d0f2ff78892b07fe648ec5bf5375afc1ed545278cb150",
+      "nameHex": "43686169726d616e4d656f77",
+      "title": "ChairmanMeow",
+      "project": "ChairmanMeow",
+      "decimals": 0,
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/meow.png",
+      "quantity": 0
+    },
+    {
       "policyId": "47141777c7f93d1d4546b97bb37372c0d3dc7ad205a3b4234e653467",
       "nameHex": "4a45455453",
       "title": "JEETS",
@@ -2920,15 +2962,6 @@
       "decimals": 0,
       "quantity": 0,
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/jeet.png"
-    },
-    {
-      "policyId": "eda69ce0f80d0f2ff78892b07fe648ec5bf5375afc1ed545278cb150",
-      "nameHex": "43686169726d616e4d656f77",
-      "title": "ChairmanMeow",
-      "project": "ChairmanMeow",
-      "decimals": 0,
-      "quantity": 0,
-      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/meow.png"
     },
     {
       "policyId": "0c78f619e54a5d00e143f66181a2c500d0c394b38a10e86cd1a23c5f",
@@ -2961,11 +2994,25 @@
       "policyId": "548c390391253aff00af9c95ae310f00803fd28035a6ed6f17c1e5e2",
       "nameHex": "424147",
       "title": "BAG",
-      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/bag.png",
       "project": "BAG",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/bag.png",
       "decimals": 0,
       "quantity": 0
     },
+
+    {
+      "policyId": "e5a42a1a1d3d1da71b0449663c32798725888d2eb0843c4dabeca05a",
+      "nameHex": "576f726c644d6f62696c65546f6b656e58",
+      "title": "WMTX",
+      "project": "World Mobile Token X",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/wmtx.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "DeFi",
+      "Website": "https://worldmobiletoken.com",
+      "Twitter": "https://x.com/wmtoken"
+   },
+
     {
       "policyId": "2d92af60ee429bce238d3fd9f2531b45457301d74dad1bcf3f9d1dca",
       "nameHex": "564e4d",
@@ -3057,6 +3104,14 @@
       "nameHex": "424f58",
       "title": "BOX",
       "project": "BOX",
+      "decimals": 0,
+      "quantity": 0
+    },
+    {
+      "policyId": "59bc0484225992f0fafffc472784f89f1c75e496cb570ec2922b9243",
+      "nameHex": "444344",
+      "title": "DCD",
+      "project": "DCD",
       "decimals": 0,
       "quantity": 0
     },
@@ -3177,17 +3232,6 @@
       "decimals": 0,
       "quantity": 0
     },
-
-    {
-      "policyId": "f67b457c4f278c7c278f636af04a378dc6fe99270a84cd174735f98c",
-      "nameHex": "446f672057686973746c65",
-      "title": "DWHIS",
-      "project": "Dog Whistle",
-      "decimals": 0,
-      "quantity": 0,
-      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/dwhis.png"
-    },
-
     {
       "policyId": "e90f72af7212f37b1af072d74d326e7d1bc15c21f8ca4180d4fd931f",
       "nameHex": "484f50",
@@ -3349,30 +3393,6 @@
       "Twitter": "https://x.com/HydroDriponADA",
       "Website": "https://hydrodrip.io/"
     },
-
-    {
-      "policyId": "00000000000410c2d9e01e8ec78ab1dc6bbc383fae76cbe2689beb02",
-      "nameHex": "4d49444153",
-      "title": "MIDAS",
-      "project": "MIDAS Synthetic",
-      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/midas.png",
-      "decimals": 9,
-      "quantity": 0,
-      "Category": "Synthetic",
-      "Twitter": "https://x.com/butaneprotocol"
-   },
-
-   {
-      "policyId": "4128947ee2e2e983c8710d6ddeb1f90ad8f3b843650d13045f13b9e9",
-      "nameHex": "4361726465787363616e",
-      "title": "CDS",
-      "project": "Cardexscan",
-      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/cds.png",
-      "decimals": 0,
-      "quantity": 0,
-      "Category": "DeFi",
-      "Twitter": "https://x.com/cardexscan"
-   },
 
     {
       "policyId": "2852268cf6e2db42e20f2fd3125f541e5d6c5a3d70b4dda17c2daa82",

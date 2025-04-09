@@ -147,9 +147,23 @@
       "decimals": 8,
       "quantity": 0,
       "Category": "Bridge",
-      "Website": "https://wanchain.org",
+      "Website": "https://www.wanscan.org/tokens",
       "Twitter": "https://x.com/wanchain_org"
    },
+
+   {
+      "policyId": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff935",
+      "nameHex": "asset1804uxtcfyzrg3ww4737ga9rysln375kq0ykmuq",
+      "title": "DOG",
+      "project": "DOG (Wanchain)",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/dog.png",
+      "decimals": 5,
+      "quantity": 0,
+      "Category": "Bridge",
+      "Website": "https://www.wanscan.org/tokens",
+      "Twitter": "https://x.com/wanchain_org"
+   },
+
    {
       "policyId": "585cfcbdd0786e961187999e5d5d36b38d1ebc1c4112a0a95a8bd477",
       "nameHex": "424c43",
@@ -553,7 +567,7 @@
       "decimals": 8,
       "quantity": 0,
       "Category": "Bridge",
-      "Website": "https://wanchain.org",
+      "Website": "https://www.wanscan.org/tokens",
       "Twitter": "https://x.com/wanchain_org"
    },
    {
@@ -697,7 +711,7 @@
       "decimals": 8,
       "quantity": 0,
       "Category": "Bridge",
-      "Website": "https://wanchain.org",
+      "Website": "https://www.wanscan.org/tokens",
       "Twitter": "https://x.com/wanchain_org"
    },
    {
@@ -1820,7 +1834,7 @@
       "decimals": 8,
       "quantity": 0,
       "Category": "Bridge",
-      "Website": "https://wanchain.org",
+      "Website": "https://www.wanscan.org/tokens",
       "Twitter": "https://x.com/wanchain_org"
    },
    {
@@ -1832,7 +1846,7 @@
       "decimals": 8,
       "quantity": 0,
       "Category": "Bridge",
-      "Website": "https://wanchain.org",
+      "Website": "https://www.wanscan.org/tokens",
       "Twitter": "https://x.com/wanchain_org"
    },
    {
@@ -2078,12 +2092,12 @@
       "policyId": "97bbb7db0baef89caefce61b8107ac74c7a7340166b39d906f174bec",
       "nameHex": "54616c6f73",
       "title": "TALOS",
-      "project": "Talos",
+      "project": "AGENTIC",
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/talos.png",
       "decimals": 0,
       "quantity": 0,
       "Category": "AI",
-      "Twitter": "https://x.com/TalosAgent"
+      "Twitter": "https://x.com/agentic_t"
    },
    {
       "policyId": "9d05077f2e6dcb17915f9b99bc443726939dd2047aafd6cb4a6fe017",

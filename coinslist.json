@@ -2089,10 +2089,22 @@
    },
 
    {
+      "policyId": "b7c5cd554f3e83c8aa0900a0c9053284a5348244d23d0406c28eaf4d",
+      "nameHex": "50414c4d0a",
+      "title": "PALM",
+      "project": "PALM Economy",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/palm.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "RWA",
+      "Twitter": "https://x.com/palmeconomy"
+   },
+
+   {
       "policyId": "97bbb7db0baef89caefce61b8107ac74c7a7340166b39d906f174bec",
       "nameHex": "54616c6f73",
-      "title": "TALOS",
-      "project": "AGENTIC",
+      "title": "AGENTIC",
+      "project": "Agent T",
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/talos.png",
       "decimals": 0,
       "quantity": 0,

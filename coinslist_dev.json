@@ -2102,6 +2102,18 @@
    },
 
    {
+      "policyId": "8ebb4f0eb39543cdab83eb35f5f194798817eaaa3061872b4101efdb",
+      "nameHex": "0014df104d4554455241",
+      "title": "METERA",
+      "project": "METERA",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/metera.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "Defi",
+      "Twitter": "https://x.com/MeteraProtocol"
+   },
+
+   {
       "policyId": "97bbb7db0baef89caefce61b8107ac74c7a7340166b39d906f174bec",
       "nameHex": "54616c6f73",
       "title": "AGENTIC",

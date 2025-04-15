@@ -2089,6 +2089,18 @@
    },
 
    {
+      "policyId": "8ebb4f0eb39543cdab83eb35f5f194798817eaaa3061872b4101efdb",
+      "nameHex": "0014df104d4554455241",
+      "title": "METERA",
+      "project": "METERA",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/metera.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "Defi",
+      "Twitter": "https://x.com/MeteraProtocol"
+   },
+
+   {
       "policyId": "b7c5cd554f3e83c8aa0900a0c9053284a5348244d23d0406c28eaf4d",
       "nameHex": "50414c4d0a",
       "title": "PALM",

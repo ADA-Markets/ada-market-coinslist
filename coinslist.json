@@ -2089,6 +2089,18 @@
    },
 
    {
+      "policyId": "b28976e7d89abc3c4e463aa24b4af6dc02de2e186846f34466720385",
+      "nameHex": "43617264616e6f204d617869",
+      "title": "MAXI",
+      "project": "Cardano Maxi",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/maxi.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme",
+      "Twitter": "https://x.com/CardanoMax1"
+   },
+
+   {
       "policyId": "8ebb4f0eb39543cdab83eb35f5f194798817eaaa3061872b4101efdb",
       "nameHex": "0014df104d4554455241",
       "title": "METERA",

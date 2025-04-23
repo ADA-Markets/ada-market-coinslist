@@ -2101,6 +2101,17 @@
    },
 
    {
+      "policyId": "3c117770277934530e36fb5283e2b48ecd0b288fdb7059b1ccb581d0",
+      "nameHex": "42414259204d415849",
+      "title": "BBMAXI",
+      "project": "BABY MAXI",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/bbmaxi.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme"
+   },
+
+   {
       "policyId": "8ebb4f0eb39543cdab83eb35f5f194798817eaaa3061872b4101efdb",
       "nameHex": "0014df104d4554455241",
       "title": "METERA",

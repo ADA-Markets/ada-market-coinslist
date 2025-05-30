@@ -3469,7 +3469,7 @@
         "nameHex": "",
         "title": "qiUSD",
         "project": "qiUSD",
-        "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/qiusd.png",
+        "img": "https://public.liqwid.finance/v5/assets/IUSD.svg",
         "decimals": 6,
         "quantity": 0
       },
@@ -3480,7 +3480,7 @@
         "nameHex": "",
         "title": "qIAG",
         "project": "qIAG",
-        "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/qiag.png",
+        "img": "https://public.liqwid.finance/v5/assets/IAG.svg",
         "decimals": 6,
         "quantity": 0
       },

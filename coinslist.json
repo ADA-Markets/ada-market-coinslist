@@ -3452,6 +3452,177 @@
       "Twitter": "https://x.com/OptimFi",
       "Website": "https://www.optim.finance/",
       "Category": "DeFi"
-    }
+    },
+
+         {
+       "policyId": "a04ce7a52545e5e33c2867e148898d9e667a69602285f6a1298f9d68",
+       "nameHex": "",
+       "title": "qADA",
+       "project": "qADA",
+       "img": "https://public.liqwid.finance/v5/assets/ADA.svg",
+       "decimals": 6,
+       "quantity": 0
+     },
+
+     {
+        "policyId": "d15c36d6dec655677acb3318294f116ce01d8d9def3cc54cdd78909b",
+        "nameHex": "",
+        "title": "qiUSD",
+        "project": "qiUSD",
+        "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/qiusd.png",
+        "decimals": 6,
+        "quantity": 0
+      },
+
+
+     {
+        "policyId": "f60b7232837203d335cd77494d25c1cc0b218b9a8f3459730c521d13",
+        "nameHex": "",
+        "title": "qIAG",
+        "project": "qIAG",
+        "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/qiag.png",
+        "decimals": 6,
+        "quantity": 0
+      },
+
+      {
+        "policyId": "f72166e9fac8297aeb553c19ffab14f51ae271c2cb26783ba289a3a5",
+        "nameHex": "",
+        "title": "qBTC",
+        "project": "qBTC",
+        "img": "https://public.liqwid.finance/v5/assets/BTC.svg",
+        "decimals": 8,
+        "quantity": 0
+      },
+
+      {
+        "policyId": "dd55119962ca550cdd4219999b9e6d25fc9128f96c7dcb5e485286eb",
+        "nameHex": "",
+        "title": "qCOPI",
+        "project": "qCOPI",
+        "img": "https://public.liqwid.finance/v5/assets/COPI.svg",
+        "decimals": 6,
+        "quantity": 0
+      },
+
+      {
+        "policyId": "6df63e2fdde8b2c3b3396265b0cc824aa4fb999396b1c154280f6b0c",
+        "nameHex": "",
+        "title": "qDJED",
+        "project": "qDJED", 
+        "img": "https://public.liqwid.finance/v5/assets/DJED.svg",
+        "decimals": 6,
+        "quantity": 0
+      }, 
+
+      {
+        "policyId": "b122b2fc62557df9c3fd0b5c62a4b2c970a0d711560e0a8dd7b264f3",
+        "nameHex": "",
+        "title": "qERG",
+        "project": "qERG", 
+        "img": "https://public.liqwid.finance/v5/assets/ERG.svg",
+        "decimals": 9,
+        "quantity": 0
+      },
+
+      {
+        "policyId": "5f42994532b04f9f5bd4141c69364c5b7d33c85036146ee321799702",
+        "nameHex": "",
+        "title": "qETH",
+        "project": "qETH", 
+        "img": "https://public.liqwid.finance/v5/assets/ETH.svg", 
+        "decimals": 8,
+        "quantity": 0
+      },
+      
+      {
+        "policyId": "85fa65407b5321fa0e2ef9a3ec98e12a00c35871d7a620be3132003c",
+        "nameHex": "",
+        "title": "qEURC",
+        "project": "qEURC", 
+        "img": "https://public.liqwid.finance/v5/assets/EURC.svg", 
+        "decimals": 6,
+        "quantity": 0
+      },
+      {
+        "policyId": "3883e3e6a24e092d4c14e757fa8ef5c887853060def087d6cf5603f5",
+        "nameHex": "",
+        "title": "qLQ",
+        "project": "qLQ", 
+        "img": "https://public.liqwid.finance/v5/assets/LQ.svg", 
+        "decimals": 6,
+        "quantity": 0
+      },
+      {
+        "policyId": "a4430a085f45bca6399bec6bd7514eb8c2fce1ed75c7554739cfc32b",
+        "nameHex": "",
+        "title": "qMIN",
+        "project": "qMIN", 
+        "img": "https://public.liqwid.finance/v5/assets/MIN.svg", 
+        "decimals": 6,
+        "quantity": 0
+      },
+      {
+        "policyId": "b8a327951d579d3537ea175078256bdf9f9899b5387b099d0b58f066",
+        "nameHex": "",
+        "title": "qPYUSD",
+        "project": "qPYUSD", 
+        "img": "https://public.liqwid.finance/v5/assets/PYUSD.svg", 
+        "decimals": 6,
+        "quantity": 0
+      },
+      {
+        "policyId": "e1ff3557106fe13042ba0f772af6a2e43903ccfaaf03295048882c93",
+        "nameHex": "",
+        "title": "qSHEN",
+        "project": "qSHEN", 
+        "img": "https://public.liqwid.finance/v5/assets/SHEN.svg", 
+        "decimals": 6,
+        "quantity": 0
+      },
+      {
+        "policyId": "4e8c49d610335d139ad7711e0f50315006e29b5221da531e365b4ef8",
+        "title": "qSNEK",
+        "project": "qSNEK", 
+        "img": "https://public.liqwid.finance/v5/assets/SNEK.svg", 
+        "decimals": 6,
+        "quantity": 0
+      },
+      {
+        "policyId": "aa280c98c5b07fdfc8d7a93fb5ba84510b421388e4a18e16efa8eb5f",
+        "nameHex": "",
+        "title": "qUSDA",
+        "project": "qUSDA", 
+        "img": "https://public.liqwid.finance/v5/assets/USDA.svg", 
+        "decimals": 6,
+        "quantity": 0
+      },
+      {
+        "policyId": "aebcb6eaba17dea962008a9d693e39a3160b02b5b89b1c83e537c599",
+        "nameHex": "",
+        "title": "qUSDC",
+        "project": "qUSDC", 
+        "img": "https://public.liqwid.finance/v5/assets/USDC.svg", 
+        "decimals": 6,
+        "quantity": 0
+      },
+      {
+        "policyId": "7a4d45e6b4e6835c4cea3968f291fab3704949cfd2f2dc1997c4eeec",
+        "nameHex": "",
+        "title": "qUSDT",
+        "project": "qUSDT", 
+        "img": "https://public.liqwid.finance/v5/assets/USDT.svg", 
+        "decimals": 6,
+        "quantity": 0
+      },
+      {
+        "policyId": "9e00df0615de0a7b121a7f961d43e23165b8e81b64786c6eb708d370",
+        "nameHex": "",
+        "title": "qUSDM",
+        "project": "qUSDM", 
+        "img": "https://public.liqwid.finance/v5/assets/USDM.svg", 
+        "decimals": 6,
+        "quantity": 0
+      }
 
 ]

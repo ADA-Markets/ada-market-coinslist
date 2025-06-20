@@ -500,6 +500,20 @@
       "Website": "https://vixfinancetoken.com/",
       "Twitter": "https://x.com/VixFi_Token"
    },
+
+   {
+      "policyId": "2d9db8a89f074aa045eab177f23a3395f62ced8b53499a9e4ad46c80",
+      "nameHex": "464c4f57",
+      "title": "FLOW",
+      "project": "FLOW",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/flow.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "Defi",
+      "Website": "https://flowcardano.org",
+      "Twitter": "https://x.com/flowdefi"
+   },
+
    {
       "policyId": "bf524874448cbf52be3a26133b0a0edf5eb65c09ffed383b881ad327",
       "nameHex": "4353574150",

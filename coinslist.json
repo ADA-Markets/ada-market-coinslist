@@ -335,18 +335,6 @@
       "Twitter": "https://x.com/yamfore"
    },
    {
-      "policyId": "4190b2941d9be04acc69c39739bd5acc66d60ccab480d8e20bc87e37",
-      "nameHex": "63425443",
-      "title": "cBTC",
-      "project": "cBTC",
-      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/cbtc.png",
-      "decimals": 8,
-      "quantity": 0,
-      "Category": "Bridge",
-      "Website": "https://www.anetabtc.io",
-      "Twitter": "https://x.com/anetaBTC"
-   },
-   {
       "policyId": "e14fe3ab348f9a6198359481472601f4557b9f86984f40a186a3b1e8",
       "nameHex": "434845525259",
       "title": "CHERRY",
@@ -2429,7 +2417,7 @@
       "title": "CHAD",
       "project": "Charles the Chad",
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/chad.png",
-      "decimals": 8,
+      "decimals": 0,
       "quantity": 0,
       "Category": "Meme",
       "Website": "https://charlesthechad.com/",
@@ -2894,7 +2882,7 @@
       "title": "CATSKY",
       "project": "Catsky AI",
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/catsky.png",
-      "decimals": 6,
+      "decimals": 0,
       "quantity": 0
     },
     {

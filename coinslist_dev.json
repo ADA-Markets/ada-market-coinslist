@@ -335,18 +335,6 @@
       "Twitter": "https://x.com/yamfore"
    },
    {
-      "policyId": "4190b2941d9be04acc69c39739bd5acc66d60ccab480d8e20bc87e37",
-      "nameHex": "63425443",
-      "title": "cBTC",
-      "project": "cBTC",
-      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/cbtc.png",
-      "decimals": 8,
-      "quantity": 0,
-      "Category": "Bridge",
-      "Website": "https://www.anetabtc.io",
-      "Twitter": "https://x.com/anetaBTC"
-   },
-   {
       "policyId": "e14fe3ab348f9a6198359481472601f4557b9f86984f40a186a3b1e8",
       "nameHex": "434845525259",
       "title": "CHERRY",
@@ -500,20 +488,6 @@
       "Website": "https://vixfinancetoken.com/",
       "Twitter": "https://x.com/VixFi_Token"
    },
-
-   {
-      "policyId": "2d9db8a89f074aa045eab177f23a3395f62ced8b53499a9e4ad46c80",
-      "nameHex": "464c4f57",
-      "title": "FLOW",
-      "project": "FLOW",
-      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/flow.png",
-      "decimals": 6,
-      "quantity": 0,
-      "Category": "Defi",
-      "Website": "https://flowcardano.org",
-      "Twitter": "https://x.com/flowdefi"
-   },
-
    {
       "policyId": "bf524874448cbf52be3a26133b0a0edf5eb65c09ffed383b881ad327",
       "nameHex": "4353574150",
@@ -2443,7 +2417,7 @@
       "title": "CHAD",
       "project": "Charles the Chad",
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/chad.png",
-      "decimals": 8,
+      "decimals": 0,
       "quantity": 0,
       "Category": "Meme",
       "Website": "https://charlesthechad.com/",
@@ -2908,7 +2882,7 @@
       "title": "CATSKY",
       "project": "Catsky AI",
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/catsky.png",
-      "decimals": 6,
+      "decimals": 0,
       "quantity": 0
     },
     {
@@ -3518,6 +3492,19 @@
         "decimals": 6,
         "quantity": 0
       },
+
+         {
+      "policyId": "2d9db8a89f074aa045eab177f23a3395f62ced8b53499a9e4ad46c80",
+      "nameHex": "464c4f57",
+      "title": "FLOW",
+      "project": "FLOW",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/flow.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "Defi",
+      "Website": "https://flowcardano.org",
+      "Twitter": "https://x.com/flowdefi"
+   },
 
       {
         "policyId": "6df63e2fdde8b2c3b3396265b0cc824aa4fb999396b1c154280f6b0c",

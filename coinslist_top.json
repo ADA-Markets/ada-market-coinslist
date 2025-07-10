@@ -1,5 +1,5 @@
 [
-      {
+   {
       "policyId": "279c909f348e533da5808898f87f9a14bb2c3dfbbacccd631d927a3f",
       "nameHex": "534e454b",
       "title": "SNEK",
@@ -11,7 +11,7 @@
       "Website": "https://linktr.ee/snekcoinada",
       "Twitter": "https://x.com/snekcoinada"
    },
-       {
+   {
       "policyId": "e5a42a1a1d3d1da71b0449663c32798725888d2eb0843c4dabeca05a",
       "nameHex": "576f726c644d6f62696c65546f6b656e58",
       "title": "WMTX",
@@ -23,7 +23,7 @@
       "Website": "https://worldmobiletoken.com",
       "Twitter": "https://x.com/wmtoken"
    },
-      {
+   {
       "policyId": "5d16cc1a177b5d9ba9cfa9793b07e60f1fb70fea1f8aef064415d114",
       "nameHex": "494147",
       "title": "IAG",
@@ -35,7 +35,7 @@
       "Website": "https://www.iagon.com/",
       "Twitter": "https://x.com/IagonOfficial"
    },
-      {
+   {
       "policyId": "da8c30857834c6ae7203935b89278c532b3995245295456f993e1d24",
       "nameHex": "4c51",
       "title": "LQ",
@@ -47,7 +47,7 @@
       "Website": "https://liqwid.finance",
       "Twitter": "https://x.com/liqwidfinance"
    },
-      {
+   {
       "policyId": "f13ac4d66b3ee19a6aa0f2a22298737bd907cc95121662fc971b5275",
       "nameHex": "535452494b45",
       "title": "STRIKE",
@@ -59,7 +59,7 @@
       "Website": "https://www.strikefinance.org/",
       "Twitter": "https://x.com/strikecardano"
    },
-      {
+   {
       "policyId": "29d222ce763455e3d7a09a665ce554f00ac89d2e99a1a83d267170c6",
       "nameHex": "4d494e",
       "title": "MIN",
@@ -71,7 +71,7 @@
       "Website": "https://minswap.org",
       "Twitter": "https://x.com/MinswapDEX"
    },
-      {
+   {
       "policyId": "533bb94a8850ee3ccbe483106489399112b74c905342cb1792a797a0",
       "nameHex": "494e4459",
       "title": "INDY",
@@ -83,7 +83,7 @@
       "Website": "https://indigoprotocol.io",
       "Twitter": "https://x.com/Indigo_protocol"
    },
-      {
+   {
       "policyId": "8db269c3ec630e06ae29f74bc39edd1f87c819f1056206e879a1cd61",
       "nameHex": "5368656e4d6963726f555344",
       "title": "SHEN",
@@ -95,7 +95,7 @@
       "Website": "https://djed.xyz/",
       "Twitter": "https://x.com/COTInetwork"
    },
-      {
+   {
       "policyId": "b6a7467ea1deb012808ef4e87b5ff371e85f7142d7b356a40d9b42a0",
       "nameHex": "436f726e75636f70696173205b76696120436861696e506f72742e696f5d",
       "title": "COPI",
@@ -107,7 +107,7 @@
       "Website": "https://www.cornucopias.io/",
       "Twitter": "https://x.com/CornucopiasGame"
    },
-      {
+   {
       "policyId": "a0028f350aaabe0545fdcb56b039bfb08e4bb4d8c4d7c3c7d481c235",
       "nameHex": "484f534b59",
       "title": "HOSKY",
@@ -119,7 +119,7 @@
       "Website": "https://hosky.io",
       "Twitter": "http://x.com/hoskytoken"
    },
-      {
+   {
       "policyId": "c48cbb3d5e57ed56e276bc45f99ab39abe94e6cd7ac39fb402da47ad",
       "nameHex": "0014df105553444d",
       "title": "USDM",
@@ -130,7 +130,7 @@
       "Category": "Stablecoin",
       "Twitter": "https://x.com/USDMOfficial"
    },
-      {
+   {
       "policyId": "5b26e685cc5c9ad630bde3e3cd48c694436671f3d25df53777ca60ef",
       "nameHex": "4e564c",
       "title": "NVL",
@@ -142,7 +142,7 @@
       "Website": "https://www.nuvoladigital.io/",
       "Twitter": "https://x.com/NuvolaDigital"
    },
-      {
+   {
       "policyId": "fe7c786ab321f41c654ef6c1af7b3250a613c24e4213e0425a7ae456",
       "nameHex": "55534441",
       "title": "USDA",
@@ -153,7 +153,7 @@
       "Category": "Stablecoin",
       "Twitter": "https://x.com/AnzensOfficial"
    },
-      {
+   {
       "policyId": "51a5e236c4de3af2b8020442e2a26f454fda3b04cb621c1294a0ef34",
       "nameHex": "424f4f4b",
       "title": "STUFF",
@@ -165,7 +165,7 @@
       "Website": "https://stuff.io",
       "Twitter": "https://x.com/book_io"
    },
-      {
+   {
       "policyId": "5deab590a137066fef0e56f06ef1b830f21bc5d544661ba570bdd2ae",
       "nameHex": "424f44454741",
       "title": "BODEGA",
@@ -177,7 +177,42 @@
       "Website": "https://www.bodegacardano.org/",
       "Twitter": "https://x.com/BodegaCardano"
    },
-      {
+   {
+      "policyId": "2d9db8a89f074aa045eab177f23a3395f62ced8b53499a9e4ad46c80",
+      "nameHex": "464c4f57",
+      "title": "FLOW",
+      "project": "FLOW",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/flow.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "Defi",
+      "Website": "https://flowcardano.org",
+      "Twitter": "https://x.com/flowdefi"
+   },
+   {
+      "policyId": "b7c5cd554f3e83c8aa0900a0c9053284a5348244d23d0406c28eaf4d",
+      "nameHex": "50414c4d0a",
+      "title": "PALM",
+      "project": "PALM Economy",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/palm.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "RWA",
+      "Twitter": "https://x.com/palmeconomy"
+   },
+   {
+      "policyId": "577f0b1342f8f8f4aed3388b80a8535812950c7a892495c0ecdf0f1e",
+      "nameHex": "0014df10464c4454",
+      "title": "FLDT",
+      "project": "Fluid Tokens",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/fldt.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "RealFi",
+      "Website": "https://fluidtokens.com/",
+      "Twitter": "https://x.com/FluidTokens"
+   },
+   {
       "policyId": "f66d78b4a3cb3d37afa0ec36461e51ecbde00f26c8f0a68f94b69880",
       "nameHex": "69555344",
       "title": "iUSD",
@@ -189,5 +224,4 @@
       "Website": "https://indigoprotocol.io",
       "Twitter": "https://x.com/Indigo_protocol"
    }
-
 ]

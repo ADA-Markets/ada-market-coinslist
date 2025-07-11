@@ -2411,6 +2411,19 @@
       "Twitter": "https://x.com/BodegaCardano"
    },
 
+      {
+      "policyId": "5aa591a3a324aef2e168a3819f619488fdd19451b4040fcfe2633eb8",
+      "nameHex": "6341503358",
+      "title": "cAP3X",
+      "project": "cAP3X",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/cap3x.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "DeFi",
+      "Website": "https://apexfusion.org/",
+      "Twitter": "https://x.com/apexfusion"
+   },
+
    {
       "policyId": "97075bf380e65f3c63fb733267adbb7d42eec574428a754d2abca55b",
       "nameHex": "436861726c6573207468652043686164",

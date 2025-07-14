@@ -430,7 +430,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/code.png",
       "decimals": 7,
       "quantity": 0,
-      "Category": "NFT, Gaming",
+      "Category": "Gaming",
       "Website": "https://adaempire.com",
       "Twitter": "https://x.com/AdaEmpireNFT"
    },
@@ -442,7 +442,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/cnct.png",
       "decimals": 4,
       "quantity": 0,
-      "Category": "NFT, Gaming",
+      "Category": "Gaming",
       "Website": "https://coinecta.fi",
       "Twitter": "https://x.com/CoinectaFinance"
    },
@@ -1119,7 +1119,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/madbl.png",
       "decimals": 0,
       "quantity": 0,
-      "Category": "Meme, Gaming",
+      "Category": "Meme",
       "Website": "https://madbull.io/",
       "Twitter": "https://x.com/fLiGhtofMAdbuLL"
    },
@@ -1263,7 +1263,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/nebula.png",
       "decimals": 8,
       "quantity": 0,
-      "Category": "Gaming, NFT, Other",
+      "Category": "Gaming",
       "Website": "https://thenebula.xyz",
       "Twitter": "https://x.com/TheNebula_ADA?s=20"
    },
@@ -1299,7 +1299,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/ninjaz.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "Gaming, NFT, Launchpad",
+      "Category": "Gaming",
       "Website": "https://www.danketsu.io",
       "Twitter": "https://www.x.com/danketsuNFT"
    },
@@ -1472,7 +1472,7 @@
    },
    {
       "policyId": "d5dec6074942b36b50975294fd801f7f28c907476b1ecc1b57c916ed",
-      "nameHex": 524154,
+      "nameHex": "524154",
       "title": "RAT",
       "project": "Rats DAO",
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/rat.png",
@@ -1484,7 +1484,7 @@
    },
    {
       "policyId": "3b31e746a68c5bef72c0fb9f2185e6b1fad0ea2faaccfeeb275afe91",
-      "nameHex": 5245414348,
+      "nameHex": "5245414348",
       "title": "REACH",
       "project": "REACH",
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/reach.png",
@@ -1514,7 +1514,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/risk.png",
       "decimals": 0,
       "quantity": 0,
-      "Category": "Meme, Gaming",
+      "Category": "Gaming",
       "Website": "https://www.riskcoin.io/",
       "Twitter": "https://x.com/RiskCoinAda"
    },
@@ -1704,7 +1704,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/stable.png",
       "decimals": 0,
       "quantity": 0,
-      "Category": "DeFi, Meme",
+      "Category": "Meme",
       "Website": "https://www.stablecoinada.xyz/",
       "Twitter": "https://x.com/stablecoinada"
    },

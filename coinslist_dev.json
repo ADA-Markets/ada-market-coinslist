@@ -934,18 +934,6 @@
       "Twitter": "https://x.com/Indigo_protocol"
    },
    {
-      "policyId": "b9168f05e657b6946fede254e383586cf7e7a2573d5a0fa12b3ef6ac",
-      "nameHex": 494450,
-      "title": "IDP",
-      "project": "IDO Pass",
-      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/idp.png",
-      "decimals": 0,
-      "quantity": 0,
-      "Category": "DeFi, DAO, Launchpad",
-      "Website": "https://idopass.finance/",
-      "Twitter": "https://x.com/ido_pass_nft"
-   },
-   {
       "policyId": "f66d78b4a3cb3d37afa0ec36461e51ecbde00f26c8f0a68f94b69880",
       "nameHex": "69455448",
       "title": "iETH",
@@ -1788,7 +1776,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/teddy.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "DeFi, DEX",
+      "Category": "DEX",
       "Website": "https://www.teddyswap.org/",
       "Twitter": "https://x.com/TeddySwap"
    },
@@ -2910,15 +2898,6 @@
       "nameHex": "4e4d53",
       "title": "NMS",
       "project": "NMS",
-      "decimals": 0,
-      "quantity": 0
-   },
-   {
-      "policyId": "b9168f05e657b6946fede254e383586cf7e7a2573d5a0fa12b3ef6ac",
-      "nameHex": "494450",
-      "title": "IDP",
-      "project": "IDP",
-      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/idp.png",
       "decimals": 0,
       "quantity": 0
    },

@@ -1,34 +1,189 @@
 {
   "token_categories": [
     {
-      "category_name": "Utility Tokens",
-      "description": "Tokens that provide access to a specific product or service within a blockchain ecosystem.",
-      "examples": []
+      "category_name": "AI",
+      "description": "Artificial Intelligence tokens that power AI/ML applications, data analysis, and intelligent automation systems.",
+      "examples": ["AGIX", "FET", "AGENTIC", "ROLL", "RJV", "SHARDS"]
     },
     {
-      "category_name": "Security Tokens",
-      "description": "Tokens that represent ownership of a real-world asset and often subject to securities regulations.",
-      "examples": []
+      "category_name": "Bridge",
+      "description": "Tokens that facilitate cross-chain interoperability and asset transfers between different blockchain networks.",
+      "examples": ["rsERG", "cNETA", "BTC", "ETH", "DAI", "USDC", "USDT"]
     },
     {
-      "category_name": "Stablecoins",
-      "description": "Tokens pegged to the value of a stable asset, like fiat currency, to minimize price volatility.",
-      "examples": []
+      "category_name": "Comics",
+      "description": "Tokens related to digital comics, collectible comic assets, and comic-based NFT projects.",
+      "examples": ["CMC"]
     },
     {
-      "category_name": "Governance Tokens",
-      "description": "Tokens that grant holders the right to vote on decisions within a blockchain network.",
-      "examples": []
+      "category_name": "DAO",
+      "description": "Decentralized Autonomous Organization tokens that grant governance rights and voting power in DAO structures.",
+      "examples": ["ADAO", "CLARITY", "OSM", "SUMMON"]
     },
     {
-      "category_name": "Non-Fungible Tokens (NFTs)",
-      "description": "Unique tokens that represent ownership of specific digital or physical assets.",
-      "examples": []
+      "category_name": "DEX",
+      "description": "Decentralized Exchange tokens that power automated market makers and trading platforms.",
+      "examples": ["MIN", "SUNDAE", "MNT", "SPLASH", "VYFI", "WRT", "CSWAP", "GENS"]
     },
     {
-      "category_name": "Meme Tokens",
-      "description": "Meme tokens...",
-      "examples": []
+      "category_name": "DEX Aggregator",
+      "description": "Tokens for platforms that aggregate liquidity from multiple DEXs to provide better trading rates.",
+      "examples": ["HUNT"]
+    },
+    {
+      "category_name": "DeFi",
+      "description": "Decentralized Finance tokens that power lending, borrowing, yield farming, and other DeFi protocols.",
+      "examples": ["AXO", "BTN", "BLC", "BLUES", "ENCS", "MILK", "MYIELD"]
+    },
+    {
+      "category_name": "DePIN",
+      "description": "Decentralized Physical Infrastructure Network tokens that incentivize real-world infrastructure deployment.",
+      "examples": ["WMTX", "IAG", "NVL", "TITAN", "NTX", "DEDI", "EMP"]
+    },
+    {
+      "category_name": "Derivatives",
+      "description": "Tokens for derivative trading platforms, options, futures, and synthetic asset protocols.",
+      "examples": ["STRIKE", "OPT"]
+    },
+    {
+      "category_name": "Gambling",
+      "description": "Tokens used in gambling platforms, casino games, and betting applications.",
+      "examples": ["FRN", "BODEGA", "CHIP"]
+    },
+    {
+      "category_name": "Gaming",
+      "description": "Tokens specifically for gaming platforms, in-game currencies, and gaming-related ecosystems.",
+      "examples": ["COPI", "DING", "DANZO", "MCOS", "PAVIA", "CLAY"]
+    },
+    {
+      "category_name": "Index Funds",
+      "description": "Tokens representing baskets of other tokens, providing diversified exposure to multiple assets.",
+      "examples": ["XER", "LIFI"]
+    },
+    {
+      "category_name": "LaunchPad",
+      "description": "Tokens for platforms that help launch new projects, conduct IDOs, and provide incubation services.",
+      "examples": ["GENSX"]
+    },
+    {
+      "category_name": "Layer 2",
+      "description": "Tokens for Layer 2 scaling solutions that improve blockchain throughput and reduce fees.",
+      "examples": ["SKY"]
+    },
+    {
+      "category_name": "Lending",
+      "description": "Tokens for lending and borrowing protocols, credit markets, and interest-bearing assets.",
+      "examples": ["LQ", "FLOW", "FLDT", "LENFI", "FNX", "SOC"]
+    },
+    {
+      "category_name": "Meme",
+      "description": "Meme tokens inspired by internet culture, jokes, and viral content, often with community-driven value.",
+      "examples": ["SNEK", "HOSKY", "BBSNEK", "CHAD", "NIKEPIG", "BANK", "COCK", "FREN", "SUGAR", "CHARLES", "SHARL", "VIPER", "SNOK"]
+    },
+    {
+      "category_name": "Music",
+      "description": "Tokens for music platforms, artist royalties, and music-related NFT projects.",
+      "examples": ["NEWM"]
+    },
+    {
+      "category_name": "NFT",
+      "description": "Non-Fungible Token platforms and marketplaces for digital collectibles and unique assets.",
+      "examples": ["CLAY", "DERP", "DING", "JPG", "MIRA", "MUTANT", "NATION", "SALTY", "SOC", "WORK", "YETI", "YUMMI", "ZOO", "WLK"]
+    },
+    {
+      "category_name": "NFT Marketplace",
+      "description": "Tokens for platforms that facilitate NFT trading, minting, and marketplace operations.",
+      "examples": ["JPG"]
+    },
+    {
+      "category_name": "NFT Studio",
+      "description": "Tokens for platforms that help create, design, and manage NFT projects.",
+      "examples": ["NMKR"]
+    },
+    {
+      "category_name": "Oracle",
+      "description": "Tokens for decentralized oracle networks that provide real-world data to smart contracts.",
+      "examples": ["C3", "FACT"]
+    },
+    {
+      "category_name": "Other",
+      "description": "Tokens that don't fit into specific categories or have unique use cases.",
+      "examples": ["ADO", "GREENS", "IAMX", "DRIP", "KIDZ", "TOKE", "STRIP", "BANDS", "XCLN", "COPIUM", "Brett", "FIGHT", "TET", "THECABAL", "RUNE", "LevvyWifHat", "RAT", "BABYBTC", "KOI", "YUGE", "Change", "ELEMENT", "ROGUE"]
+    },
+    {
+      "category_name": "Prediction Market",
+      "description": "Tokens for platforms that allow users to bet on real-world events and outcomes.",
+      "examples": ["BODEGA"]
+    },
+    {
+      "category_name": "Privacy",
+      "description": "Tokens focused on privacy, anonymity, and secure transactions.",
+      "examples": ["ENCS"]
+    },
+    {
+      "category_name": "RealFi",
+      "description": "Real World Finance tokens that bridge traditional finance with blockchain technology.",
+      "examples": ["MELD", "EMP", "FLDT", "VixFi", "TANG"]
+    },
+    {
+      "category_name": "Reserve Coin",
+      "description": "Tokens that act as reserve assets or backing for other stablecoins and financial instruments.",
+      "examples": ["SHEN"]
+    },
+    {
+      "category_name": "RWA",
+      "description": "Real World Asset tokens that represent ownership of physical assets on the blockchain.",
+      "examples": ["PALM"]
+    },
+    {
+      "category_name": "Social",
+      "description": "Tokens for social media platforms, community governance, and social networking applications.",
+      "examples": ["HYC", "SPX"]
+    },
+    {
+      "category_name": "Social Media",
+      "description": "Alternative term for social tokens, focusing on social networking and community building.",
+      "examples": ["VYRA"]
+    },
+    {
+      "category_name": "Stablecoin",
+      "description": "Tokens pegged to stable assets like fiat currencies to minimize price volatility.",
+      "examples": ["DJED", "OADA", "USDM", "USDA", "iUSD", "USDC", "USDT", "MyUSD"]
+    },
+    {
+      "category_name": "Synthetic Asset",
+      "description": "Tokens that track the price of real-world assets without direct ownership.",
+      "examples": ["iBTC", "iETH"]
+    },
+    {
+      "category_name": "Synthetics",
+      "description": "Tokens for synthetic asset protocols that create derivatives of real-world assets.",
+      "examples": ["INDY", "BTN"]
+    },
+    {
+      "category_name": "Tools",
+      "description": "Utility tokens for blockchain tools, analytics platforms, and developer services.",
+      "examples": ["XRAY", "TOOL"]
+    },
+    {
+      "category_name": "Trading",
+      "description": "Tokens for trading platforms, market makers, and trading-related services.",
+      "examples": ["RAKER"]
+    },
+    {
+      "category_name": "Utility",
+      "description": "Tokens that provide access to specific services, products, or utilities within an ecosystem.",
+      "examples": ["STUFF", "CLAP", "GERO", "REIT"]
+    },
+    {
+      "category_name": "Wallet",
+      "description": "Tokens for wallet services, key management, and wallet-related utilities.",
+      "examples": ["GERO", "TOKE"]
+    },
+    {
+      "category_name": "Yield",
+      "description": "Tokens focused on yield farming, staking rewards, and passive income generation.",
+      "examples": ["O", "ANGELS", "xVYFI"]
     }
   ]
 }

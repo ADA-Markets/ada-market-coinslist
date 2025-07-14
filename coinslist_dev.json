@@ -18,7 +18,7 @@
       "decimals": 6,
       "quantity": 0,
       "Twitter": "https://x.com/Xerberus_io",
-      "Category": "Other",
+      "Category": "Index Funds",
       "Website": "https://www.xerberus.io/"
    },
    {
@@ -29,7 +29,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/charles.png",
       "decimals": 0,
       "quantity": 0,
-      "Category": "Other",
+      "Category": "Meme",
       "Website": "https://stuff.io/"
    },
    {
@@ -40,7 +40,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/splash.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "Meme",
+      "Category": "DEX",
       "Twitter": "https://x.com/splashprotocol",
       "Website": "https://splash.trade"
    },
@@ -64,7 +64,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/btn.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "DeFi",
+      "Category": "Synthetics",
       "Website": "https://butane.dev/",
       "Twitter": "https://x.com/butaneprotocol"
    },
@@ -112,7 +112,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/angels.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "MEME",
+      "Category": "Yield",
       "Website": "https://singularitynet.io/",
       "Twitter": "https://ccardano.gitbook.io/angel-paper/"
    },
@@ -124,7 +124,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/bank.png",
       "decimals": 0,
       "quantity": 0,
-      "Category": "DeFi",
+      "Category": "Meme",
       "Website": "https://bankercoinada.com",
       "Twitter": "https://x.com/BankercoinAda"
    },
@@ -150,7 +150,6 @@
       "Website": "https://www.wanscan.org/tokens",
       "Twitter": "https://x.com/wanchain_org"
    },
-
    {
       "policyId": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff935",
       "nameHex": "asset1804uxtcfyzrg3ww4737ga9rysln375kq0ykmuq",
@@ -163,7 +162,6 @@
       "Website": "https://www.wanscan.org/tokens",
       "Twitter": "https://x.com/wanchain_org"
    },
-
    {
       "policyId": "585cfcbdd0786e961187999e5d5d36b38d1ebc1c4112a0a95a8bd477",
       "nameHex": "424c43",
@@ -232,7 +230,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/c4.png",
       "decimals": 0,
       "quantity": 0,
-      "Category": "GameFi, NFT, DeFi, RealFi",
+      "Category": "Gaming",
       "Website": "https://cardanocrocsclub.com",
       "Twitter": "https://x.com/cardanocrocclub"
    },
@@ -256,11 +254,10 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/titan.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "Depin",
+      "Category": "DePIN",
       "Website": "https://houseoftitans.io/",
       "Twitter": "https://x.com/HouseOfTitans_"
    },
-   
    {
       "policyId": "e69eaae4740f240ba9dfffd0ed6b7cb34070efe567e2ec841e3b7562",
       "nameHex": "46524e",
@@ -273,7 +270,6 @@
       "Website": "https://foreon.network",
       "Twitter": "https://x.com/foreonnetwork"
    },
-
    {
       "policyId": "3d77d63dfa6033be98021417e08e3368cc80e67f8d7afa196aaa0b39",
       "nameHex": "53746172636820546f6b656e",
@@ -285,7 +281,6 @@
       "Category": "Meme",
       "Website": "https://starch.one"
    },
-
    {
       "policyId": "52c1ded375e7ed7c460bce27874fd3fa95a18426849bfb5e537a31f3",
       "nameHex": "534e454b5452554d50",
@@ -297,7 +292,6 @@
       "Category": "Meme",
       "Website": "https://starch.one"
    },
-
    {
       "policyId": "f4364875e75320d405ceadebdf0db63fadaff55c72d4ff6b82f0676a",
       "nameHex": "434152474f",
@@ -318,7 +312,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/cast.png",
       "decimals": 0,
       "quantity": 0,
-      "Category": "Metaverse, NFT, GameFi",
+      "Category": "Gaming",
       "Website": "https://www.cardastation.com/",
       "Twitter": "https://x.com/carda_station"
    },
@@ -330,7 +324,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/cblp.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "DeFi",
+      "Category": "Lending",
       "Website": "https://yamfore.com/",
       "Twitter": "https://x.com/yamfore"
    },
@@ -377,7 +371,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/clay.png",
       "decimals": 4,
       "quantity": 0,
-      "Category": "NFT",
+      "Category": "Gaming",
       "Website": "https://www.claynation.io",
       "Twitter": "https://x.com/claymates"
    },
@@ -436,7 +430,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/code.png",
       "decimals": 7,
       "quantity": 0,
-      "Category": "NFT, GameFi",
+      "Category": "NFT, Gaming",
       "Website": "https://adaempire.com",
       "Twitter": "https://x.com/AdaEmpireNFT"
    },
@@ -448,7 +442,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/cnct.png",
       "decimals": 4,
       "quantity": 0,
-      "Category": "NFT, GameFi",
+      "Category": "NFT, Gaming",
       "Website": "https://coinecta.fi",
       "Twitter": "https://x.com/CoinectaFinance"
    },
@@ -472,7 +466,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/copi.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "Metaverse",
+      "Category": "Gaming",
       "Website": "https://www.cornucopias.io/",
       "Twitter": "https://x.com/CornucopiasGame"
    },
@@ -496,11 +490,10 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/cswap.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "DeFi",
+      "Category": "DEX",
       "Website": "https://cswap.fi",
       "Twitter": "https://x.com/CswapDEX"
    },
-
    {
       "policyId": "f67b457c4f278c7c278f636af04a378dc6fe99270a84cd174735f98c",
       "nameHex": "446f672057686973746c65",
@@ -509,7 +502,7 @@
       "decimals": 0,
       "quantity": 0,
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/dwhis.png"
-    },
+   },
    {
       "policyId": "a8a1dccea2e378081f2d500d98d022dd3c0bd77afd9dbc7b55a9d21b",
       "nameHex": "63544f5349",
@@ -542,7 +535,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/cyclr.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "GameFi",
+      "Category": "Gaming",
       "Website": "https://www.w3ride.io",
       "Twitter": "https://x.com/w3ride"
    },
@@ -602,7 +595,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/ding.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "NFT",
+      "Category": "Gaming",
       "Website": "https://pxlz.org",
       "Twitter": "https://x.com/pxlzNFT"
    },
@@ -614,7 +607,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/disco.png",
       "decimals": 8,
       "quantity": 0,
-      "Category": "GameFi",
+      "Category": "Gaming",
       "Website": "https://docs.discoin.family/tokenomics/readme",
       "Twitter": "https://x.com/TheSilkToad"
    },
@@ -674,7 +667,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/emp.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "RealFi",
+      "Category": "DePIN",
       "Website": "https://empowa.io",
       "Twitter": "https://x.com/empowa_io"
    },
@@ -686,7 +679,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/encs.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "DeFi",
+      "Category": "Privacy",
       "Website": "https://encoins.io",
       "Twitter": "https://x.com/ENCOINS1"
    },
@@ -722,7 +715,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/fet.png",
       "decimals": 10,
       "quantity": 0,
-      "Category": "RealFi, NFT",
+      "Category": "AI",
       "Website": "https://www.fraction.estate/",
       "Twitter": "https://x.com/FractionEstate"
    },
@@ -780,7 +773,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/fldt.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "RealFi",
+      "Category": "Lending",
       "Website": "https://fluidtokens.com/",
       "Twitter": "https://x.com/FluidTokens"
    },
@@ -804,7 +797,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/gens.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "DeFi",
+      "Category": "DEX",
       "Website": "https://www.geniusyield.co",
       "Twitter": "https://x.com/GeniusyieldO"
    },
@@ -816,7 +809,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/gensx.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "Launchpad",
+      "Category": "LaunchPad",
       "Website": "https://www.genius-x.co/",
       "Twitter": "https://x.com/OfficialGeniusx"
    },
@@ -828,7 +821,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/gero.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "Wallet",
+      "Category": "Utility",
       "Website": "https://gerowallet.io",
       "Twitter": "https://x.com/GeroWallet"
    },
@@ -900,7 +893,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/hunt.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "DeFi",
+      "Category": "DEX Aggregator",
       "Website": "https://dexhunter.io/",
       "Twitter": "https://x.com/DexHunterIO"
    },
@@ -912,7 +905,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/iag.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "Other",
+      "Category": "DePIN",
       "Website": "https://www.iagon.com/",
       "Twitter": "https://x.com/IagonOfficial"
    },
@@ -936,7 +929,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/ibtc.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "DeFi",
+      "Category": "Synthetic Asset",
       "Website": "https://indigoprotocol.io",
       "Twitter": "https://x.com/Indigo_protocol"
    },
@@ -960,7 +953,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/ieth.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "DeFi",
+      "Category": "Synthetic Asset",
       "Website": "https://indigoprotocol.io",
       "Twitter": "https://x.com/Indigo_protocol"
    },
@@ -972,7 +965,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/indy.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "DeFi",
+      "Category": "Synthetics",
       "Website": "https://indigoprotocol.io",
       "Twitter": "https://x.com/Indigo_protocol"
    },
@@ -1000,7 +993,6 @@
       "Website": "https://linktr.ee/blockinvestmentgroup",
       "Twitter": "https://x.com/The_Block_Group"
    },
-
    {
       "policyId": "4342a3d3c15545a592bf38294dc75c7a1dd3550388303e3a06f4416d",
       "nameHex": "4345525241",
@@ -1013,7 +1005,6 @@
       "Website": "https://cerra.io/",
       "Twitter": "https://x.com/Cerra_io"
    },
-
    {
       "policyId": "681b5d0383ac3b457e1bcc453223c90ccef26b234328f45fa10fd276",
       "nameHex": "4a5047",
@@ -1022,7 +1013,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/jpg.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "NFT",
+      "Category": "NFT Marketplace",
       "Website": "https://www.jpg.foundation/",
       "Twitter": "https://x.com/JPGFoundation"
    },
@@ -1092,7 +1083,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/lenfi.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "DeFi",
+      "Category": "Lending",
       "Website": "https://aada.finance",
       "Twitter": "https://x.com/AadaFinance"
    },
@@ -1104,7 +1095,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/lifi.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "DeFi",
+      "Category": "Index Fund",
       "Website": "https://linkage.finance",
       "Twitter": "https://x.com/LinkageFinance/"
    },
@@ -1128,7 +1119,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/lq.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "DeFi",
+      "Category": "Lending",
       "Website": "https://liqwid.finance",
       "Twitter": "https://x.com/liqwidfinance"
    },
@@ -1140,7 +1131,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/madbl.png",
       "decimals": 0,
       "quantity": 0,
-      "Category": "Meme, GameFi",
+      "Category": "Meme, Gaming",
       "Website": "https://madbull.io/",
       "Twitter": "https://x.com/fLiGhtofMAdbuLL"
    },
@@ -1152,7 +1143,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/mcos.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "GameFi",
+      "Category": "Gaming",
       "Website": "https://mocossi.com/",
       "Twitter": "https://x.com/officialmocossi"
    },
@@ -1164,7 +1155,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/md.png",
       "decimals": 8,
       "quantity": 0,
-      "Category": "GameFi, Metaverse",
+      "Category": "Gaming",
       "Website": "https://mdtoken.io/",
       "Twitter": "https://x.com/MadDogCarClub"
    },
@@ -1200,7 +1191,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/minswap.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "DeFi",
+      "Category": "DEX",
       "Website": "https://minswap.org",
       "Twitter": "https://x.com/MinswapDEX"
    },
@@ -1224,7 +1215,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/mnt.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "DeFi, RealFi, Bridge",
+      "Category": "DEX",
       "Website": "https://mynth.ai/",
       "Twitter": "https://x.com/_mynth_"
    },
@@ -1284,7 +1275,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/nebula.png",
       "decimals": 8,
       "quantity": 0,
-      "Category": "GameFi, NFT, Other",
+      "Category": "Gaming, NFT, Other",
       "Website": "https://thenebula.xyz",
       "Twitter": "https://x.com/TheNebula_ADA?s=20"
    },
@@ -1296,7 +1287,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/strike.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "DeFi",
+      "Category": "Derivatives",
       "Website": "https://www.strikefinance.org/",
       "Twitter": "https://x.com/strikecardano"
    },
@@ -1308,7 +1299,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/newm.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "RealFi, NFT",
+      "Category": "Music",
       "Website": "https://newm.io",
       "Twitter": "https://x.com/projectNEWM"
    },
@@ -1320,7 +1311,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/ninjaz.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "GameFi, NFT, Launchpad",
+      "Category": "Gaming, NFT, Launchpad",
       "Website": "https://www.danketsu.io",
       "Twitter": "https://www.x.com/danketsuNFT"
    },
@@ -1332,7 +1323,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/nmkr.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "NFT",
+      "Category": "NFT Studio",
       "Website": "https://nmkr.io",
       "Twitter": "https://x.com/nmkr_io"
    },
@@ -1344,7 +1335,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/ntx.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "AI",
+      "Category": "DePIN",
       "Website": "https://nunet.io/",
       "Twitter": "https://x.com/nunet_global"
    },
@@ -1356,7 +1347,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/opt.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "DeFi",
+      "Category": "Derivatives",
       "Website": "https://optionflow.finance",
       "Twitter": "https://x.com/OptionFlowTeam"
    },
@@ -1404,7 +1395,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/pavia.png",
       "decimals": 0,
       "quantity": 0,
-      "Category": "Metaverse",
+      "Category": "Gaming",
       "Website": "https://pavia.io",
       "Twitter": "https://x.com/Pavia_io"
    },
@@ -1475,7 +1466,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/rag.png",
       "decimals": 0,
       "quantity": 0,
-      "Category": "GameFi",
+      "Category": "Gaming",
       "Website": "https://cryptoraggies.io/",
       "Twitter": "https://x.com/CryptoRaggies"
    },
@@ -1511,7 +1502,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/reach.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "Metaverse",
+      "Category": "Gaming",
       "Website": "https://www.market.reachmetaverse.org/",
       "Twitter": "https://x.com/ReachMetaverse"
    },
@@ -1535,7 +1526,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/risk.png",
       "decimals": 0,
       "quantity": 0,
-      "Category": "Meme, GameFi",
+      "Category": "Meme, Gaming",
       "Website": "https://www.riskcoin.io/",
       "Twitter": "https://x.com/RiskCoinAda"
    },
@@ -1607,7 +1598,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/shen.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "defi",
+      "Category": "Reserve Coin",
       "Website": "https://djed.xyz/",
       "Twitter": "https://x.com/COTInetwork"
    },
@@ -1631,7 +1622,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/shrmp.png",
       "decimals": 0,
       "quantity": 0,
-      "Category": "MEME",
+      "Category": "Meme",
       "Twitter": "https://x.com/shrmp_ada"
    },
    {
@@ -1701,7 +1692,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/society.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "NFT",
+      "Category": "Lending",
       "Website": "https://www.theapesociety.io",
       "Twitter": "https://x.com/the_ape_society"
    },
@@ -1721,7 +1712,7 @@
       "policyId": "2adf188218a66847024664f4f63939577627a56c090f679fe366c5ee",
       "nameHex": "535441424c45",
       "title": "STABLe",
-      "project": "Memecoin",
+      "project": "Meme",
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/stable.png",
       "decimals": 0,
       "quantity": 0,
@@ -1754,6 +1745,18 @@
       "Twitter": "https://x.com/SummonPlatform"
    },
    {
+      "policyId": "5aa591a3a324aef2e168a3819f619488fdd19451b4040fcfe2633eb8",
+      "nameHex": "6341503358",
+      "title": "cAP3X",
+      "project": "cAP3X",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/cap3x.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "DeFi",
+      "Website": "https://apexfusion.org/",
+      "Twitter": "https://x.com/apexfusion"
+   },
+   {
       "policyId": "9a9693a9a37912a5097918f97918d15240c92ab729a0b7c4aa144d77",
       "nameHex": "53554e444145",
       "title": "SUNDAE",
@@ -1761,7 +1764,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/sundae.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "DeFi",
+      "Category": "DEX",
       "Website": "https://sundae.fi",
       "Twitter": "https://x.com/SundaeSwap"
    },
@@ -1821,7 +1824,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/usdc.png",
       "decimals": 8,
       "quantity": 0,
-      "Category": "Bridge",
+      "Category": "Stablecoin",
       "Website": "https://www.wanscan.org/tokens",
       "Twitter": "https://x.com/wanchain_org"
    },
@@ -1845,7 +1848,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/vyfi.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "DeFi",
+      "Category": "DEX",
       "Website": "https://vyfi.io",
       "Twitter": "https://www.x.com/VyFiOfficial"
    },
@@ -1916,7 +1919,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/wrt.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "DeFi, DAO",
+      "Category": "DEX",
       "Website": "https://www.wingriders.com",
       "Twitter": "https://x.com/wingriderscom"
    },
@@ -1928,7 +1931,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/wyrm.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "GameFi",
+      "Category": "Gaming",
       "Website": "https://tavernsquad.io/",
       "Twitter": "https://x.com/TavernSquadNFT"
    },
@@ -1940,7 +1943,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/xray.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "DeFi",
+      "Category": "Tools",
       "Website": "https://raynetwork.io",
       "Twitter": "https://x.com/RayNetwork"
    },
@@ -1976,7 +1979,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/zoo.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "GameFi",
+      "Category": "Gaming",
       "Website": "https://adazoo.com",
       "Twitter": "https://x.com/adazooNFT"
    },
@@ -2016,7 +2019,6 @@
       "Website": "https://saturnswap.io/",
       "Twitter": "https://x.com/SaturnSwapIO"
    },
-
    {
       "policyId": "bf2cea597ca605e7bbc0001c25a5bd115ddcc6dea6180ec91ebb1315",
       "nameHex": "436c617920536e616b65",
@@ -2028,7 +2030,6 @@
       "Category": "Meme",
       "Twitter": "https://x.com/snaykememe"
    },
-
    {
       "policyId": "3570fdf07b95d8e2f0a7d37afec0b828fc9d4536cc31fe2464d96bec",
       "nameHex": "4c6f6c6c69707570",
@@ -2040,7 +2041,6 @@
       "Category": "Meme",
       "Twitter": "https://x.com/lollipupmeme"
    },
-
    {
       "policyId": "e7a6776d9982acd0ffeaa24885e78542cb174f4f2b9cd3c9968116e4",
       "nameHex": "434c4f574e",
@@ -2049,7 +2049,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/clown.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "GameFi",
+      "Category": "Gaming",
       "Website": "https://adazoo.com",
       "Twitter": "https://x.com/adazooNFT"
    },
@@ -2075,7 +2075,6 @@
       "Category": "Stablecoin",
       "Twitter": "https://x.com/USDMOfficial"
    },
-
    {
       "policyId": "b28976e7d89abc3c4e463aa24b4af6dc02de2e186846f34466720385",
       "nameHex": "43617264616e6f204d617869",
@@ -2087,7 +2086,6 @@
       "Category": "Meme",
       "Twitter": "https://x.com/CardanoMax1"
    },
-
    {
       "policyId": "3c117770277934530e36fb5283e2b48ecd0b288fdb7059b1ccb581d0",
       "nameHex": "42414259204d415849",
@@ -2098,7 +2096,6 @@
       "quantity": 0,
       "Category": "Meme"
    },
-
    {
       "policyId": "8ebb4f0eb39543cdab83eb35f5f194798817eaaa3061872b4101efdb",
       "nameHex": "0014df104d4554455241",
@@ -2110,7 +2107,6 @@
       "Category": "Defi",
       "Twitter": "https://x.com/MeteraProtocol"
    },
-
    {
       "policyId": "b7c5cd554f3e83c8aa0900a0c9053284a5348244d23d0406c28eaf4d",
       "nameHex": "50414c4d0a",
@@ -2122,7 +2118,6 @@
       "Category": "RWA",
       "Twitter": "https://x.com/palmeconomy"
    },
-
    {
       "policyId": "97bbb7db0baef89caefce61b8107ac74c7a7340166b39d906f174bec",
       "nameHex": "54616c6f73",
@@ -2165,7 +2160,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/nvl.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "Depin",
+      "Category": "DePIN",
       "Website": "https://www.nuvoladigital.io/",
       "Twitter": "https://x.com/NuvolaDigital"
    },
@@ -2245,7 +2240,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/bana.png",
       "decimals": 0,
       "quantity": 0,
-      "Category": "GameFi",
+      "Category": "Gaming",
       "Website": "https://bananaclip.io/",
       "Twitter": "https://x.com/BananaClipGames"
    },
@@ -2305,7 +2300,6 @@
       "Category": "Meme",
       "Twitter": "https://x.com/nike_hoskinson"
    },
-
    {
       "policyId": "00000000000410c2d9e01e8ec78ab1dc6bbc383fae76cbe2689beb02",
       "nameHex": "4d49444153",
@@ -2317,7 +2311,6 @@
       "Category": "Synthetic",
       "Twitter": "https://x.com/butaneprotocol"
    },
-
    {
       "policyId": "4128947ee2e2e983c8710d6ddeb1f90ad8f3b843650d13045f13b9e9",
       "nameHex": "4361726465787363616e",
@@ -2329,7 +2322,6 @@
       "Category": "DeFi",
       "Twitter": "https://x.com/cardexscan"
    },
-
    {
       "policyId": "d4b29d5d48edf300128a5f08150ad196a6af15ebd7932306d3099efe",
       "nameHex": "424f4f",
@@ -2341,7 +2333,6 @@
       "Category": "Meme",
       "Twitter": "https://x.com/BoocoinIO"
    },
-
    {
       "policyId": "375df3f2fb44d3c42b3381a09edd4ea2303a57ada32b5308c0774ee0",
       "nameHex": "544f4b45",
@@ -2352,7 +2343,6 @@
       "quantity": 0,
       "Category": "Wallet"
    },
-
    {
       "policyId": "3bbbe8599fbc4a9cd2dc1c94ad0f577ce2328180b9cc7b851633aa8d",
       "nameHex": "506172747920436174",
@@ -2363,7 +2353,6 @@
       "quantity": 0,
       "Category": "Meme"
    },
-   
    {
       "policyId": "f15b78fbd108fafff8e88b1925fe02bb72aefb935958924970f7fa63",
       "nameHex": "4e696b65576966486174",
@@ -2386,7 +2375,6 @@
       "Category": "Meme",
       "Twitter": "https://x.com/Blobcoinada"
    },
-
    {
       "policyId": "ec6ec45fc2275a2380b16449c1e34869dc0b6609bdf17a8b7c9f1cb4",
       "nameHex": "546f6d61746f436f696e",
@@ -2397,7 +2385,6 @@
       "quantity": 0,
       "Category": "Meme"
    },
-
    {
       "policyId": "5deab590a137066fef0e56f06ef1b830f21bc5d544661ba570bdd2ae",
       "nameHex": "424f44454741",
@@ -2406,24 +2393,10 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/bodega.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "Gambling",
+      "Category": "Prediction Market",
       "Website": "https://www.bodegacardano.org/",
       "Twitter": "https://x.com/BodegaCardano"
    },
-
-      {
-      "policyId": "5aa591a3a324aef2e168a3819f619488fdd19451b4040fcfe2633eb8",
-      "nameHex": "6341503358",
-      "title": "cAP3X",
-      "project": "cAP3X",
-      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/cap3x.png",
-      "decimals": 6,
-      "quantity": 0,
-      "Category": "DeFi",
-      "Website": "https://apexfusion.org/",
-      "Twitter": "https://x.com/apexfusion"
-   },
-
    {
       "policyId": "97075bf380e65f3c63fb733267adbb7d42eec574428a754d2abca55b",
       "nameHex": "436861726c6573207468652043686164",
@@ -2436,7 +2409,6 @@
       "Website": "https://charlesthechad.com/",
       "Twitter": "https://x.com/charles_thechad"
    },
-
    {
       "policyId": "6787a47e9f73efe4002d763337140da27afa8eb9a39413d2c39d4286",
       "nameHex": "524144546f6b656e73",
@@ -2449,7 +2421,6 @@
       "Website": "https://cardania.com/codex/policy-ids/",
       "Twitter": "https://x.com/Cardania_HQ"
    },
-
    {
       "policyId": "766fce8055f39d40fcfc19721677b3deb2e7846950ae08dce757f1e7",
       "nameHex": "53554741522042555348",
@@ -2461,7 +2432,6 @@
       "Category": "Meme",
       "Twitter": "https://x.com/wmtoken"
    },
-
    {
       "policyId": "70cb405628006ab6010889248e361cc598688d0e768f97cdeea1e41e",
       "nameHex": "464c5558",
@@ -2473,7 +2443,6 @@
       "Category": "Meme",
       "Twitter": "https://x.com/CardanoFlux"
    },
-
    {
       "policyId": "6a0f6c32b77596240ff8bc78e1c334fa9bd2131750f47f3afb36b1b2",
       "nameHex": "4d4f4749",
@@ -2485,7 +2454,6 @@
       "Category": "Meme",
       "Twitter": "https://x.com/mogi_cet"
    },
-
    {
       "policyId": "320369c22975c0c1da4ece524f71a40d20ed9676d704ce712a04a1ff",
       "nameHex": "424251",
@@ -2497,7 +2465,6 @@
       "Category": "Meme",
       "Twitter": "https://x.com/bbqcharlesada"
    },
-
    {
       "policyId": "bf3e19192da77dfadc7c9065944e50ca7e1a439d90833e3ae58b720a",
       "nameHex": "44414e5a4f",
@@ -2506,10 +2473,9 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/danzoada.png",
       "decimals": 0,
       "quantity": 0,
-      "Category": "Meme",
+      "Category": "Gaming",
       "Twitter": "https://x.com/DanZoADA"
    },
-
    {
       "policyId": "7f149ffd7b3311da196e7af94abdcb7f4ab889677ec1ecb888e32dac",
       "nameHex": "42414259444f4e5a4f",
@@ -2521,7 +2487,6 @@
       "Category": "Meme",
       "Twitter": "https://x.com/BABYDONZO"
    },
-
    {
       "policyId": "8710d7e46ffb678803a2072d6c838fb564a249362dd671729e9d8362",
       "nameHex": "4d414741494e55",
@@ -2533,7 +2498,6 @@
       "Category": "Meme",
       "Twitter": "https://x.com/Maga_inu_Coin"
    },
-
    {
       "policyId": "30d2ebdb2fec06142ee84e5120c2717b4d68a91bffd924420d94ddea",
       "nameHex": "43484950",
@@ -2546,7 +2510,6 @@
       "Website": "https://cardanocasino.vip/",
       "Twitter": "https://x.com/CardanoCasino"
    },
-
    {
       "policyId": "d2655f073850a4493da540d20f618191d5a84ad79927daa3118865f4",
       "nameHex": "5041424c4f",
@@ -2558,7 +2521,6 @@
       "Category": "Meme",
       "Twitter": "https://x.com/pablo_hoskinson"
    },
-
    {
       "policyId": "13057a460cfd6c33952483d18f09d83a5eba3537ad4250a2c6587f0a",
       "nameHex": "424c5545",
@@ -2570,7 +2532,6 @@
       "Category": "Meme",
       "Twitter": "https://x.com/BLUE_CARDAN0"
    },
-
    {
       "policyId": "123ff217c41fb1f7b33662506fe12d4505ee0a137709bff90ab08101",
       "nameHex": "48414b545541",
@@ -2582,7 +2543,6 @@
       "Category": "Meme",
       "Twitter": "https://x.com/HAKTUAcoinada"
    },
-
    {
       "policyId": "590f6d119b214cdcf7ef7751f8b7f1de615ff8f6de097a5ce62b257b",
       "nameHex": "534841524c",
@@ -2594,7 +2554,6 @@
       "Category": "Meme",
       "Twitter": "https://x.com/sharlhuskens"
    },
-
    {
       "policyId": "05e1f8298560c85f03248a7b3e5322f12e27e4cdc1378a4f3bc51083",
       "nameHex": "526565626f6b61486f736b696e736f6e",
@@ -2606,8 +2565,6 @@
       "Category": "Meme",
       "Twitter": "https://x.com/Reeboka_Ada"
    },
-
-
    {
       "policyId": "338c17dffaaefdb97ace91100724836178c3f9dd994a4798a66f546d",
       "nameHex": "4d414e4e59",
@@ -2619,7 +2576,6 @@
       "Category": "Meme",
       "Twitter": "https://x.com/MammothMannyADA"
    },
-
    {
       "policyId": "52d4b39c2407ce020ab4abb785d820a3ad5a2fa07600d07a205e509f",
       "nameHex": "52454954",
@@ -2632,7 +2588,6 @@
       "Website": "https://reitcircles.com/",
       "Twitter": "https://x.com/reitcircles"
    },
-
    {
       "policyId": "64f7b108bd43f4bde344b82587655eeb821256c0c8e79ad48db15d18",
       "nameHex": "44454449",
@@ -2641,11 +2596,10 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/dedi.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "Depin",
+      "Category": "DePIN",
       "Website": "https://dedium.io/",
       "Twitter": "https://x.com/DediumNetwork"
    },
-
    {
       "policyId": "51a5e236c4de3af2b8020442e2a26f454fda3b04cb621c1294a0ef34",
       "nameHex": "424f4f4b",
@@ -2654,11 +2608,10 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/stuff.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "UTILITY",
+      "Category": "Utility",
       "Website": "https://stuff.io",
       "Twitter": "https://x.com/book_io"
    },
-
    {
       "policyId": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff935",
       "nameHex": "44454741",
@@ -2671,7 +2624,6 @@
       "Website": "https://www.dega.org/",
       "Twitter": "https://x.com/DEGA_org"
    },
-
    {
       "policyId": "68d68a5c296ae32af9029c355fa9f72a30f160aef3cff6ad62c73d94",
       "nameHex": "42414e4453",
@@ -2684,7 +2636,6 @@
       "Website": "https://bandscoin.xyz",
       "Twitter": "https://www.x.com/bandscoin_"
    },
-
    {
       "policyId": "f53a7bb80786a498a8eb0241d03416d834827547115e0559f2979a58",
       "nameHex": "4352415348",
@@ -2697,7 +2648,6 @@
       "Website": "https://www.crashr.io/",
       "Twitter": "https://www.x.com/crashr_io"
    },
-
    {
       "policyId": "77cab21b1a0eb05886cb9fe8e3d297456e53c1d948dba42219a1b380",
       "nameHex": "4d796e746820546f6b656e2058",
@@ -2710,7 +2660,6 @@
       "Website": "https://www.mynth.ai/",
       "Twitter": "https://www.x.com/_mynth_"
    },
-
    {
       "policyId": "60faa64709fede8dffed0dccb69da337a5bf61eda0c773156ea78b4d",
       "nameHex": "534b59",
@@ -2719,11 +2668,10 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/sky.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "DeFi",
+      "Category": "Layer 2",
       "Website": "https://www.skyprotocol.org/",
       "Twitter": "https://www.x.com/SkyProtocolOrg"
    },
-
    {
       "policyId": "7b35f60db53bd598b5d1f6f00136e232de6b42c2616613a4568b78e4",
       "nameHex": "58434c4e",
@@ -2734,7 +2682,6 @@
       "quantity": 0,
       "Category": "Meme"
    },
-
    {
       "policyId": "2e98523602110d53bc6504140f3051b42fea695e0487abea9bc85d55",
       "nameHex": "436f7069756d",
@@ -2743,8 +2690,8 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/copium.png",
       "decimals": 6,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "7d737addbceaf56a5d6484a37a13eb0fd23d01dca842fe9d7ad4dc12",
       "nameHex": "4272657474",
       "title": "Brett",
@@ -2752,8 +2699,8 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/brett.png",
       "decimals": 0,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "7d869e0e6f936c3299a8b8df2b8f13d5233801e11676ff06e78e8dbe",
       "nameHex": "4649474854",
       "title": "FIGHT",
@@ -2761,8 +2708,8 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/fight.png",
       "decimals": 0,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "6947eccc74ebf8c1716339b97af768bfbc70d330a743b79bbc5ccdeb",
       "nameHex": "544554",
       "title": "TET",
@@ -2770,8 +2717,8 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/tet.png",
       "decimals": 0,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "e0c6d12556452c8ed0df4a2eb186e1e10b1fedcc6dcc32af1178ef09",
       "nameHex": "544845434142414c",
       "title": "THECABAL",
@@ -2779,16 +2726,16 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/cabal.png",
       "decimals": 0,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "c9281d64953f9531304e57e4ff15111f0c5445167c0b413f70fcd50c",
       "nameHex": "52554e45",
       "title": "RUNE",
       "project": "RUNE",
       "decimals": 0,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "defe216460d594211631fcfbd354f361c04645d6a0cfeead3d6f6283",
       "nameHex": "6c65767679776966686174",
       "title": "LevvyWifHat",
@@ -2796,8 +2743,8 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/lwh.png",
       "decimals": 0,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "d5dec6074942b36b50975294fd801f7f28c907476b1ecc1b57c916ed",
       "nameHex": "524154",
       "title": "RAT",
@@ -2805,8 +2752,8 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/rat.png",
       "decimals": 6,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "742a5d1b07dbf1992c7527723e235ea45112ad6a17e223bd2e77270f",
       "nameHex": "42414259425443",
       "title": "BABYBTC",
@@ -2814,8 +2761,8 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/babybtc.png",
       "decimals": 0,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "7088ad38a23e997dc6ab90336cae582c93b61460888d83f178899a33",
       "nameHex": "4b4f49",
       "title": "KOI",
@@ -2823,8 +2770,8 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/koi.png",
       "decimals": 0,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "c058aa2ab98a6a89bac4b216b0a045f9ea33a0148e6cad07c2413646",
       "nameHex": "59554745",
       "title": "YUGE",
@@ -2832,8 +2779,8 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/yuge.png",
       "decimals": 0,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "d55bf9d2ad12cc55e4ed29d97c64dba0e4905d3c80f800449f3d51f0",
       "nameHex": "4368616e6765",
       "title": "Change",
@@ -2841,8 +2788,8 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/change.png",
       "decimals": 0,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "fb59da920d029dde957b556d981046a9102698ed70797da5908e4634",
       "nameHex": "454c454d454e54",
       "title": "ELEMENT",
@@ -2850,9 +2797,8 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/element.png",
       "decimals": 0,
       "quantity": 0
-    },
-
-    {
+   },
+   {
       "policyId": "9631de01277bb49c7046c73d52a1d3280086c80bd2b1db52ecad572f",
       "nameHex": "524f475545",
       "title": "ROGUE",
@@ -2860,18 +2806,18 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/rogue.png",
       "decimals": 0,
       "quantity": 0
-    },
-
-    {
+   },
+   {
       "policyId": "ea153b5d4864af15a1079a94a0e2486d6376fa28aafad272d15b243a",
       "nameHex": "0014df10536861726473",
       "title": "SHARDS",
       "project": "SHARDS",
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/shards.png",
       "decimals": 6,
-      "quantity": 0
-    },
-    {
+      "quantity": 0,
+      "Category": "AI"
+   },
+   {
       "policyId": "1cd92100fc05fce7416b3857a079780164eeaf8f5613f4b814f24e09",
       "nameHex": "426f6f6e436f696e",
       "title": "BoonCoin",
@@ -2879,8 +2825,8 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/boon.png",
       "decimals": 0,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "279f842c33eed9054b9e3c70cd6a3b32298259c24b78b895cb41d91a",
       "nameHex": "54554e41",
       "title": "TUNA",
@@ -2888,8 +2834,8 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/tuna.png",
       "decimals": 8,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "9b426921a21f54600711da0be1a12b026703a9bd8eb9848d08c9d921",
       "nameHex": "434154534b59",
       "title": "CATSKY",
@@ -2897,8 +2843,8 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/catsky.png",
       "decimals": 0,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "ea02c99c0668891d6b7cdc49e075cbddf9cd5b89404e5a8a8e5d7016",
       "nameHex": "534c4f5020436f696e",
       "title": "SLOP Coin",
@@ -2906,8 +2852,8 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/slop.png",
       "decimals": 0,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "cdbbe391853676285131fe2de250e274dbeb5f9d98344e86c7b383d9",
       "nameHex": "474c44534e454b",
       "title": "GLDSNEK",
@@ -2915,24 +2861,24 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/gldsnek.png",
       "decimals": 0,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "86ef0802f4066ad1acfb821620a722545c68fb57d6ff197f62786f9b",
       "nameHex": "414e4459",
       "title": "ANDY",
       "project": "ANDY",
       "decimals": 0,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "5f3a47fa83522c6eece53bbfe0a77374bd748d6ac5b8892d3d5b3ff3",
       "nameHex": "5365636972697479",
       "title": "Security",
       "project": "Security",
       "decimals": 0,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "68d321288fcbf4870b12af5984a3c91338b9db622f2320b5f7ff7ff6",
       "nameHex": "4e4f5345",
       "title": "NOSE",
@@ -2940,8 +2886,8 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/nose.png",
       "decimals": 0,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "420d2299be39dd17e32157f2c24a18cb8fd251c59dc193a8f399b746",
       "nameHex": "42616442616442616279",
       "title": "BadBadBaby",
@@ -2949,8 +2895,8 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/bbb.png",
       "decimals": 0,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "ab0dec21aa7d939ad124ffaf95faf8ed72b1018ff72fffd8f9974907",
       "nameHex": "474f4b4559",
       "title": "GOKEY",
@@ -2958,16 +2904,16 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/gokey.png",
       "decimals": 0,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "d65d8018fd89282c4386d788ab6a0e7e28a33d72165fb1ed7f2438d7",
       "nameHex": "4e4d53",
       "title": "NMS",
       "project": "NMS",
       "decimals": 0,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "b9168f05e657b6946fede254e383586cf7e7a2573d5a0fa12b3ef6ac",
       "nameHex": "494450",
       "title": "IDP",
@@ -2975,8 +2921,8 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/idp.png",
       "decimals": 0,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "26c8aa8a9fe28dfde5c5f26df7264267322629fa5f412f52b7f755ba",
       "nameHex": "506569706569",
       "title": "Peipei",
@@ -2984,16 +2930,16 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/peipei.png",
       "decimals": 0,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "efd7a7d27632704cb96c246f209dc16ed4bb2121bf0ff0b58a7fbc1d",
       "nameHex": "4d5254494242455253",
       "title": "MRTIBBERS",
       "project": "MRTIBBERS",
       "decimals": 0,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "eda69ce0f80d0f2ff78892b07fe648ec5bf5375afc1ed545278cb150",
       "nameHex": "43686169726d616e4d656f77",
       "title": "ChairmanMeow",
@@ -3001,8 +2947,8 @@
       "decimals": 0,
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/meow.png",
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "47141777c7f93d1d4546b97bb37372c0d3dc7ad205a3b4234e653467",
       "nameHex": "4a45455453",
       "title": "JEETS",
@@ -3010,8 +2956,8 @@
       "decimals": 0,
       "quantity": 0,
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/jeet.png"
-    },
-    {
+   },
+   {
       "policyId": "0c78f619e54a5d00e143f66181a2c500d0c394b38a10e86cd1a23c5f",
       "nameHex": "41444158",
       "title": "ADAX",
@@ -3019,8 +2965,8 @@
       "decimals": 0,
       "quantity": 0,
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/adax.png"
-    },
-    {
+   },
+   {
       "policyId": "4981b9bdaf6477b21b8c88a03041a4f365915b6dbe29e2dd714586ba",
       "nameHex": "4d45535349",
       "title": "MESSI",
@@ -3028,8 +2974,8 @@
       "decimals": 6,
       "quantity": 0,
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/messi.png"
-    },
-    {
+   },
+   {
       "policyId": "26280ba5c97004a3952350ccccbe3a2bcb2da8eaea4c134b148e0ed0",
       "nameHex": "427579546865444950",
       "title": "DIP",
@@ -3037,8 +2983,8 @@
       "decimals": 0,
       "quantity": 0,
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/dip.png"
-    },
-    {
+   },
+   {
       "policyId": "548c390391253aff00af9c95ae310f00803fd28035a6ed6f17c1e5e2",
       "nameHex": "424147",
       "title": "BAG",
@@ -3046,9 +2992,8 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/bag.png",
       "decimals": 0,
       "quantity": 0
-    },
-
-    {
+   },
+   {
       "policyId": "e5a42a1a1d3d1da71b0449663c32798725888d2eb0843c4dabeca05a",
       "nameHex": "576f726c644d6f62696c65546f6b656e58",
       "title": "WMTX",
@@ -3056,12 +3001,11 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/wmtx.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "DeFi",
+      "Category": "DePIN",
       "Website": "https://worldmobiletoken.com",
       "Twitter": "https://x.com/wmtoken"
    },
-
-    {
+   {
       "policyId": "2d92af60ee429bce238d3fd9f2531b45457301d74dad1bcf3f9d1dca",
       "nameHex": "564e4d",
       "title": "VNM",
@@ -3069,8 +3013,8 @@
       "decimals": 0,
       "quantity": 0,
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/vnm.png"
-    },
-    {
+   },
+   {
       "policyId": "78f8025f8c6fcd57bf271ee3df2b637f9905837785866c053dde7221",
       "nameHex": "42756d",
       "title": "Bum",
@@ -3078,40 +3022,40 @@
       "decimals": 0,
       "quantity": 0,
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/bum.png"
-    },
-    {
+   },
+   {
       "policyId": "c993febf626087ef69decf0c73c238e6abb00675241622597b4ee730",
       "nameHex": "4e494b4550",
       "title": "NIKEP",
       "project": "NIKEP",
       "decimals": 0,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "a7831ee8846e24d60133551cc554bab07b87c9443fa790ecf8d56b62",
       "nameHex": "5375736869205365616c20",
       "title": "Sushi Seal",
       "project": "Sushi Seal",
       "decimals": 0,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "65bdf33f8f7fd4debeb2ad659473749eb4eac177e06650bb75a8fe50",
       "nameHex": "4d69746872546f6b656e",
       "title": "MithrToken",
       "project": "MithrToken",
       "decimals": 0,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "c981fc98e761e3bb44ae35e7d97ae6227f684bcb6f50a636753da48e",
       "nameHex": "54554e41",
       "title": "TUNA",
       "project": "TUNA",
       "decimals": 8,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "22cc9d1de66c8aabff6bdc2154d00e927bb2b4ab250d3ada7df391d1",
       "nameHex": "4348414e474841524453504f524b",
       "title": "CHANG",
@@ -3119,8 +3063,8 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/chang.png",
       "decimals": 0,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "097f37ef3f64a7967c645cb2a40b67594b0f6f4d187d654ff9274037",
       "nameHex": "53717565616b",
       "title": "Squeak",
@@ -3128,17 +3072,18 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/squeak.png",
       "decimals": 0,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "805dba5284db75636dabc96c02f62c9d382e246ee22aa937a7a12aec",
       "nameHex": "0014df10464e58",
       "title": "FNX",
       "project": "FNX",
       "decimals": 6,
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/fnx.png",
-      "quantity": 0
-    },
-    {
+      "quantity": 0,
+      "Category": "Lending"
+   },
+   {
       "policyId": "1f01188ffed79a9296d824c49eec851c21ea860e7c4f88324de50f2c",
       "nameHex": "7363616c65",
       "title": "scale",
@@ -3146,24 +3091,24 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/scale.png",
       "decimals": 0,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "f9a491442678bb2f90a3be676d1f888ce87330003ab7151f9efb3b68",
       "nameHex": "424f58",
       "title": "BOX",
       "project": "BOX",
       "decimals": 0,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "59bc0484225992f0fafffc472784f89f1c75e496cb570ec2922b9243",
       "nameHex": "444344",
       "title": "DCD",
       "project": "DCD",
       "decimals": 0,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "2ab03aa40dbf23fcdee0e7eb2572acce93adc56bfc315fe4313c161a",
       "nameHex": "43544f",
       "title": "CTO",
@@ -3171,8 +3116,8 @@
       "decimals": 0,
       "quantity": 0,
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/cto.png"
-    },
-    {
+   },
+   {
       "policyId": "da247e71f71b0195c8188bf43827f34c9357cc388fceed596d100d95",
       "nameHex": "424f54",
       "title": "BOT",
@@ -3180,8 +3125,8 @@
       "decimals": 0,
       "quantity": 0,
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/bot.png"
-    },
-    {
+   },
+   {
       "policyId": "02a4e5d69c39dc69ca5673836545743f425563965af06fe002bdd790",
       "nameHex": "43455446",
       "title": "cETF",
@@ -3189,8 +3134,8 @@
       "decimals": 0,
       "quantity": 0,
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/cetf.png"
-    },
-    {
+   },
+   {
       "policyId": "d894897411707efa755a76deb66d26dfd50593f2e70863e1661e98a0",
       "nameHex": "7370616365636f696e73",
       "title": "SPACE",
@@ -3198,10 +3143,8 @@
       "decimals": 0,
       "quantity": 0,
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/space.png"
-    },
-
-
-    {
+   },
+   {
       "policyId": "85d7d630d91396fd3c06f1e912660a5756b2eb8dc003d053f54ae162",
       "nameHex": "0014df1046555a45",
       "title": "FUZE",
@@ -3209,8 +3152,8 @@
       "decimals": 6,
       "quantity": 0,
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/fuze.png"
-    },
-    {
+   },
+   {
       "policyId": "20efaf13727eea5813e57530f1f9bb60fa8a986056b48c4b89d59b41",
       "nameHex": "4769726c4672656e",
       "title": "GirlFren",
@@ -3218,16 +3161,16 @@
       "decimals": 0,
       "quantity": 0,
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/girlfren.png"
-    },
-    {
+   },
+   {
       "policyId": "169f4ad93d07b6a6b1c4d97a78d0e222fc16b821467b8ad123384ca4",
       "nameHex": "4d6973736b696e736f6e",
       "title": "Misskinson",
       "project": "Misskinson",
       "decimals": 0,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "20cd68533b47565f3c61efb39c30fdace9963bfa4c0060b613448e3c",
       "nameHex": "50524f584945",
       "title": "PROXIE",
@@ -3235,8 +3178,8 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/proxie.png",
       "decimals": 0,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "de27f9eb9ed6f011e30a56dbe09d982c9facde3a37efd92f4dfac015",
       "nameHex": "446f6e616c644a5472756d70",
       "title": "TRUMP",
@@ -3244,8 +3187,8 @@
       "decimals": 0,
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/trump.png",
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "1e2ab14b6921c545b836525477921fe000e14a3502fa729f60e8de85",
       "nameHex": "534c4150",
       "title": "SLAP",
@@ -3253,16 +3196,16 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/slap.png",
       "decimals": 0,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "1753d1a3fa52f22991dce25ef85736501d88294ca0cda80ebd548c1f",
       "nameHex": "4d504f58",
       "title": "MPOX",
       "project": "MPOX",
       "decimals": 0,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "85d87212f6096732ac1cdbf604a12aa8cfd1fd0b66ab28fc77d3764c",
       "nameHex": "44494e4f",
       "title": "DINO",
@@ -3270,8 +3213,8 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/dino.png",
       "decimals": 6,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "bb5a7d8e8667d05b25d609b313364bcd9814d95b2eb21be501eaeedb",
       "nameHex": "436861726c65737352616e6368",
       "title": "Ranch",
@@ -3279,8 +3222,8 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/ranch.png",
       "decimals": 0,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "e90f72af7212f37b1af072d74d326e7d1bc15c21f8ca4180d4fd931f",
       "nameHex": "484f50",
       "title": "HOP",
@@ -3288,8 +3231,8 @@
       "decimals": 0,
       "quantity": 0,
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/hop.png"
-    },
-    {
+   },
+   {
       "policyId": "c80d335ae2206381ae3dfe07b1ef38e43af95736e7f5d4f150663c25",
       "nameHex": "5241555349",
       "title": "RAUSI",
@@ -3297,8 +3240,8 @@
       "decimals": 0,
       "quantity": 0,
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/rausi.png"
-    },
-    {
+   },
+   {
       "policyId": "83099a945e95a38d3dc3ab562af81671ed094becf493074251d3f450",
       "nameHex": "62616279536869747a75",
       "title": "BabyShitzu",
@@ -3306,8 +3249,8 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/babyshitzu.png",
       "decimals": 0,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "48f69a80dcca7bee58431b8b749faca98700ca456056d153fbea4eb2",
       "nameHex": "4f4d4e49",
       "title": "OMNI",
@@ -3315,8 +3258,8 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/omni.png",
       "decimals": 8,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "0411fdd6dbfc5aedac7a1fb68688e756e1de99426ff68d67a475b950",
       "nameHex": "484f534849",
       "title": "HOSHI",
@@ -3324,16 +3267,16 @@
       "decimals": 0,
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/hoshi.png",
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "0d3070dc66435ca3f1dab0f816438aadd758dabeaa35e6de855c75c1",
       "nameHex": "424f4e4b",
       "title": "BONK",
       "project": "BONK",
       "decimals": 0,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "f4d97191f857096b441a410c036f63d6697dde0c71d2755dd664e302",
       "nameHex": "4d4b41",
       "title": "MKA",
@@ -3341,8 +3284,8 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/mka.png",
       "decimals": 5,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "394d8a0021c8825ad9385c1112009994e37b7b53c0c406d389d452db",
       "nameHex": "47756d6d79",
       "title": "Gummy",
@@ -3350,16 +3293,16 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/gummy.png",
       "decimals": 0,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "676fe95d29c1fa198f86c862def5bf7a487c8abf04c3b0b53bdd1bf3",
       "nameHex": "4759524f53",
       "title": "GYROS",
       "project": "GYROS",
       "decimals": 0,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "afbe91c0b44b3040e360057bf8354ead8c49c4979ae6ab7c4fbdc9eb",
       "nameHex": "4d494c4b7632",
       "title": "MILKv2",
@@ -3367,8 +3310,8 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/milkv2.png",
       "decimals": 0,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "069050cab76605dc9962221aa0ea146cad5cd620e161ee03cf3aebc2",
       "nameHex": "50455045444f47",
       "title": "PEPEDOG",
@@ -3376,17 +3319,16 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/pepedog.png",
       "decimals": 0,
       "quantity": 0
-    },
-    {
+   },
+   {
       "policyId": "c6866e99d228e1c6a1ce276ddc1f7f379a4bcc90d2e6a8994181cdf8",
       "nameHex": "42414259534849424d4f4f4e",
       "title": "BABYSHIBMOON",
       "project": "BABYSHIBMOON",
       "decimals": 0,
       "quantity": 0
-    },
-
-    {
+   },
+   {
       "policyId": "f888ac57cdd06d5038c2d460aad2e44330d77f0754339efa974f0aa0",
       "nameHex": "426f6f6b206f6620536e656b",
       "title": "BOS",
@@ -3397,7 +3339,6 @@
       "Category": "Meme",
       "Twitter": "https://x.com/Book_of_snek"
    },
-
    {
       "policyId": "90343c34e0c78d60fcd0253be331ee5a8073ed78e1612fb0f2d3ebde",
       "nameHex": "534d494c45",
@@ -3408,7 +3349,6 @@
       "quantity": 0,
       "Category": "Meme"
    },
-
    {
       "policyId": "a828473e3a338fcbdaa209ad676a06a76540ea48f604fa97f26cd552",
       "nameHex": "5472656e63685175657374",
@@ -3420,17 +3360,15 @@
       "Category": "Meme",
       "Twitter": "https://x.com/trenchyada"
    },
-
-    {
+   {
       "policyId": "81926a57a567c11f6dc502254c5ed2d11fdba4ed9f898916699c6f17",
       "nameHex": "53414645",
       "title": "SAFE",
       "project": "SAFE",
       "decimals": 0,
       "quantity": 0
-    },
-
-    {
+   },
+   {
       "policyId": "4a17babb62367c0def1615e0e75d20cda9f1b5c1cd4a55c86661777f",
       "nameHex": "48594452",
       "title": "HYDR",
@@ -3440,9 +3378,8 @@
       "quantity": 0,
       "Twitter": "https://x.com/HydroDriponADA",
       "Website": "https://hydrodrip.io/"
-    },
-
-    {
+   },
+   {
       "policyId": "2852268cf6e2db42e20f2fd3125f541e5d6c5a3d70b4dda17c2daa82",
       "nameHex": "",
       "title": "O",
@@ -3452,61 +3389,54 @@
       "quantity": 0,
       "Twitter": "https://x.com/OptimFi",
       "Website": "https://www.optim.finance/",
-      "Category": "DeFi"
-    },
-
-         {
-       "policyId": "a04ce7a52545e5e33c2867e148898d9e667a69602285f6a1298f9d68",
-       "nameHex": "",
-       "title": "qADA",
-       "project": "qADA",
-       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/qada.png",
-       "decimals": 6,
-       "quantity": 0
-     },
-
-     {
-        "policyId": "d15c36d6dec655677acb3318294f116ce01d8d9def3cc54cdd78909b",
-        "nameHex": "",
-        "title": "qiUSD",
-        "project": "qiUSD",
-        "img": "https://public.liqwid.finance/v5/assets/IUSD.svg",
-        "decimals": 6,
-        "quantity": 0
-      },
-
-
-     {
-        "policyId": "f60b7232837203d335cd77494d25c1cc0b218b9a8f3459730c521d13",
-        "nameHex": "",
-        "title": "qIAG",
-        "project": "qIAG",
-        "img": "https://public.liqwid.finance/v5/assets/IAG.svg",
-        "decimals": 6,
-        "quantity": 0
-      },
-
-      {
-        "policyId": "f72166e9fac8297aeb553c19ffab14f51ae271c2cb26783ba289a3a5",
-        "nameHex": "",
-        "title": "qBTC",
-        "project": "qBTC",
-        "img": "https://public.liqwid.finance/v5/assets/BTC.svg",
-        "decimals": 8,
-        "quantity": 0
-      },
-
-      {
-        "policyId": "dd55119962ca550cdd4219999b9e6d25fc9128f96c7dcb5e485286eb",
-        "nameHex": "",
-        "title": "qCOPI",
-        "project": "qCOPI",
-        "img": "https://public.liqwid.finance/v5/assets/COPI.svg",
-        "decimals": 6,
-        "quantity": 0
-      },
-
-         {
+      "Category": "Yield"
+   },
+   {
+      "policyId": "a04ce7a52545e5e33c2867e148898d9e667a69602285f6a1298f9d68",
+      "nameHex": "",
+      "title": "qADA",
+      "project": "qADA",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/qada.png",
+      "decimals": 6,
+      "quantity": 0
+   },
+   {
+      "policyId": "d15c36d6dec655677acb3318294f116ce01d8d9def3cc54cdd78909b",
+      "nameHex": "",
+      "title": "qiUSD",
+      "project": "qiUSD",
+      "img": "https://public.liqwid.finance/v5/assets/IUSD.svg",
+      "decimals": 6,
+      "quantity": 0
+   },
+   {
+      "policyId": "f60b7232837203d335cd77494d25c1cc0b218b9a8f3459730c521d13",
+      "nameHex": "",
+      "title": "qIAG",
+      "project": "qIAG",
+      "img": "https://public.liqwid.finance/v5/assets/IAG.svg",
+      "decimals": 6,
+      "quantity": 0
+   },
+   {
+      "policyId": "f72166e9fac8297aeb553c19ffab14f51ae271c2cb26783ba289a3a5",
+      "nameHex": "",
+      "title": "qBTC",
+      "project": "qBTC",
+      "img": "https://public.liqwid.finance/v5/assets/BTC.svg",
+      "decimals": 8,
+      "quantity": 0
+   },
+   {
+      "policyId": "dd55119962ca550cdd4219999b9e6d25fc9128f96c7dcb5e485286eb",
+      "nameHex": "",
+      "title": "qCOPI",
+      "project": "qCOPI",
+      "img": "https://public.liqwid.finance/v5/assets/COPI.svg",
+      "decimals": 6,
+      "quantity": 0
+   },
+   {
       "policyId": "2d9db8a89f074aa045eab177f23a3395f62ced8b53499a9e4ad46c80",
       "nameHex": "464c4f57",
       "title": "FLOW",
@@ -3514,129 +3444,124 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/flow.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "Defi",
+      "Category": "Lending",
       "Website": "https://flowcardano.org",
       "Twitter": "https://x.com/flowdefi"
    },
-
-      {
-        "policyId": "6df63e2fdde8b2c3b3396265b0cc824aa4fb999396b1c154280f6b0c",
-        "nameHex": "",
-        "title": "qDJED",
-        "project": "qDJED", 
-        "img": "https://public.liqwid.finance/v5/assets/DJED.svg",
-        "decimals": 6,
-        "quantity": 0
-      }, 
-
-      {
-        "policyId": "b122b2fc62557df9c3fd0b5c62a4b2c970a0d711560e0a8dd7b264f3",
-        "nameHex": "",
-        "title": "qERG",
-        "project": "qERG", 
-        "img": "https://public.liqwid.finance/v5/assets/ERG.svg",
-        "decimals": 9,
-        "quantity": 0
-      },
-
-      {
-        "policyId": "5f42994532b04f9f5bd4141c69364c5b7d33c85036146ee321799702",
-        "nameHex": "",
-        "title": "qETH",
-        "project": "qETH", 
-        "img": "https://public.liqwid.finance/v5/assets/ETH.svg", 
-        "decimals": 8,
-        "quantity": 0
-      },
-      
-      {
-        "policyId": "85fa65407b5321fa0e2ef9a3ec98e12a00c35871d7a620be3132003c",
-        "nameHex": "",
-        "title": "qEURC",
-        "project": "qEURC", 
-        "img": "https://public.liqwid.finance/v5/assets/EURC.svg", 
-        "decimals": 6,
-        "quantity": 0
-      },
-      {
-        "policyId": "3883e3e6a24e092d4c14e757fa8ef5c887853060def087d6cf5603f5",
-        "nameHex": "",
-        "title": "qLQ",
-        "project": "qLQ", 
-        "img": "https://public.liqwid.finance/v5/assets/LQ.svg", 
-        "decimals": 6,
-        "quantity": 0
-      },
-      {
-        "policyId": "a4430a085f45bca6399bec6bd7514eb8c2fce1ed75c7554739cfc32b",
-        "nameHex": "",
-        "title": "qMIN",
-        "project": "qMIN", 
-        "img": "https://public.liqwid.finance/v5/assets/MIN.svg", 
-        "decimals": 6,
-        "quantity": 0
-      },
-      {
-        "policyId": "b8a327951d579d3537ea175078256bdf9f9899b5387b099d0b58f066",
-        "nameHex": "",
-        "title": "qPYUSD",
-        "project": "qPYUSD", 
-        "img": "https://public.liqwid.finance/v5/assets/PYUSD.svg", 
-        "decimals": 6,
-        "quantity": 0
-      },
-      {
-        "policyId": "e1ff3557106fe13042ba0f772af6a2e43903ccfaaf03295048882c93",
-        "nameHex": "",
-        "title": "qSHEN",
-        "project": "qSHEN", 
-        "img": "https://public.liqwid.finance/v5/assets/SHEN.svg", 
-        "decimals": 6,
-        "quantity": 0
-      },
-      {
-        "policyId": "4e8c49d610335d139ad7711e0f50315006e29b5221da531e365b4ef8",
-        "title": "qSNEK",
-        "project": "qSNEK", 
-        "img": "https://public.liqwid.finance/v5/assets/SNEK.svg", 
-        "decimals": 6,
-        "quantity": 0
-      },
-      {
-        "policyId": "aa280c98c5b07fdfc8d7a93fb5ba84510b421388e4a18e16efa8eb5f",
-        "nameHex": "",
-        "title": "qUSDA",
-        "project": "qUSDA", 
-        "img": "https://public.liqwid.finance/v5/assets/USDA.svg", 
-        "decimals": 6,
-        "quantity": 0
-      },
-      {
-        "policyId": "aebcb6eaba17dea962008a9d693e39a3160b02b5b89b1c83e537c599",
-        "nameHex": "",
-        "title": "qUSDC",
-        "project": "qUSDC", 
-        "img": "https://public.liqwid.finance/v5/assets/USDC.svg", 
-        "decimals": 6,
-        "quantity": 0
-      },
-      {
-        "policyId": "7a4d45e6b4e6835c4cea3968f291fab3704949cfd2f2dc1997c4eeec",
-        "nameHex": "",
-        "title": "qUSDT",
-        "project": "qUSDT", 
-        "img": "https://public.liqwid.finance/v5/assets/USDT.svg", 
-        "decimals": 6,
-        "quantity": 0
-      },
-      {
-        "policyId": "9e00df0615de0a7b121a7f961d43e23165b8e81b64786c6eb708d370",
-        "nameHex": "",
-        "title": "qUSDM",
-        "project": "qUSDM", 
-        "img": "https://public.liqwid.finance/v5/assets/USDM.svg", 
-        "decimals": 6,
-        "quantity": 0
-      }
-
+   {
+      "policyId": "6df63e2fdde8b2c3b3396265b0cc824aa4fb999396b1c154280f6b0c",
+      "nameHex": "",
+      "title": "qDJED",
+      "project": "qDJED",
+      "img": "https://public.liqwid.finance/v5/assets/DJED.svg",
+      "decimals": 6,
+      "quantity": 0
+   },
+   {
+      "policyId": "b122b2fc62557df9c3fd0b5c62a4b2c970a0d711560e0a8dd7b264f3",
+      "nameHex": "",
+      "title": "qERG",
+      "project": "qERG",
+      "img": "https://public.liqwid.finance/v5/assets/ERG.svg",
+      "decimals": 9,
+      "quantity": 0
+   },
+   {
+      "policyId": "5f42994532b04f9f5bd4141c69364c5b7d33c85036146ee321799702",
+      "nameHex": "",
+      "title": "qETH",
+      "project": "qETH",
+      "img": "https://public.liqwid.finance/v5/assets/ETH.svg",
+      "decimals": 8,
+      "quantity": 0
+   },
+   {
+      "policyId": "85fa65407b5321fa0e2ef9a3ec98e12a00c35871d7a620be3132003c",
+      "nameHex": "",
+      "title": "qEURC",
+      "project": "qEURC",
+      "img": "https://public.liqwid.finance/v5/assets/EURC.svg",
+      "decimals": 6,
+      "quantity": 0
+   },
+   {
+      "policyId": "3883e3e6a24e092d4c14e757fa8ef5c887853060def087d6cf5603f5",
+      "nameHex": "",
+      "title": "qLQ",
+      "project": "qLQ",
+      "img": "https://public.liqwid.finance/v5/assets/LQ.svg",
+      "decimals": 6,
+      "quantity": 0
+   },
+   {
+      "policyId": "a4430a085f45bca6399bec6bd7514eb8c2fce1ed75c7554739cfc32b",
+      "nameHex": "",
+      "title": "qMIN",
+      "project": "qMIN",
+      "img": "https://public.liqwid.finance/v5/assets/MIN.svg",
+      "decimals": 6,
+      "quantity": 0
+   },
+   {
+      "policyId": "b8a327951d579d3537ea175078256bdf9f9899b5387b099d0b58f066",
+      "nameHex": "",
+      "title": "qPYUSD",
+      "project": "qPYUSD",
+      "img": "https://public.liqwid.finance/v5/assets/PYUSD.svg",
+      "decimals": 6,
+      "quantity": 0
+   },
+   {
+      "policyId": "e1ff3557106fe13042ba0f772af6a2e43903ccfaaf03295048882c93",
+      "nameHex": "",
+      "title": "qSHEN",
+      "project": "qSHEN",
+      "img": "https://public.liqwid.finance/v5/assets/SHEN.svg",
+      "decimals": 6,
+      "quantity": 0
+   },
+   {
+      "policyId": "4e8c49d610335d139ad7711e0f50315006e29b5221da531e365b4ef8",
+      "title": "qSNEK",
+      "project": "qSNEK",
+      "img": "https://public.liqwid.finance/v5/assets/SNEK.svg",
+      "decimals": 6,
+      "quantity": 0
+   },
+   {
+      "policyId": "aa280c98c5b07fdfc8d7a93fb5ba84510b421388e4a18e16efa8eb5f",
+      "nameHex": "",
+      "title": "qUSDA",
+      "project": "qUSDA",
+      "img": "https://public.liqwid.finance/v5/assets/USDA.svg",
+      "decimals": 6,
+      "quantity": 0
+   },
+   {
+      "policyId": "aebcb6eaba17dea962008a9d693e39a3160b02b5b89b1c83e537c599",
+      "nameHex": "",
+      "title": "qUSDC",
+      "project": "qUSDC",
+      "img": "https://public.liqwid.finance/v5/assets/USDC.svg",
+      "decimals": 6,
+      "quantity": 0
+   },
+   {
+      "policyId": "7a4d45e6b4e6835c4cea3968f291fab3704949cfd2f2dc1997c4eeec",
+      "nameHex": "",
+      "title": "qUSDT",
+      "project": "qUSDT",
+      "img": "https://public.liqwid.finance/v5/assets/USDT.svg",
+      "decimals": 6,
+      "quantity": 0
+   },
+   {
+      "policyId": "9e00df0615de0a7b121a7f961d43e23165b8e81b64786c6eb708d370",
+      "nameHex": "",
+      "title": "qUSDM",
+      "project": "qUSDM",
+      "img": "https://public.liqwid.finance/v5/assets/USDM.svg",
+      "decimals": 6,
+      "quantity": 0
+   }
 ]

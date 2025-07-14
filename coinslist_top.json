@@ -19,7 +19,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/wmtx.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "DeFi",
+      "Category": "DePIN",
       "Website": "https://worldmobiletoken.com",
       "Twitter": "https://x.com/wmtoken"
    },
@@ -31,7 +31,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/iag.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "Other",
+      "Category": "DePIN",
       "Website": "https://www.iagon.com/",
       "Twitter": "https://x.com/IagonOfficial"
    },
@@ -43,7 +43,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/lq.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "DeFi",
+      "Category": "Lending",
       "Website": "https://liqwid.finance",
       "Twitter": "https://x.com/liqwidfinance"
    },
@@ -55,7 +55,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/strike.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "DeFi",
+      "Category": "Derivatives",
       "Website": "https://www.strikefinance.org/",
       "Twitter": "https://x.com/strikecardano"
    },
@@ -67,7 +67,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/minswap.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "DeFi",
+      "Category": "DEX",
       "Website": "https://minswap.org",
       "Twitter": "https://x.com/MinswapDEX"
    },
@@ -79,7 +79,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/indy.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "DeFi",
+      "Category": "Synthetics",
       "Website": "https://indigoprotocol.io",
       "Twitter": "https://x.com/Indigo_protocol"
    },
@@ -91,7 +91,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/shen.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "defi",
+      "Category": "Reserve Coin",
       "Website": "https://djed.xyz/",
       "Twitter": "https://x.com/COTInetwork"
    },
@@ -103,7 +103,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/copi.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "Metaverse",
+      "Category": "Gaming",
       "Website": "https://www.cornucopias.io/",
       "Twitter": "https://x.com/CornucopiasGame"
    },
@@ -138,7 +138,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/nvl.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "Depin",
+      "Category": "DePIN",
       "Website": "https://www.nuvoladigital.io/",
       "Twitter": "https://x.com/NuvolaDigital"
    },
@@ -161,7 +161,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/stuff.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "UTILITY",
+      "Category": "Utility",
       "Website": "https://stuff.io",
       "Twitter": "https://x.com/book_io"
    },
@@ -173,7 +173,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/bodega.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "Gambling",
+      "Category": "Prediction Market",
       "Website": "https://www.bodegacardano.org/",
       "Twitter": "https://x.com/BodegaCardano"
    },
@@ -185,7 +185,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/flow.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "Defi",
+      "Category": "Lending",
       "Website": "https://flowcardano.org",
       "Twitter": "https://x.com/flowdefi"
    },
@@ -208,7 +208,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/fldt.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "RealFi",
+      "Category": "Lending",
       "Website": "https://fluidtokens.com/",
       "Twitter": "https://x.com/FluidTokens"
    },

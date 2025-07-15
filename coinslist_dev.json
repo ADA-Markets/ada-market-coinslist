@@ -583,7 +583,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/dgaf.png",
       "decimals": 0,
       "quantity": 0,
-      "Category": "DeFi, Meme",
+      "Category": "Meme",
       "Website": "https://dgafcoin.io/",
       "Twitter": "https://x.com/dgafcoin"
    },
@@ -655,7 +655,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/dumb.png",
       "decimals": 0,
       "quantity": 0,
-      "Category": "DeFi, Meme",
+      "Category": "Meme",
       "Website": "https://dumbcoinada.wtf/",
       "Twitter": "https://x.com/dumbcoinada"
    },
@@ -785,7 +785,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/froggie.png",
       "decimals": 0,
       "quantity": 0,
-      "Category": "Meme, NFT",
+      "Category": "Meme",
       "Website": "https://froggies.vercel.app/",
       "Twitter": "https://x.com/Froggieo_"
    },
@@ -833,7 +833,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/gokey.png",
       "decimals": 0,
       "quantity": 0,
-      "Category": "DeFi, RealFi, NFT",
+      "Category": "RealFi",
       "Website": "https://www.gokey.finance",
       "Twitter": "https://x.com/GoKeyFinance"
    },
@@ -1037,7 +1037,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/konda.png",
       "decimals": 0,
       "quantity": 0,
-      "Category": "Meme, NFT",
+      "Category": "Meme",
       "Website": "https://adakondacoin.com/",
       "Twitter": "https://x.com/AdaKondaCoin"
    },
@@ -1395,7 +1395,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/pbx.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "DeFi, NFT",
+      "Category": "DeFi",
       "Website": "https://paribus.io",
       "Twitter": "https://x.com/paribus_io"
    },
@@ -1471,18 +1471,6 @@
       "Twitter": "https://x.com/rakermarket"
    },
    {
-      "policyId": "d5dec6074942b36b50975294fd801f7f28c907476b1ecc1b57c916ed",
-      "nameHex": "524154",
-      "title": "RAT",
-      "project": "Rats DAO",
-      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/rat.png",
-      "decimals": 6,
-      "quantity": 0,
-      "Category": "NFT, DAO",
-      "Website": "https://ratsdao.io/",
-      "Twitter": "https://x.com/ratsdao"
-   },
-   {
       "policyId": "3b31e746a68c5bef72c0fb9f2185e6b1fad0ea2faaccfeeb275afe91",
       "nameHex": "5245414348",
       "title": "REACH",
@@ -1502,7 +1490,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/revu.png",
       "decimals": 8,
       "quantity": 0,
-      "Category": "DeFi, RealFi, Wallet",
+      "Category": "DeFi",
       "Website": "https://crypto.revuto.com/",
       "Twitter": "https://x.com/get_revuto"
    },
@@ -1668,7 +1656,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/snepe.png",
       "decimals": 0,
       "quantity": 0,
-      "Category": "Defi, Meme",
+      "Category": "Meme",
       "Website": "https://www.snepe.tools/",
       "Twitter": "https://x.com/hazryder"
    },
@@ -1764,7 +1752,7 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/tang.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "DeFi, RealFi, NFT",
+      "Category": "DeFi",
       "Website": "https://tangent.art/",
       "Twitter": "https://x.com/TangentADA"
    },
@@ -2730,15 +2718,6 @@
       "project": "LevvyWifHat",
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/lwh.png",
       "decimals": 0,
-      "quantity": 0
-   },
-   {
-      "policyId": "d5dec6074942b36b50975294fd801f7f28c907476b1ecc1b57c916ed",
-      "nameHex": "524154",
-      "title": "RAT",
-      "project": "RAT",
-      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/rat.png",
-      "decimals": 6,
       "quantity": 0
    },
    {

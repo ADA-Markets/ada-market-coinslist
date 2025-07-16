@@ -2117,6 +2117,32 @@
       "Website": "https://farmroll.io/",
       "Twitter": "https://x.com/farmroll_io"
    },
+
+   {
+      "policyId": "a967738feca0f92afa0f781f2db4ec318ee6f06cb515fecf988fabfb",
+      "nameHex": "0014df105355504552494f52",
+      "title": "SUPERIOR",
+      "project": "SUPERIOR",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/superior.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme",
+      "Website": "https://adasuperior.com/",
+      "Twitter": "https://x.com/SuperiorCardano"
+   },
+
+   {
+      "policyId": "8362297102ad0c346636454a85784f27eb16a7f269a9f5bed881b19e",
+      "nameHex": "50657065616e6f",
+      "title": "Ano",
+      "project": "PepeAno",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/pepeano.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme",
+      "Twitter": "https://x.com/PepeAno42069"
+   },
+
    {
       "policyId": "fe7c786ab321f41c654ef6c1af7b3250a613c24e4213e0425a7ae456",
       "nameHex": "55534441",

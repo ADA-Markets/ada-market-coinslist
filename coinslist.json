@@ -105,16 +105,16 @@
       "Twitter": "https://x.com/singularity_net"
    },
    {
-      "policyId": "285b65ae63d4fad36321384ec61edfd5187b8194fff89b5abe9876da",
-      "nameHex": "414e47454c53",
+      "policyId": "8fe8039d057c71fdfb1095e260f153f18a5834d85d9c868ddf7307bc",
+      "nameHex": "0014df10414e47454c53",
       "title": "ANGELS",
       "project": "Angels",
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/angels.png",
       "decimals": 6,
       "quantity": 0,
       "Category": "Yield",
-      "Website": "https://singularitynet.io/",
-      "Twitter": "https://ccardano.gitbook.io/angel-paper/"
+      "Website": "https://angelfinance.io/",
+      "Twitter": "https://x.com/angelcoinada"
    },
    {
       "policyId": "2b28c81dbba6d67e4b5a997c6be1212cba9d60d33f82444ab8b1f218",

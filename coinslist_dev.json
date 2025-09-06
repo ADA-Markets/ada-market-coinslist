@@ -2105,6 +2105,19 @@
       "Category": "RWA",
       "Twitter": "https://x.com/palmeconomy"
    },
+
+   {
+      "policyId": "ac597ca62a32cab3f4766c8f9cd577e50ebb1d00383ec7fa3990b016",
+      "nameHex": "435241574a55",
+      "title": "CRAWJU",
+      "project": "CRAWJU",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/crawju.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme",
+      "Twitter": "https://x.com/crawju"
+   },
+
    {
       "policyId": "97bbb7db0baef89caefce61b8107ac74c7a7340166b39d906f174bec",
       "nameHex": "54616c6f73",

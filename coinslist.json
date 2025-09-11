@@ -3444,14 +3444,14 @@
    {
       "policyId": "2d9db8a89f074aa045eab177f23a3395f62ced8b53499a9e4ad46c80",
       "nameHex": "464c4f57",
-      "title": "FLOW",
-      "project": "FLOW",
-      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/flow.png",
+      "title": "SURF",
+      "project": "SURF",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/surf.png",
       "decimals": 6,
       "quantity": 0,
       "Category": "Lending",
-      "Website": "https://flowcardano.org",
-      "Twitter": "https://x.com/flowdefi"
+      "Website": "https://surflending.org",
+      "Twitter": "https://x.com/surfcardano"
    },
    {
       "policyId": "6df63e2fdde8b2c3b3396265b0cc824aa4fb999396b1c154280f6b0c",

@@ -3552,6 +3552,19 @@
       "decimals": 6,
       "quantity": 0
    },
+
+      {
+      "policyId": "e992ef75f2367e6ecd93716ae88eba0d005dd91fd3a21f650b6496b5",
+      "nameHex": "5355524745",
+      "title": "SURGE",
+      "project": "SURGE",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/surge.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "DeFi",
+      "Website": "https://surgecardano.com",
+      "Twitter": "https://x.com/SurgeCardano"
+   },
    {
       "policyId": "aebcb6eaba17dea962008a9d693e39a3160b02b5b89b1c83e537c599",
       "nameHex": "",

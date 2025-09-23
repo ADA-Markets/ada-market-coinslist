@@ -1743,6 +1743,20 @@
       "Website": "https://apexfusion.org/",
       "Twitter": "https://x.com/apexfusion"
    },
+
+   {
+      "policyId": "e992ef75f2367e6ecd93716ae88eba0d005dd91fd3a21f650b6496b5",
+      "nameHex": "5355524745",
+      "title": "SURGE",
+      "project": "SURGE",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/surge.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "DeFi",
+      "Website": "https://surgecardano.com",
+      "Twitter": "https://x.com/SurgeCardano"
+   },
+
    {
       "policyId": "9a9693a9a37912a5097918f97918d15240c92ab729a0b7c4aa144d77",
       "nameHex": "53554e444145",

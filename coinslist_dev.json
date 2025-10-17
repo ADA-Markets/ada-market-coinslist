@@ -1743,6 +1743,33 @@
       "Website": "https://apexfusion.org/",
       "Twitter": "https://x.com/apexfusion"
    },
+
+      {
+      "policyId": "fcf3707eff37f79c02c8c976b3047daf161ead2fce4a999a5deeeb18",
+      "nameHex": "426f6b20436869636b",
+      "title": "BOK",
+      "project": "Bok Chick",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/bok.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Mem",
+      "Website": "https://bokchick.com/",
+      "Twitter": "https://x.com/bokoncardano"
+   },
+
+   {
+      "policyId": "e992ef75f2367e6ecd93716ae88eba0d005dd91fd3a21f650b6496b5",
+      "nameHex": "5355524745",
+      "title": "SURGE",
+      "project": "SURGE",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/surge.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "DeFi",
+      "Website": "https://surgecardano.com",
+      "Twitter": "https://x.com/SurgeCardano"
+   },
+
    {
       "policyId": "9a9693a9a37912a5097918f97918d15240c92ab729a0b7c4aa144d77",
       "nameHex": "53554e444145",
@@ -3551,19 +3578,6 @@
       "img": "https://public.liqwid.finance/v5/assets/USDA.svg",
       "decimals": 6,
       "quantity": 0
-   },
-
-      {
-      "policyId": "e992ef75f2367e6ecd93716ae88eba0d005dd91fd3a21f650b6496b5",
-      "nameHex": "5355524745",
-      "title": "SURGE",
-      "project": "SURGE",
-      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/surge.png",
-      "decimals": 6,
-      "quantity": 0,
-      "Category": "DeFi",
-      "Website": "https://surgecardano.com",
-      "Twitter": "https://x.com/SurgeCardano"
    },
    {
       "policyId": "aebcb6eaba17dea962008a9d693e39a3160b02b5b89b1c83e537c599",

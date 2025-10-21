@@ -32,6 +32,20 @@
       "Category": "Meme",
       "Website": "https://stuff.io/"
    },
+
+   {
+      "policyId": "a1ce0414d79b040f986f3bcd187a7563fd26662390dece6b12262b52",
+      "nameHex": "464c45534820544f4b454e",
+      "title": "FLEsH",
+      "project": "FLESH TOKEN",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/flesh.png",
+      "decimals": 1,
+      "quantity": 0,
+      "Category": "Meme",
+      "Twitter": "https://x.com/CadaverPotClub",
+      "Website": "https://cadaverpot.club/"
+   },
+
    {
       "policyId": "ececc92aeaaac1f5b665f567b01baec8bc2771804b4c21716a87a4e3",
       "nameHex": "53504c415348",
@@ -116,20 +130,6 @@
       "Website": "https://angelfinance.io/",
       "Twitter": "https://x.com/angelcoinada"
    },
-
-      {
-      "policyId": "a1ce0414d79b040f986f3bcd187a7563fd26662390dece6b12262b52",
-      "nameHex": "464c45534820544f4b454e",
-      "title": "FLEsH",
-      "project": "FLESH TOKEN",
-      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/flesh.png",
-      "decimals": 1,
-      "quantity": 0,
-      "Category": "Meme",
-      "Twitter": "https://x.com/CadaverPotClub",
-      "Website": "https://cadaverpot.club/"
-   },
-
    {
       "policyId": "2b28c81dbba6d67e4b5a997c6be1212cba9d60d33f82444ab8b1f218",
       "nameHex": "42414e4b",
@@ -529,6 +529,20 @@
       "Website": "https://tosidrop.io/",
       "Twitter": "https://x.com/TosiDrop"
    },
+
+   {
+      "policyId": "1127d22df8f6896c5d226fca9a6e898c73c1d88200268f1f4ae58108",
+      "nameHex": "44455250",
+      "title": "DERP",
+      "project": "DERP",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/derp.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "Other",
+      "Website": "https://derpbirds.io",
+      "Twitter": "https://x.com/TheDerpBirds"
+   },
+
    {
       "policyId": "9f452e23804df3040b352b478039357b506ad3b50d2ce0d7cbd5f806",
       "nameHex": "435456",

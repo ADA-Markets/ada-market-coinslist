@@ -529,6 +529,20 @@
       "Website": "https://tosidrop.io/",
       "Twitter": "https://x.com/TosiDrop"
    },
+
+   {
+      "policyId": "1127d22df8f6896c5d226fca9a6e898c73c1d88200268f1f4ae58108",
+      "nameHex": "44455250",
+      "title": "DERP",
+      "project": "DERP",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/derp.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "Other",
+      "Website": "https://derpbirds.io",
+      "Twitter": "https://x.com/TheDerpBirds"
+   },
+
    {
       "policyId": "9f452e23804df3040b352b478039357b506ad3b50d2ce0d7cbd5f806",
       "nameHex": "435456",

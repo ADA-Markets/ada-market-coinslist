@@ -32,6 +32,20 @@
       "Category": "Meme",
       "Website": "https://stuff.io/"
    },
+
+   {
+      "policyId": "a1ce0414d79b040f986f3bcd187a7563fd26662390dece6b12262b52",
+      "nameHex": "464c45534820544f4b454e",
+      "title": "FLEsH",
+      "project": "FLESH TOKEN",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/flesh.png",
+      "decimals": 1,
+      "quantity": 0,
+      "Category": "Meme",
+      "Twitter": "https://x.com/CadaverPotClub",
+      "Website": "https://cadaverpot.club/"
+   },
+
    {
       "policyId": "ececc92aeaaac1f5b665f567b01baec8bc2771804b4c21716a87a4e3",
       "nameHex": "53504c415348",

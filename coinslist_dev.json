@@ -472,6 +472,20 @@
       "Website": "https://x.com/copeonada",
       "Twitter": "https://x.com/copeonada"
    },
+
+   {
+      "policyId": "31bdb2d8ed6e2623e121b6db134a1491f4252b9ea87d928eb5290026",
+      "nameHex": "496e66696e69747920526973696e67",
+      "title": "RISE",
+      "project": "Infinity Rising",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/rise.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "Gaming",
+      "Website": "https://www.infinityrising.com/",
+      "Twitter": "https://x.com/infinityrisingx"
+   },
+
    {
       "policyId": "b6a7467ea1deb012808ef4e87b5ff371e85f7142d7b356a40d9b42a0",
       "nameHex": "436f726e75636f70696173205b76696120436861696e506f72742e696f5d",

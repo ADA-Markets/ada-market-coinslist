@@ -461,6 +461,19 @@
       "Twitter": "https://x.com/CoinectaFinance"
    },
    {
+      "policyId": "0691b2fecca1ac4f53cb6dfb00b7013e561d1f34403b957cbb5af1fa",
+      "nameHex": "4e49474854",
+      "title": "NIGHT",
+      "project": "NIGHT",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/night.png",
+      "decimals": 6,
+      "quantity": 0,
+      "Category": "Meme",
+      "Website": "https://midnight.network/",
+      "Twitter": "https://x.com/MidnightNtwrk"
+   },
+
+      {
       "policyId": "0b3518ac0f78ced3de283dce6c997228cff2b07c283a16530efd700f",
       "nameHex": "434f5045",
       "title": "COPE",

@@ -468,9 +468,21 @@
       "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/night.png",
       "decimals": 6,
       "quantity": 0,
-      "Category": "Meme",
+      "Category": "Privacy",
       "Website": "https://midnight.network/",
       "Twitter": "https://x.com/MidnightNtwrk"
+   },
+
+      {
+      "policyId": "9248e3f6e7c365162a0a658fb5d8d389707a9e24f00c7bff8fb5ceae",
+      "nameHex": "4c554e41",
+      "title": "LUNA",
+      "project": "LUNA",
+      "img": "https://cdn.jsdelivr.net/gh/ADA-Markets/token-icons/icons/night.png",
+      "decimals": 0,
+      "quantity": 0,
+      "Category": "Meme",
+      "Twitter": "https://x.com/LunaOnCardano"
    },
 
       {
